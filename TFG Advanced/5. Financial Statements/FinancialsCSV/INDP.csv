@@ -1,0 +1,104 @@
+,https://roic.ai/company/INDP,2020,2021
+0,INCOME STATEMENT, , 
+1,Revenue,- -,- -
+2,COGS,- -,- -
+3,Gross Profit,- -,- -
+4,Gross Profit Ratio,- -,- -
+5,Research and Development Exp.,2655017,2523153
+6,General and Administrative Exp.,944248,5205955
+7,Selling and Marketing Exp.,- -,- -
+8,"Selling, General and Administrative Exp.",944248,5205955
+9,Other Expenses,- -,- -
+10,Operating Expenses,3599265,7729108
+11,COGS and Expenses,3599265,7729108
+12,Interest Income ,15114,17722
+13,Interest Expense (Gain),- -,- -
+14,Depreciation and Amortization,852,1403
+15,EBITDA,-3598413,-7727705
+16,EBITDA ratio,-Infinity,-Infinity
+17,Operating Income,-3599265,-7729108
+18,Operating Income ratio,-Infinity,-Infinity
+19,Total Other Income Expenses (Gains),15114,17722
+20,Income Before Tax,-3584151,-7711386
+21,Income Before Tax Ratio,-Infinity,-Infinity
+22,Income Tax expense (Gain),- -,- -
+23,Net Income,-3584151,-7711386
+24,Net Income ratio,-Infinity,-Infinity
+25,EPS,-0.66,-1.89
+26,EPS Diluted,-0.66,-1.89
+27,Weighted Average Shares Outstanding,5405963,4090599
+28,Weighted Average Shares Outstanding Diluted,5405963,4090599
+29,SEC Link,- -,https://www.sec.gov/Archives/edgar/data/1857044/000149315222007319/0001493152-22-007319-index.htm
+30,BALANCE SHEET, , 
+31,Cash and Cash Equivalents,1637499,39132165
+32,Short-Term Investments,- -,- -
+33,Cash and Short-Term Investments,1637499,39132165
+34,Net Receivables,- -,21056
+35,Inventory,- -,- -
+36,Other Current Assets,94500,1233997
+37,Total Current Assets,1731999,40387218
+38,PP&E,1349,172888
+39,Goodwill,- -,- -
+40,Intangible Assets,- -,- -
+41,Intangible Assets,- -,- -
+42,Investments,- -,- -
+43,Tax Assets,- -,- -
+44,Other Non-Current Assets,44445,16477
+45,Total Non-Current Assets,45794,189365
+46,Other Assets,- -,- -
+47,Total Assets,1777793,40576583
+48,Accounts Payable,155957,2637806
+49,Short-Term Debt,- -,96465
+50,Tax Payable,- -,- -
+51,Deferred Revenue,- -,- -
+52,Other Current Liabilities,1859537,1869870
+53,Total Current Liabilities,2015494,4604141
+54,Long-Term Debt,- -,72862
+55,Deferred Revenue,- -,- -
+56,Deferred Tax Liabilities,- -,- -
+57,Other Non-Current Liabilities,- -,- -
+58,Total Non-Current Liabilities,- -,72862
+59,Other Liabilities,- -,- -
+60,Capital Lease Obligations,- -,169327
+61,Total Liabilities,2015494,4677003
+62,Preferred Stock,8359,- -
+63,Common Stock,19447,82586
+64,Retained Earnings,-7959501,-15670887
+65,Other Comprehensive Income/Loss,- -,- -
+66,Other Total Stockholders Equity,7693994,51487881
+67,Total Stockholders Equity,-237701,35899580
+68,Total Liabilities And Stockholders Equity,1777793,40576583
+69,Minority Interest,- -,- -
+70,Total Liabilities & Equity,1777793,40576583
+71,SEC Link,- -,https://www.sec.gov/Archives/edgar/data/1857044/000149315222007319/0001493152-22-007319-index.htm
+72,CASH FLOW STATEMENT, , 
+73,Net Income,-3584151,-7711386
+74,Depreciation and Amortization,852,1403
+75,Deferred Income Tax,- -,- -
+76,Stock Based Compensation,139960,1510258
+77,Change in Working Capital,118711,-5090810
+78,Accounts Receivable,- -,- -
+79,Inventory,- -,- -
+80,Accounts Payable,113900,-4236656
+81,Other Working Capital,- -,240
+82,Other Non-Cash Items,- -,- -
+83,Cash Provided by Operating Activities,-3324628,-11290535
+84,CAPEX,- -,-3854
+85,Acquisitions Net,- -,- -
+86,Purchases of Investments,- -,- -
+87,Sales/Maturities of Investments,- -,- -
+88,Other Investing Activites,- -,451600
+89,Cash Used for Investing Activites,- -,447746
+90,Debt Repayment,- -,- -
+91,Common Stock Issued,1163172,5000000
+92,Common Stock Repurchased,- -,- -
+93,Dividends Paid,- -,- -
+94,Other Financing Activites,- -,43337455
+95,Cash Used/Provided by Financing Activities,1163172,48337455
+96,Effect of Forex Changes on Cash,- -,- -
+97,Net Change In Cash,-2161456,37494666
+98,Cash at the End of Period,1637499,39132165
+99,Cash at the Beginning of Period,3798955,1637499
+100,Free Cash Flow,-3324628,-11294389
+101,SEC Link,- -,https://www.sec.gov/Archives/edgar/data/1857044/000149315222007319/0001493152-22-007319-index.htm
+102,false,,

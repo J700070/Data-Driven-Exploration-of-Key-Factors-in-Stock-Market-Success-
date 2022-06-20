@@ -1,0 +1,104 @@
+,https://roic.ai/company/MITO,2016,2017,2018,2019,2020
+0,INCOME STATEMENT, , , , , 
+1,Revenue,- -,- -,- -,21087000,- -
+2,COGS,- -,- -,- -,- -,- -
+3,Gross Profit,- -,- -,- -,- -,- -
+4,Gross Profit Ratio,- -,- -,- -,- -,- -
+5,Research and Development Exp.,48445173,63219537,53062374,44604000,29305000
+6,General and Administrative Exp.,13403332,16500875,22216704,22315000,19366000
+7,Selling and Marketing Exp.,- -,- -,- -,- -,- -
+8,"Selling, General and Administrative Exp.",13403332,16500875,22216704,22315000,19366000
+9,Other Expenses,- -,- -,- -,- -,- -
+10,Operating Expenses,61848505,79720412,75279078,66919000,48671000
+11,COGS and Expenses,61848505,79720412,75279078,66919000,48671000
+12,Interest Income ,799023,56843,195087,988000,139000
+13,Interest Expense (Gain),- -,3281715,21357196,6666000,1808000
+14,Depreciation and Amortization,312537,346872,309041,284000,232000
+15,EBITDA,-60736945,-79316697,-74774950,-64778000,-48300000
+16,EBITDA ratio,-Infinity,-Infinity,-Infinity,-3.0719,-Infinity
+17,Operating Income,-61848505,-79720412,-75279078,-45832000,-48671000
+18,Operating Income ratio,-Infinity,-Infinity,-Infinity,-2.1735,-Infinity
+19,Total Other Income Expenses (Gains),799023,-3189415,-21433409,-25896000,-8786000
+20,Income Before Tax,-61049482,-82909827,-96712487,-71728000,-57457000
+21,Income Before Tax Ratio,-Infinity,-Infinity,-Infinity,-3.4015,-Infinity
+22,Income Tax expense (Gain),- -,- -,- -,- -,- -
+23,Net Income,-61049482,-82909827,-96712487,-71728000,-57457000
+24,Net Income ratio,-Infinity,-Infinity,-Infinity,-3.4015,-Infinity
+25,EPS,-2.99,-5.04,-2.93,-2.28,-1.20
+26,EPS Diluted,-2.99,-5.04,-2.93,-2.28,-1.20
+27,Weighted Average Shares Outstanding,20384022,15884202,33018416,31305813,46347438
+28,Weighted Average Shares Outstanding Diluted,20384022,15884202,33018416,31305813,46347438
+29,SEC Link,- -,- -,- -,https://www.sec.gov/Archives/edgar/data/1696396/000156459020014804/0001564590-20-014804-index.html,- -
+30,BALANCE SHEET, , , , , 
+31,Cash and Cash Equivalents,9709732,4118804,10855167,50768000,32787000
+32,Short-Term Investments,- -,- -,- -,- -,- -
+33,Cash and Short-Term Investments,9709732,4118804,10855167,50768000,32787000
+34,Net Receivables,- -,- -,- -,- -,- -
+35,Inventory,- -,- -,- -,- -,- -
+36,Other Current Assets,1728393,1801203,2438152,1630000,2253000
+37,Total Current Assets,11438125,5920007,13293319,52398000,35040000
+38,PP&E,999530,795940,498551,345000,106000
+39,Goodwill,- -,- -,- -,- -,- -
+40,Intangible Assets,- -,- -,- -,- -,- -
+41,Intangible Assets,- -,- -,- -,- -,- -
+42,Investments,- -,- -,- -,- -,- -
+43,Tax Assets,- -,- -,- -,- -,- -
+44,Other Non-Current Assets,884598,438982,1730833,- -,702000
+45,Total Non-Current Assets,1884128,1234922,2229384,345000,808000
+46,Other Assets,- -,- -,- -,- -,- -
+47,Total Assets,13322253,7154929,15522703,52743000,35848000
+48,Accounts Payable,2909247,7454569,11022616,9520000,3526000
+49,Short-Term Debt,- -,- -,8464609,14716000,- -
+50,Tax Payable,- -,- -,- -,- -,- -
+51,Deferred Revenue,- -,- -,- -,- -,- -
+52,Other Current Liabilities,8866732,17140000,21123396,9714000,17523000
+53,Total Current Liabilities,11775979,24594569,40610621,33950000,21049000
+54,Long-Term Debt,- -,61956867,113574426,1526000,- -
+55,Deferred Revenue,- -,- -,- -,- -,- -
+56,Deferred Tax Liabilities,- -,- -,- -,- -,- -
+57,Other Non-Current Liabilities,211376929,211889547,248044383,- -,25171000
+58,Total Non-Current Liabilities,211376929,273846414,361618809,1526000,25171000
+59,Other Liabilities,- -,- -,- -,- -,- -
+60,Capital Lease Obligations,- -,- -,- -,- -,- -
+61,Total Liabilities,223152908,298440983,402229430,35476000,46220000
+62,Preferred Stock,- -,- -,- -,- -,- -
+63,Common Stock,20538,20542,20546,131000,191000
+64,Retained Earnings,-246646943,-329556770,-426269257,-497997000,-555454000
+65,Other Comprehensive Income/Loss,-720810,-1028821,-1337862,-1622000,-462000
+66,Other Total Stockholders Equity,37516560,39278995,40879846,516755000,545353000
+67,Total Stockholders Equity,-209830655,-291286054,-386706727,17267000,-10372000
+68,Total Liabilities And Stockholders Equity,13322253,7154929,15522703,52743000,35848000
+69,Minority Interest,- -,- -,- -,- -,- -
+70,Total Liabilities & Equity,13322253,7154929,15522703,52743000,35848000
+71,SEC Link,- -,- -,- -,https://www.sec.gov/Archives/edgar/data/1696396/000156459020014804/0001564590-20-014804-index.html,- -
+72,CASH FLOW STATEMENT, , , , , 
+73,Net Income,-61049482,-82909827,-96712487,-71728000,-57457000
+74,Depreciation and Amortization,312537,346872,309041,284000,232000
+75,Deferred Income Tax,- -,- -,- -,- -,- -
+76,Stock Based Compensation,1832991,1286970,1276614,3244000,4224000
+77,Change in Working Capital,4884021,8125800,3428823,-4739000,-8289000
+78,Accounts Receivable,- -,- -,- -,- -,- -
+79,Inventory,- -,- -,- -,- -,- -
+80,Accounts Payable,767838,4545322,3568047,-1503000,-6140000
+81,Other Working Capital,- -,- -,- -,- -,- -
+82,Other Non-Cash Items,- -,3314553,19619743,24955000,7751000
+83,Cash Provided by Operating Activities,-54019933,-69835632,-72078266,-47984000,-53539000
+84,CAPEX,-287883,-160952,-11652,-130000,-35000
+85,Acquisitions Net,- -,- -,- -,- -,- -
+86,Purchases of Investments,- -,- -,- -,- -,- -
+87,Sales/Maturities of Investments,- -,- -,- -,- -,- -
+88,Other Investing Activites,105362,-12036,- -,- -,-25000
+89,Cash Used for Investing Activites,-182521,-172988,-11652,-130000,-60000
+90,Debt Repayment,- -,- -,-686547,-2805000,-7482000
+91,Common Stock Issued,- -,- -,- -,88018000,23437000
+92,Common Stock Repurchased,- -,- -,- -,- -,- -
+93,Dividends Paid,- -,- -,- -,- -,- -
+94,Other Financing Activites,50291752,64417692,79512828,2814000,19663000
+95,Cash Used/Provided by Financing Activities,50291752,64417692,78826281,88027000,35618000
+96,Effect of Forex Changes on Cash,- -,- -,- -,- -,- -
+97,Net Change In Cash,-3910702,-5590928,6736363,39913000,-17981000
+98,Cash at the End of Period,9709732,4118804,10855167,50768000,32787000
+99,Cash at the Beginning of Period,13620434,9709732,4118804,10855000,50768000
+100,Free Cash Flow,-54307816,-69996584,-72089918,-48114000,-53574000
+101,SEC Link,- -,- -,- -,https://www.sec.gov/Archives/edgar/data/1696396/000156459020014804/0001564590-20-014804-index.html,- -
+102,false,,,,,

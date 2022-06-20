@@ -1,0 +1,104 @@
+,https://roic.ai/company/PETZ,2015,2016,2017,2018,2019,2020
+0,INCOME STATEMENT, , , , , , 
+1,Revenue,16312274,24443736,28979511,23674037,12648255,815225
+2,COGS,12289773,17368249,20682498,27726833,14171135,857060
+3,Gross Profit,4022501,7075487,8297013,-4052796,-1522880,-41835
+4,Gross Profit Ratio,0.2466,0.2895,0.2863,-0.1712,-0.1204,-0.0513
+5,Research and Development Exp.,593962,1076568,1051665,1062582,- -,- -
+6,General and Administrative Exp.,931107,1407787,2095676,2792858,3702035,1766109
+7,Selling and Marketing Exp.,1820700,3439843,4882367,4535945,920237,117993
+8,"Selling, General and Administrative Exp.",2751807,4847630,6978043,7328803,4622272,1884102
+9,Other Expenses,-22116,- -,-414,-81882,-129255,-8651
+10,Operating Expenses,3323653,5924198,8029294,8309503,4493017,1875451
+11,COGS and Expenses,15613426,23292447,28711792,36036336,18664152,2732511
+12,Interest Income ,- -,- -,- -,- -,- -,- -
+13,Interest Expense (Gain),117366,102274,82946,233101,1378755,1180489
+14,Depreciation and Amortization,266534,256104,364170,395355,571528,391351
+15,EBITDA,1120234,1457350,507125,-13590769,-6675136,696272
+16,EBITDA ratio,0.0687,0.0596,0.0175,-0.5741,-0.5278,0.8541
+17,Operating Income,676732,1151289,267305,-14043772,-6958496,-1925937
+18,Operating Income ratio,0.0415,0.0471,0.0092,-0.5932,-0.5502,-2.3625
+19,Total Other Income Expenses (Gains),59602,-52317,-207296,-175493,-1666931,1050369
+20,Income Before Tax,736334,1098972,60009,-14219265,-8625427,-875568
+21,Income Before Tax Ratio,0.0451,0.0450,0.0021,-0.6006,-0.6819,-1.0740
+22,Income Tax expense (Gain),269581,89801,-55102,- -,- -,-900
+23,Net Income,466753,1009171,115111,-14219225,-8625419,-874668
+24,Net Income ratio,0.0286,0.0413,0.0040,-0.6006,-0.6819,-1.0729
+25,EPS,0.05,0.11,0.01,-1.49,-0.41,-0.02
+26,EPS Diluted,0.05,0.11,0.01,-1.49,-0.41,-0.02
+27,Weighted Average Shares Outstanding,9225000,9225000,8303853,9558493,21022598,45849995
+28,Weighted Average Shares Outstanding Diluted,9225000,9225000,8303853,9558493,21022598,45849995
+29,SEC Link,- -,- -,https://www.sec.gov/Archives/edgar/data/1684425/000121390018005203/f20f2017_tdhholdingsinc.htm,https://www.sec.gov/Archives/edgar/data/1684425/000121390019008805/f20f2018_tdhholdingsinc.htm,- -,- -
+30,BALANCE SHEET, , , , , , 
+31,Cash and Cash Equivalents,651680,1145103,2346109,893020,5114175,6566549
+32,Short-Term Investments,- -,- -,- -,- -,- -,3138578
+33,Cash and Short-Term Investments,651680,1145103,2346109,893020,5114175,9705127
+34,Net Receivables,1882164,901334,2294885,1324867,21657,168499
+35,Inventory,2994949,5973124,9135332,3019804,473216,247245
+36,Other Current Assets,1118470,1802802,1803018,2565371,1583842,396084
+37,Total Current Assets,6647263,9822363,15579344,7803062,7192890,10516955
+38,PP&E,3470598,3306735,- -,- -,- -,6926950
+39,Goodwill,- -,- -,- -,- -,- -,- -
+40,Intangible Assets,121758,110821,- -,1014538,973224,1009005
+41,Intangible Assets,121758,110821,- -,1014538,973224,1009005
+42,Investments,- -,- -,- -,201281,71757,- -
+43,Tax Assets,- -,- -,- -,- -,- -,- -
+44,Other Non-Current Assets,- -,- -,4231396,8410525,6849339,- -
+45,Total Non-Current Assets,3592356,3417556,4231396,9626344,7894320,7935955
+46,Other Assets,- -,- -,- -,- -,- -,- -
+47,Total Assets,10239619,13239919,19810740,17429406,15087210,18452910
+48,Accounts Payable,2525573,3262375,4886408,6345501,3553773,3334478
+49,Short-Term Debt,- -,- -,2779620,11855115,9502899,- -
+50,Tax Payable,- -,- -,- -,- -,- -,- -
+51,Deferred Revenue,332781,802339,238750,160828,116155,90834
+52,Other Current Liabilities,4703863,4922453,751870,782134,1289073,15645584
+53,Total Current Liabilities,7562217,8987167,8656648,19143578,14461900,19070896
+54,Long-Term Debt,- -,- -,- -,217466,- -,- -
+55,Deferred Revenue,- -,- -,- -,- -,- -,- -
+56,Deferred Tax Liabilities,- -,- -,5810,4929,1036,- -
+57,Other Non-Current Liabilities,- -,- -,- -,- -,286875,274794
+58,Total Non-Current Liabilities,- -,- -,5810,222395,287911,274794
+59,Other Liabilities,- -,- -,- -,- -,- -,- -
+60,Capital Lease Obligations,- -,- -,- -,- -,424222,479938
+61,Total Liabilities,7562217,8987167,8662458,19365973,14749811,19345690
+62,Preferred Stock,- -,- -,- -,- -,- -,- -
+63,Common Stock,7900,7900,9424,10517,45850,45850
+64,Retained Earnings,-180717,727807,823474,-13349232,-21974651,-22849319
+65,Other Comprehensive Income/Loss,-876727,-1061660,-1465727,-1749361,-2665692,-2324799
+66,Other Total Stockholders Equity,3726946,4578705,11781111,13151856,24931900,24235488
+67,Total Stockholders Equity,2677402,4252752,11148282,-1936220,337407,-892780
+68,Total Liabilities And Stockholders Equity,10239619,13239919,19810740,17429753,15087218,18452910
+69,Minority Interest,- -,- -,- -,-347,-8,- -
+70,Total Liabilities & Equity,10239619,13239919,19810740,17429406,15087210,18452910
+71,SEC Link,- -,- -,https://www.sec.gov/Archives/edgar/data/1684425/000121390018005203/f20f2017_tdhholdingsinc.htm,https://www.sec.gov/Archives/edgar/data/1684425/000121390019008805/f20f2018_tdhholdingsinc.htm,- -,- -
+72,CASH FLOW STATEMENT, , , , , , 
+73,Net Income,466753,1009171,115111,-14219225,-8625419,-874668
+74,Depreciation and Amortization,266534,256104,364170,395355,571528,391351
+75,Deferred Income Tax,15513,-127,-8581,-591,-3861,-1106
+76,Stock Based Compensation,- -,- -,- -,- -,- -,- -
+77,Change in Working Capital,-1456948,-2754266,-3165620,8365136,-90052,-141449
+78,Accounts Receivable,336193,-609099,-982648,524057,635343,-112177
+79,Inventory,-2136489,-3316762,-2658359,4203927,2009862,201730
+80,Accounts Payable,-482510,1321954,1206803,1890005,-2782059,-416506
+81,Other Working Capital,-60627,513456,-721889,-67651,-42923,-31366
+82,Other Non-Cash Items,7410,- -,19984,3285583,2521186,-2002383
+83,Cash Provided by Operating Activities,-700738,-1489118,-2674936,-2173742,-5626618,-2628255
+84,CAPEX,-231939,-9002,-331496,-6481643,-121560,-47086
+85,Acquisitions Net,- -,- -,- -,19888,83,- -
+86,Purchases of Investments,- -,- -,- -,-235605,- -,-38743908
+87,Sales/Maturities of Investments,- -,- -,- -,- -,- -,42146183
+88,Other Investing Activites,-77722,953190,-1057213,102902,235029,- -
+89,Cash Used for Investing Activites,-309661,944188,-1388709,-6594458,113552,3355189
+90,Debt Repayment,-2713203,-1806411,-2494793,-1568546,-3154124,-746437
+91,Common Stock Issued,10,3759423,5542047,- -,6760000,- -
+92,Common Stock Repurchased,- -,- -,- -,- -,- -,- -
+93,Dividends Paid,- -,- -,- -,- -,- -,- -
+94,Other Financing Activites,4214519,-881248,2211519,9296666,5914840,157079
+95,Cash Used/Provided by Financing Activities,1501326,1071764,5258773,7728120,9520716,-589358
+96,Effect of Forex Changes on Cash,-29581,-33411,5878,96808,-203577,106910
+97,Net Change In Cash,461346,493423,1201006,-943272,3804073,244486
+98,Cash at the End of Period,651680,1145103,2346109,2700505,6504578,6749064
+99,Cash at the Beginning of Period,190334,651680,1145103,3643777,2700505,6504578
+100,Free Cash Flow,-932677,-1498120,-3006432,-8655385,-5748178,-2675341
+101,SEC Link,- -,- -,https://www.sec.gov/Archives/edgar/data/1684425/000121390018005203/f20f2017_tdhholdingsinc.htm,https://www.sec.gov/Archives/edgar/data/1684425/000121390019008805/f20f2018_tdhholdingsinc.htm,- -,- -
+102,false,,,,,,

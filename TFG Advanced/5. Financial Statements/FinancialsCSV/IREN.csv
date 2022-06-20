@@ -1,0 +1,104 @@
+,https://roic.ai/company/IREN,2020,2021
+0,INCOME STATEMENT, , 
+1,Revenue,3260000,10432000
+2,COGS,1961000,3541000
+3,Gross Profit,1299000,6891000
+4,Gross Profit Ratio,0.3985,0.6606
+5,Research and Development Exp.,- -,- -
+6,General and Administrative Exp.,2406000,5302000
+7,Selling and Marketing Exp.,- -,- -
+8,"Selling, General and Administrative Exp.",2406000,5302000
+9,Other Expenses,1137000,1452000
+10,Operating Expenses,3543000,6754000
+11,COGS and Expenses,5504000,10295000
+12,Interest Income ,4000,8000
+13,Interest Expense (Gain),155000,19300000
+14,Depreciation and Amortization,1137000,1677000
+15,EBITDA,-1869000,-57903000
+16,EBITDA ratio,-0.5733,-5.5505
+17,Operating Income,-2244000,137000
+18,Operating Income ratio,-0.6883,0.0131
+19,Total Other Income Expenses (Gains),-917000,-79017000
+20,Income Before Tax,-3161000,-78880000
+21,Income Before Tax Ratio,-0.9696,-7.5613
+22,Income Tax expense (Gain),- -,1653000
+23,Net Income,-3161000,-80533000
+24,Net Income ratio,-0.9696,-7.7198
+25,EPS,-0.06,-0.03
+26,EPS Diluted,-0.06,-0.03
+27,Weighted Average Shares Outstanding,52540742,52540742
+28,Weighted Average Shares Outstanding Diluted,52540742,52540742
+29,SEC Link,- -,- -
+30,BALANCE SHEET, , 
+31,Cash and Cash Equivalents,2849000,52015000
+32,Short-Term Investments,- -,- -
+33,Cash and Short-Term Investments,2849000,52015000
+34,Net Receivables,482000,1059000
+35,Inventory,- -,- -
+36,Other Current Assets,410000,864000
+37,Total Current Assets,3741000,53938000
+38,PP&E,12207000,23155000
+39,Goodwill,828000,880000
+40,Intangible Assets,- -,- -
+41,Intangible Assets,828000,880000
+42,Investments,- -,- -
+43,Tax Assets,- -,1217000
+44,Other Non-Current Assets,- -,100331000
+45,Total Non-Current Assets,13035000,125583000
+46,Other Assets,- -,- -
+47,Total Assets,16776000,179521000
+48,Accounts Payable,462000,728000
+49,Short-Term Debt,2859000,96033000
+50,Tax Payable,- -,711000
+51,Deferred Revenue,- -,- -
+52,Other Current Liabilities,693000,130646000
+53,Total Current Liabilities,4014000,227407000
+54,Long-Term Debt,- -,15812000
+55,Deferred Revenue,- -,- -
+56,Deferred Tax Liabilities,- -,2159000
+57,Other Non-Current Liabilities,- -,- -
+58,Total Non-Current Liabilities,- -,17971000
+59,Other Liabilities,- -,- -
+60,Capital Lease Obligations,- -,1348000
+61,Total Liabilities,4014000,245378000
+62,Preferred Stock,- -,- -
+63,Common Stock,16057000,16057000
+64,Retained Earnings,-3314000,-83847000
+65,Other Comprehensive Income/Loss,19000,1933000
+66,Other Total Stockholders Equity,- -,- -
+67,Total Stockholders Equity,12762000,-65857000
+68,Total Liabilities And Stockholders Equity,16776000,179521000
+69,Minority Interest,- -,- -
+70,Total Liabilities & Equity,16776000,179521000
+71,SEC Link,- -,- -
+72,CASH FLOW STATEMENT, , 
+73,Net Income,-3161000,-80533000
+74,Depreciation and Amortization,1137000,1677000
+75,Deferred Income Tax,- -,- -
+76,Stock Based Compensation,- -,- -
+77,Change in Working Capital,- -,- -
+78,Accounts Receivable,- -,- -
+79,Inventory,- -,- -
+80,Accounts Payable,- -,- -
+81,Other Working Capital,- -,- -
+82,Other Non-Cash Items,2024000,78856000
+83,Cash Provided by Operating Activities,- -,- -
+84,CAPEX,-6467000,-108105000
+85,Acquisitions Net,- -,- -
+86,Purchases of Investments,- -,- -
+87,Sales/Maturities of Investments,- -,- -
+88,Other Investing Activites,-237000,-311000
+89,Cash Used for Investing Activites,-6704000,-108416000
+90,Debt Repayment,- -,-3102000
+91,Common Stock Issued,4168000,- -
+92,Common Stock Repurchased,- -,- -
+93,Dividends Paid,- -,- -
+94,Other Financing Activites,6738000,158255000
+95,Cash Used/Provided by Financing Activities,10906000,155153000
+96,Effect of Forex Changes on Cash,-31000,241000
+97,Net Change In Cash,2728000,49166000
+98,Cash at the End of Period,2849000,52015000
+99,Cash at the Beginning of Period,121000,2849000
+100,Free Cash Flow,-7910000,-105917000
+101,SEC Link,- -,- -
+102,Forex Rate,0.6902,0.7498

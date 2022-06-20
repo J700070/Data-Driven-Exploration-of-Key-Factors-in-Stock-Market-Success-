@@ -1,0 +1,104 @@
+,https://roic.ai/company/MTC,2016,2017,2018,2019,2020
+0,INCOME STATEMENT, , , , , 
+1,Revenue,- -,- -,26882,200797,742125
+2,COGS,514465,702989,16308,90890,7405
+3,Gross Profit,-514465,-702989,10574,109907,734720
+4,Gross Profit Ratio,-Infinity,-Infinity,0.3933,0.5474,0.9900
+5,Research and Development Exp.,- -,- -,- -,- -,- -
+6,General and Administrative Exp.,666028,918600,2167098,2660933,3674708
+7,Selling and Marketing Exp.,- -,- -,171016,389750,244163
+8,"Selling, General and Administrative Exp.",666028,918600,2338114,3050683,3918871
+9,Other Expenses,-514465,-702989,- -,-724795,- -
+10,Operating Expenses,151563,215611,2338114,2325888,3918871
+11,COGS and Expenses,666028,918600,2354422,2416778,3926276
+12,Interest Income ,1812,957,483,37370,30478
+13,Interest Expense (Gain),- -,- -,12,- -,- -
+14,Depreciation and Amortization,14010,20969,27311,25839,54576
+15,EBITDA,-652018,-897631,-2321679,-2217395,-3127020
+16,EBITDA ratio,-Infinity,-Infinity,-86.3656,-11.0430,-4.2136
+17,Operating Income,-666028,-918600,-2327540,-2940776,-3184151
+18,Operating Income ratio,-Infinity,-Infinity,-86.5836,-14.6455,-4.2906
+19,Total Other Income Expenses (Gains),4823,-598,-21462,697542,2555
+20,Income Before Tax,-661205,-919198,-2349002,-2243234,-3181596
+21,Income Before Tax Ratio,-Infinity,-Infinity,-87.3820,-11.1717,-4.2871
+22,Income Tax expense (Gain),- -,- -,- -,- -,- -
+23,Net Income,-661205,-919198,-2349002,-2243234,-3181596
+24,Net Income ratio,-Infinity,-Infinity,-87.3820,-11.1717,-4.2871
+25,EPS,-0.03,-0.05,-0.12,-0.11,-0.16
+26,EPS Diluted,-0.03,-0.05,-0.12,-0.11,-0.16
+27,Weighted Average Shares Outstanding,19800000,19800000,19800000,20013288,20385574
+28,Weighted Average Shares Outstanding Diluted,19800000,19800000,19800000,20013288,20385574
+29,SEC Link,- -,- -,- -,https://www.sec.gov/Archives/edgar/data/1742518/000121390020013351/f20f2019_mmtecinc.htm,- -
+30,BALANCE SHEET, , , , , 
+31,Cash and Cash Equivalents,719367,237561,93625,3642521,1425926
+32,Short-Term Investments,- -,- -,- -,- -,- -
+33,Cash and Short-Term Investments,719367,237561,93625,3642521,1425926
+34,Net Receivables,384220,51,- -,295813,167402
+35,Inventory,- -,- -,- -,- -,- -
+36,Other Current Assets,61839,113666,236835,409376,659813
+37,Total Current Assets,1165426,351278,330460,4347710,2253141
+38,PP&E,49595,37553,- -,- -,765491
+39,Goodwill,- -,- -,- -,- -,- -
+40,Intangible Assets,- -,- -,- -,- -,- -
+41,Intangible Assets,- -,- -,- -,- -,- -
+42,Investments,- -,- -,- -,143346,578749
+43,Tax Assets,- -,- -,- -,- -,- -
+44,Other Non-Current Assets,1442,37875,32428,1717489,112891
+45,Total Non-Current Assets,51037,75428,32428,1860835,1457131
+46,Other Assets,- -,- -,- -,- -,- -
+47,Total Assets,1216463,426706,362888,6208545,3710272
+48,Accounts Payable,- -,- -,- -,- -,- -
+49,Short-Term Debt,- -,- -,- -,- -,- -
+50,Tax Payable,- -,- -,- -,- -,- -
+51,Deferred Revenue,- -,- -,79182,63246,- -
+52,Other Current Liabilities,81081,102271,727991,742253,658029
+53,Total Current Liabilities,81081,102271,807173,805499,658029
+54,Long-Term Debt,- -,- -,- -,- -,41250
+55,Deferred Revenue,- -,- -,- -,- -,- -
+56,Deferred Tax Liabilities,- -,- -,- -,- -,- -
+57,Other Non-Current Liabilities,- -,- -,- -,648334,315190
+58,Total Non-Current Liabilities,- -,- -,- -,648334,356440
+59,Other Liabilities,- -,- -,- -,- -,- -
+60,Capital Lease Obligations,- -,- -,- -,987664,745542
+61,Total Liabilities,81081,102271,807173,1453833,1014469
+62,Preferred Stock,- -,- -,- -,- -,- -
+63,Common Stock,54000,54000,54000,56070,20820
+64,Retained Earnings,-863869,-1783067,-4132069,-6375303,-9556899
+65,Other Comprehensive Income/Loss,-13660,-36169,-57845,-82250,-142567
+66,Other Total Stockholders Equity,1958911,2089671,3691629,11156195,12374449
+67,Total Stockholders Equity,1135382,324435,-444285,4754712,2695803
+68,Total Liabilities And Stockholders Equity,1216463,426706,362888,6208545,3710272
+69,Minority Interest,- -,- -,- -,- -,- -
+70,Total Liabilities & Equity,1216463,426706,362888,6208545,3710272
+71,SEC Link,- -,- -,- -,https://www.sec.gov/Archives/edgar/data/1742518/000121390020013351/f20f2019_mmtecinc.htm,- -
+72,CASH FLOW STATEMENT, , , , , 
+73,Net Income,-661205,-919198,-2349002,-2243234,-3181596
+74,Depreciation and Amortization,14010,20969,27311,25839,54576
+75,Deferred Income Tax,- -,- -,- -,- -,- -
+76,Stock Based Compensation,- -,- -,- -,- -,1005000
+77,Change in Working Capital,738,-67131,389462,-399329,-280339
+78,Accounts Receivable,- -,- -,- -,59599,-30360
+79,Inventory,- -,- -,- -,- -,- -
+80,Accounts Payable,- -,- -,- -,- -,- -
+81,Other Working Capital,- -,- -,82123,-14819,-63966
+82,Other Non-Cash Items,12544,4126,61876,477568,419512
+83,Cash Provided by Operating Activities,-633913,-961234,-1870353,-2139156,-1982847
+84,CAPEX,-47160,-6356,-23863,-129800,-18379
+85,Acquisitions Net,- -,- -,-42450,-197256,- -
+86,Purchases of Investments,- -,- -,- -,-144959,-873577
+87,Sales/Maturities of Investments,- -,- -,- -,- -,306518
+88,Other Investing Activites,-398206,391747,- -,-253461,253494
+89,Cash Used for Investing Activites,-445366,385391,-66313,-725476,-331944
+90,Debt Repayment,- -,- -,- -,- -,- -
+91,Common Stock Issued,- -,- -,- -,6851401,- -
+92,Common Stock Repurchased,- -,- -,- -,- -,- -
+93,Dividends Paid,- -,- -,- -,- -,- -
+94,Other Financing Activites,1820153,66649,1848894,-413185,37250
+95,Cash Used/Provided by Financing Activities,1820153,66649,1848894,6438216,37250
+96,Effect of Forex Changes on Cash,-32153,27388,-56164,-24688,60946
+97,Net Change In Cash,708721,-481806,-143936,3548896,-2216595
+98,Cash at the End of Period,719367,237561,93625,3642521,1425926
+99,Cash at the Beginning of Period,10646,719367,237561,93625,3642521
+100,Free Cash Flow,-681073,-967590,-1894216,-2268956,-2001226
+101,SEC Link,- -,- -,- -,https://www.sec.gov/Archives/edgar/data/1742518/000121390020013351/f20f2019_mmtecinc.htm,- -
+102,false,,,,,

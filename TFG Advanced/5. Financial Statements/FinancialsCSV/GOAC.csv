@@ -1,0 +1,104 @@
+,https://roic.ai/company/GOAC,2020,2021
+0,INCOME STATEMENT, , 
+1,Revenue,- -,- -
+2,COGS,- -,- -
+3,Gross Profit,- -,- -
+4,Gross Profit Ratio,- -,- -
+5,Research and Development Exp.,- -,- -
+6,General and Administrative Exp.,207590,3060095
+7,Selling and Marketing Exp.,- -,- -
+8,"Selling, General and Administrative Exp.",207590,3060095
+9,Other Expenses,- -,- -
+10,Operating Expenses,207590,3060095
+11,COGS and Expenses,- -,- -
+12,Interest Income ,- -,- -
+13,Interest Expense (Gain),- -,- -
+14,Depreciation and Amortization,- -,- -
+15,EBITDA,- -,-3266313
+16,EBITDA ratio,- -,-Infinity
+17,Operating Income,-317777,-3266313
+18,Operating Income ratio,-Infinity,-Infinity
+19,Total Other Income Expenses (Gains),253315,24142176
+20,Income Before Tax,-64462,20875863
+21,Income Before Tax Ratio,-Infinity,Infinity
+22,Income Tax expense (Gain),30057,- -
+23,Net Income,-94519,20875863
+24,Net Income ratio,-Infinity,Infinity
+25,EPS,-0.00,0.32
+26,EPS Diluted,-0.00,0.32
+27,Weighted Average Shares Outstanding,65738636,65738636
+28,Weighted Average Shares Outstanding Diluted,65738636,65738636
+29,SEC Link,https://www.sec.gov/Archives/edgar/data/1816176/000121390021029125/0001213900-21-029125-index.htm,https://www.sec.gov/Archives/edgar/data/1816176/000121390022016203/0001213900-22-016203-index.htm
+30,BALANCE SHEET, , 
+31,Cash and Cash Equivalents,1274139,96883
+32,Short-Term Investments,575253315,- -
+33,Cash and Short-Term Investments,576527454,96883
+34,Net Receivables,- -,- -
+35,Inventory,- -,- -
+36,Other Current Assets,-575006010,95043
+37,Total Current Assets,1521444,191926
+38,PP&E,- -,- -
+39,Goodwill,- -,- -
+40,Intangible Assets,- -,- -
+41,Intangible Assets,- -,- -
+42,Investments,- -,575429021
+43,Tax Assets,- -,- -
+44,Other Non-Current Assets,575253315,- -
+45,Total Non-Current Assets,575253315,575429021
+46,Other Assets,- -,- -
+47,Total Assets,576774759,575620947
+48,Accounts Payable,4000,381616
+49,Short-Term Debt,200000,- -
+50,Tax Payable,140244,98963
+51,Deferred Revenue,- -,- -
+52,Other Current Liabilities,263364,2022543
+53,Total Current Liabilities,467364,2404159
+54,Long-Term Debt,- -,- -
+55,Deferred Revenue,- -,- -
+56,Deferred Tax Liabilities,- -,- -
+57,Other Non-Current Liabilities,20125000,38715000
+58,Total Non-Current Liabilities,20125000,38715000
+59,Other Liabilities,- -,- -
+60,Capital Lease Obligations,- -,- -
+61,Total Liabilities,20592364,41119159
+62,Preferred Stock,- -,- -
+63,Common Stock,551184066,575001438
+64,Retained Earnings,-94519,-40499650
+65,Other Comprehensive Income/Loss,- -,- -
+66,Other Total Stockholders Equity,5092848,- -
+67,Total Stockholders Equity,556182395,-40498212
+68,Total Liabilities And Stockholders Equity,576774759,620947
+69,Minority Interest,- -,575000000
+70,Total Liabilities & Equity,576774759,575620947
+71,SEC Link,https://www.sec.gov/Archives/edgar/data/1816176/000121390021029125/0001213900-21-029125-index.htm,https://www.sec.gov/Archives/edgar/data/1816176/000121390022016203/0001213900-22-016203-index.htm
+72,CASH FLOW STATEMENT, , 
+73,Net Income,- -,20875863
+74,Depreciation and Amortization,- -,- -
+75,Deferred Income Tax,- -,- -
+76,Stock Based Compensation,- -,- -
+77,Change in Working Capital,- -,- -
+78,Accounts Receivable,- -,- -
+79,Inventory,- -,- -
+80,Accounts Payable,- -,377616
+81,Other Working Capital,- -,-2212233
+82,Other Non-Cash Items,- -,-22568119
+83,Cash Provided by Operating Activities,- -,-1692256
+84,CAPEX,- -,- -
+85,Acquisitions Net,- -,- -
+86,Purchases of Investments,- -,- -
+87,Sales/Maturities of Investments,- -,- -
+88,Other Investing Activites,- -,- -
+89,Cash Used for Investing Activites,- -,- -
+90,Debt Repayment,- -,- -
+91,Common Stock Issued,- -,- -
+92,Common Stock Repurchased,- -,- -
+93,Dividends Paid,- -,- -
+94,Other Financing Activites,- -,515000
+95,Cash Used/Provided by Financing Activities,- -,515000
+96,Effect of Forex Changes on Cash,- -,- -
+97,Net Change In Cash,- -,-1177256
+98,Cash at the End of Period,- -,96883
+99,Cash at the Beginning of Period,- -,- -
+100,Free Cash Flow,- -,-1692256
+101,SEC Link,undefined,https://www.sec.gov/Archives/edgar/data/1816176/000121390022016203/0001213900-22-016203-index.htm
+102,false,,

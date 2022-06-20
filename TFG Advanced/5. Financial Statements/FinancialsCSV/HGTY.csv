@@ -1,0 +1,104 @@
+,https://roic.ai/company/HGTY,2017,2018,2019,2020
+0,INCOME STATEMENT, , , , 
+1,Revenue,- -,301699465,397273590,499548201
+2,COGS,- -,- -,- -,- -
+3,Gross Profit,- -,- -,- -,- -
+4,Gross Profit Ratio,- -,- -,- -,- -
+5,Research and Development Exp.,- -,- -,- -,- -
+6,General and Administrative Exp.,- -,127905985,153318929,188696043
+7,Selling and Marketing Exp.,- -,70015159,84188663,86207238
+8,"Selling, General and Administrative Exp.",- -,197921144,237507592,274903281
+9,Other Expenses,- -,95166000,148917890,208798871
+10,Operating Expenses,- -,293087144,386425482,483702152
+11,COGS and Expenses,- -,293087144,386425482,483702152
+12,Interest Income ,- -,- -,- -,- -
+13,Interest Expense (Gain),- -,- -,- -,- -
+14,Depreciation and Amortization,- -,7754938,8950435,11799691
+15,EBITDA,- -,16350546,20406496,26786218
+16,EBITDA ratio,- -,0.0542,0.0514,0.0536
+17,Operating Income,- -,8612321,10848108,15846049
+18,Operating Income ratio,- -,0.0285,0.0273,0.0317
+19,Total Other Income Expenses (Gains),- -,-16713,607953,-986481
+20,Income Before Tax,- -,8595608,11456061,14859568
+21,Income Before Tax Ratio,- -,0.0285,0.0288,0.0297
+22,Income Tax expense (Gain),- -,121810,7250191,4820451
+23,Net Income,- -,8473798,4205870,10166076
+24,Net Income ratio,- -,0.0281,0.0106,0.0204
+25,EPS,- -,0.03,0.01,0.03
+26,EPS Diluted,- -,0.03,0.01,0.03
+27,Weighted Average Shares Outstanding,- -,333360983,333360983,333360983
+28,Weighted Average Shares Outstanding Diluted,- -,333360983,333360983,333360983
+29,SEC Link,undefined,- -,- -,- -
+30,BALANCE SHEET, , , , 
+31,Cash and Cash Equivalents,- -,- -,21808279,38107922
+32,Short-Term Investments,- -,- -,- -,- -
+33,Cash and Short-Term Investments,- -,- -,21808279,38107922
+34,Net Receivables,- -,- -,108823959,141052540
+35,Inventory,- -,- -,- -,- -
+36,Other Current Assets,- -,- -,257502902,334198130
+37,Total Current Assets,- -,- -,388135140,513358592
+38,PP&E,- -,- -,16226168,25822140
+39,Goodwill,- -,- -,3801357,4745357
+40,Intangible Assets,- -,- -,17303595,46616982
+41,Intangible Assets,- -,- -,21104952,51362339
+42,Investments,- -,- -,- -,- -
+43,Tax Assets,- -,- -,- -,- -
+44,Other Non-Current Assets,- -,- -,17811311,20166955
+45,Total Non-Current Assets,- -,- -,55142431,97351434
+46,Other Assets,- -,- -,- -,- -
+47,Total Assets,- -,- -,443277571,610710026
+48,Accounts Payable,- -,- -,6950392,11544583
+49,Short-Term Debt,- -,- -,- -,- -
+50,Tax Payable,- -,- -,- -,- -
+51,Deferred Revenue,- -,- -,116069143,144249508
+52,Other Current Liabilities,- -,- -,172316107,228958361
+53,Total Current Liabilities,- -,- -,295335642,384752452
+54,Long-Term Debt,- -,- -,26100000,69000000
+55,Deferred Revenue,- -,- -,- -,19666667
+56,Deferred Tax Liabilities,- -,- -,- -,- -
+57,Other Non-Current Liabilities,- -,- -,11381212,19970166
+58,Total Non-Current Liabilities,- -,- -,37481212,108636833
+59,Other Liabilities,- -,- -,- -,- -
+60,Capital Lease Obligations,- -,- -,- -,- -
+61,Total Liabilities,- -,- -,332816854,493389285
+62,Preferred Stock,- -,- -,- -,- -
+63,Common Stock,- -,- -,112985419,119151495
+64,Retained Earnings,- -,- -,- -,- -
+65,Other Comprehensive Income/Loss,- -,- -,-2524702,-1953795
+66,Other Total Stockholders Equity,- -,- -,- -,- -
+67,Total Stockholders Equity,- -,- -,110460717,117197700
+68,Total Liabilities And Stockholders Equity,- -,- -,443277571,610586985
+69,Minority Interest,- -,- -,- -,123041
+70,Total Liabilities & Equity,- -,- -,443277571,610710026
+71,SEC Link,undefined,undefined,- -,- -
+72,CASH FLOW STATEMENT, , , , 
+73,Net Income,- -,8473798,4205870,10166076
+74,Depreciation and Amortization,- -,7754938,8950435,11799691
+75,Deferred Income Tax,- -,- -,5923741,1478135
+76,Stock Based Compensation,- -,- -,- -,- -
+77,Change in Working Capital,- -,29791868,68318049,35806642
+78,Accounts Receivable,- -,-5123460,-9890838,-14499673
+79,Inventory,- -,- -,- -,- -
+80,Accounts Payable,- -,-299773,479020,4596632
+81,Other Working Capital,- -,24481449,92799498,128606140
+82,Other Non-Cash Items,- -,125110,-37306674,25323275
+83,Cash Provided by Operating Activities,- -,46145714,50091421,84573819
+84,CAPEX,- -,-7890086,-9404491,-38257682
+85,Acquisitions Net,- -,- -,-11245481,-8875482
+86,Purchases of Investments,- -,- -,- -,- -
+87,Sales/Maturities of Investments,- -,- -,- -,- -
+88,Other Investing Activites,- -,-503088,-406206,-255768
+89,Cash Used for Investing Activites,- -,-8393174,-21056178,-47388932
+90,Debt Repayment,- -,-150000,-74800000,-29100000
+91,Common Stock Issued,- -,- -,89091428,- -
+92,Common Stock Repurchased,- -,- -,- -,- -
+93,Dividends Paid,- -,- -,- -,-4000000
+94,Other Financing Activites,- -,12385000,25800000,73047625
+95,Cash Used/Provided by Financing Activities,- -,12235000,40091428,39947625
+96,Effect of Forex Changes on Cash,- -,-515805,224879,884922
+97,Net Change In Cash,- -,49471735,69351550,78017434
+98,Cash at the End of Period,- -,151709299,221060849,299078283
+99,Cash at the Beginning of Period,- -,102237564,151709299,221060849
+100,Free Cash Flow,- -,38255628,40686930,46316137
+101,SEC Link,undefined,- -,- -,- -
+102,false,,,,

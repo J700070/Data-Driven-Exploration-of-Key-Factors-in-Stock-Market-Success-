@@ -1,0 +1,104 @@
+,https://roic.ai/company/VSBC,2017,2018,2019,2020,2021
+0,INCOME STATEMENT, , , , , 
+1,Revenue,- -,16230,17180,15140,248200
+2,COGS,- -,4890,3460,13450,136000
+3,Gross Profit,- -,11340,13720,1690,112200
+4,Gross Profit Ratio,- -,0.6987,0.7986,0.1116,0.4521
+5,Research and Development Exp.,- -,- -,- -,- -,- -
+6,General and Administrative Exp.,50,17340,35660,20730,536112
+7,Selling and Marketing Exp.,- -,- -,- -,- -,- -
+8,"Selling, General and Administrative Exp.",50,17340,35660,20730,536112
+9,Other Expenses,-5,374,454,451,800
+10,Operating Expenses,45,17714,36114,21181,536912
+11,COGS and Expenses,50,22600,39580,17250,672912
+12,Interest Income ,- -,- -,- -,- -,- -
+13,Interest Expense (Gain),- -,- -,- -,- -,- -
+14,Depreciation and Amortization,- -,380,450,450,- -
+15,EBITDA,-50,-5990,-21950,7370,-425382
+16,EBITDA ratio,-Infinity,-0.3691,-1.2776,0.4868,-1.7139
+17,Operating Income,-45,-6374,-22396,-19486,-425382
+18,Operating Income ratio,-Infinity,-0.3927,-1.3036,-1.2871,-1.7139
+19,Total Other Income Expenses (Gains),-5,4,-4,26406,- -
+20,Income Before Tax,-50,-6370,-22400,6920,-425382
+21,Income Before Tax Ratio,-Infinity,-0.3925,-1.3038,0.4571,-1.7139
+22,Income Tax expense (Gain),- -,- -,- -,- -,- -
+23,Net Income,-50,-6370,-22400,6920,-425382
+24,Net Income ratio,-Infinity,-0.3925,-1.3038,0.4571,-1.7139
+25,EPS,-0.00,-0.00,-0.00,0.00,-0.00
+26,EPS Diluted,-0.00,-0.00,-0.00,0.00,-0.00
+27,Weighted Average Shares Outstanding,54510030,54510030,54510030,54510030,91090350
+28,Weighted Average Shares Outstanding Diluted,54510030,54510030,54510030,54510030,91090350
+29,SEC Link,- -,https://www.sec.gov/Archives/edgar/data/1697884/000169788418000009/0001697884-18-000009-index.htm,https://www.sec.gov/Archives/edgar/data/1697884/000169788419000005/0001697884-19-000005-index.htm,https://www.sec.gov/Archives/edgar/data/1697884/000169788420000013/vsbcreport10k2020.htm,https://www.sec.gov/Archives/edgar/data/1697884/000169788421000003/0001697884-21-000003-index.htm
+30,BALANCE SHEET, , , , , 
+31,Cash and Cash Equivalents,560,5210,110,- -,45398
+32,Short-Term Investments,- -,- -,- -,- -,- -
+33,Cash and Short-Term Investments,560,5210,110,- -,45398
+34,Net Receivables,- -,- -,- -,- -,- -
+35,Inventory,- -,5810,8490,- -,144000
+36,Other Current Assets,4000,- -,1410,- -,- -
+37,Total Current Assets,4560,11020,10010,- -,189398
+38,PP&E,- -,1870,1420,- -,- -
+39,Goodwill,- -,- -,- -,- -,- -
+40,Intangible Assets,- -,- -,- -,- -,- -
+41,Intangible Assets,- -,- -,- -,- -,- -
+42,Investments,- -,- -,- -,- -,- -
+43,Tax Assets,- -,- -,- -,- -,- -
+44,Other Non-Current Assets,- -,- -,- -,- -,- -
+45,Total Non-Current Assets,- -,1870,1420,- -,- -
+46,Other Assets,- -,- -,- -,- -,- -
+47,Total Assets,4560,12890,11430,- -,189398
+48,Accounts Payable,- -,1410,- -,- -,- -
+49,Short-Term Debt,1600,8100,18350,- -,- -
+50,Tax Payable,- -,- -,- -,- -,- -
+51,Deferred Revenue,- -,- -,- -,- -,- -
+52,Other Current Liabilities,- -,6800,- -,- -,93034
+53,Total Current Liabilities,1600,16310,18350,- -,93034
+54,Long-Term Debt,- -,- -,- -,- -,- -
+55,Deferred Revenue,- -,- -,- -,- -,- -
+56,Deferred Tax Liabilities,- -,- -,- -,- -,- -
+57,Other Non-Current Liabilities,- -,- -,- -,- -,- -
+58,Total Non-Current Liabilities,- -,- -,- -,- -,- -
+59,Other Liabilities,- -,- -,- -,- -,- -
+60,Capital Lease Obligations,- -,- -,- -,- -,- -
+61,Total Liabilities,1600,16310,18350,- -,93034
+62,Preferred Stock,- -,- -,- -,- -,- -
+63,Common Stock,3000,3000,3630,3630,19150
+64,Retained Earnings,-50,-6420,-28820,-21900,-447278
+65,Other Comprehensive Income/Loss,- -,- -,- -,- -,- -
+66,Other Total Stockholders Equity,5,1,18271,- -,524492
+67,Total Stockholders Equity,2955,-3419,-6919,- -,96364
+68,Total Liabilities And Stockholders Equity,4555,12891,11431,- -,189398
+69,Minority Interest,5,-1,-1,- -,- -
+70,Total Liabilities & Equity,4560,12890,11430,- -,189398
+71,SEC Link,- -,https://www.sec.gov/Archives/edgar/data/1697884/000169788418000009/0001697884-18-000009-index.htm,https://www.sec.gov/Archives/edgar/data/1697884/000169788419000005/0001697884-19-000005-index.htm,https://www.sec.gov/Archives/edgar/data/1697884/000169788420000013/vsbcreport10k2020.htm,https://www.sec.gov/Archives/edgar/data/1697884/000169788421000003/0001697884-21-000003-index.htm
+72,CASH FLOW STATEMENT, , , , , 
+73,Net Income,-50,-6370,-22400,6920,-425382
+74,Depreciation and Amortization,- -,380,450,450,- -
+75,Deferred Income Tax,- -,- -,- -,- -,- -
+76,Stock Based Compensation,- -,- -,- -,- -,434218
+77,Change in Working Capital,-4000,-8250,-3050,8340,96364
+78,Accounts Receivable,- -,- -,- -,- -,- -
+79,Inventory,- -,-5810,-2680,8492,-144000
+80,Accounts Payable,- -,1410,-1410,- -,- -
+81,Other Working Capital,2960,-5290,-8340,- -,96364
+82,Other Non-Cash Items,- -,14640,-9250,-15820,-147330
+83,Cash Provided by Operating Activities,-4050,400,-34250,-110,-42130
+84,CAPEX,- -,-2250,- -,- -,- -
+85,Acquisitions Net,- -,- -,- -,- -,- -
+86,Purchases of Investments,- -,- -,- -,- -,- -
+87,Sales/Maturities of Investments,- -,- -,- -,- -,- -
+88,Other Investing Activites,- -,- -,- -,- -,- -
+89,Cash Used for Investing Activites,- -,-2249,- -,- -,- -
+90,Debt Repayment,- -,- -,- -,- -,- -
+91,Common Stock Issued,- -,- -,- -,- -,82342
+92,Common Stock Repurchased,3000,- -,18900,- -,-3498
+93,Dividends Paid,- -,- -,- -,- -,- -
+94,Other Financing Activites,1600,6500,10246,- -,8684
+95,Cash Used/Provided by Financing Activities,4600,6500,29146,- -,87528
+96,Effect of Forex Changes on Cash,- -,- -,- -,- -,- -
+97,Net Change In Cash,560,4650,-5100,-110,87528
+98,Cash at the End of Period,560,5210,110,- -,45398
+99,Cash at the Beginning of Period,- -,560,5210,110,- -
+100,Free Cash Flow,-4050,-1850,-34250,-110,-42130
+101,SEC Link,- -,https://www.sec.gov/Archives/edgar/data/1697884/000169788418000009/0001697884-18-000009-index.htm,https://www.sec.gov/Archives/edgar/data/1697884/000169788419000005/0001697884-19-000005-index.htm,https://www.sec.gov/Archives/edgar/data/1697884/000169788420000013/vsbcreport10k2020.htm,https://www.sec.gov/Archives/edgar/data/1697884/000169788421000003/0001697884-21-000003-index.htm
+102,false,,,,,

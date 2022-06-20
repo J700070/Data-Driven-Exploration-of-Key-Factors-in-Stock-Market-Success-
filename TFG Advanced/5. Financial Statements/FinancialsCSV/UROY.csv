@@ -1,0 +1,104 @@
+,https://roic.ai/company/UROY,2019,2020,2021
+0,INCOME STATEMENT, , , 
+1,Revenue,- -,- -,- -
+2,COGS,- -,- -,- -
+3,Gross Profit,- -,- -,- -
+4,Gross Profit Ratio,- -,- -,- -
+5,Research and Development Exp.,- -,- -,- -
+6,General and Administrative Exp.,1206445,2162265,1474292
+7,Selling and Marketing Exp.,- -,- -,- -
+8,"Selling, General and Administrative Exp.",1206445,2162265,1474292
+9,Other Expenses,134452,108137,- -
+10,Operating Expenses,1340897,2270402,1474292
+11,COGS and Expenses,1340897,2270402,1474292
+12,Interest Income ,- -,158085,55729
+13,Interest Expense (Gain),3679264,1201801,- -
+14,Depreciation and Amortization,- -,- -,- -
+15,EBITDA,-1340897,-2112317,-1418563
+16,EBITDA ratio,-Infinity,-Infinity,-Infinity
+17,Operating Income,-1340897,-2270402,-1474292
+18,Operating Income ratio,-Infinity,-Infinity,-Infinity
+19,Total Other Income Expenses (Gains),-2729028,-559083,-380548
+20,Income Before Tax,-4069925,-2829485,-1854840
+21,Income Before Tax Ratio,-Infinity,-Infinity,-Infinity
+22,Income Tax expense (Gain),-250358,-128127,-478319
+23,Net Income,-3819567,-2701358,-1376521
+24,Net Income ratio,-Infinity,-Infinity,-Infinity
+25,EPS,-0.05,-0.05,-0.02
+26,EPS Diluted,-0.05,-0.05,-0.02
+27,Weighted Average Shares Outstanding,71835238,54319292,72031196
+28,Weighted Average Shares Outstanding Diluted,71835238,54319292,72031196
+29,SEC Link,- -,- -,- -
+30,BALANCE SHEET, , , 
+31,Cash and Cash Equivalents,2230690,11837162,7214482
+32,Short-Term Investments,28508793,30456461,30044870
+33,Cash and Short-Term Investments,30739483,42293623,37259352
+34,Net Receivables,163871,351396,279478
+35,Inventory,- -,- -,12398031
+36,Other Current Assets,- -,752250,669350
+37,Total Current Assets,30903354,43397269,50606211
+38,PP&E,- -,- -,- -
+39,Goodwill,- -,- -,- -
+40,Intangible Assets,- -,- -,- -
+41,Intangible Assets,- -,- -,- -
+42,Investments,13038270,27256357,- -
+43,Tax Assets,- -,- -,- -
+44,Other Non-Current Assets,669400,- -,25577108
+45,Total Non-Current Assets,13707670,27256357,25577108
+46,Other Assets,- -,- -,- -
+47,Total Assets,44611024,70653626,76183319
+48,Accounts Payable,543545,399558,506944
+49,Short-Term Debt,13742443,- -,- -
+50,Tax Payable,- -,- -,- -
+51,Deferred Revenue,- -,- -,- -
+52,Other Current Liabilities,669400,- -,- -
+53,Total Current Liabilities,14955388,399558,506944
+54,Long-Term Debt,- -,- -,40000
+55,Deferred Revenue,- -,- -,- -
+56,Deferred Tax Liabilities,- -,- -,- -
+57,Other Non-Current Liabilities,- -,40000,- -
+58,Total Non-Current Liabilities,- -,40000,40000
+59,Other Liabilities,- -,- -,- -
+60,Capital Lease Obligations,- -,- -,- -
+61,Total Liabilities,14955388,439558,546944
+62,Preferred Stock,- -,- -,- -
+63,Common Stock,30052484,66845949,72985166
+64,Retained Earnings,-4141626,-6842984,-7885993
+65,Other Comprehensive Income/Loss,1720523,3134792,4185051
+66,Other Total Stockholders Equity,2024255,7076311,6352151
+67,Total Stockholders Equity,29655636,70214068,75636375
+68,Total Liabilities And Stockholders Equity,44611024,70653626,76183319
+69,Minority Interest,- -,- -,- -
+70,Total Liabilities & Equity,44611024,70653626,76183319
+71,SEC Link,- -,- -,- -
+72,CASH FLOW STATEMENT, , , 
+73,Net Income,-3819567,-2701358,-1376521
+74,Depreciation and Amortization,- -,- -,- -
+75,Deferred Income Tax,- -,- -,- -
+76,Stock Based Compensation,- -,- -,- -
+77,Change in Working Capital,279356,-378627,-12225035
+78,Accounts Receivable,- -,- -,- -
+79,Inventory,- -,- -,-12398031
+80,Accounts Payable,- -,- -,- -
+81,Other Working Capital,- -,- -,- -
+82,Other Non-Cash Items,2071516,601700,-106566
+83,Cash Provided by Operating Activities,-1468695,-2478285,-13708122
+84,CAPEX,-716393,-3684362,- -
+85,Acquisitions Net,-667500,- -,- -
+86,Purchases of Investments,-25531291,-998583,-726711
+87,Sales/Maturities of Investments,- -,2608400,4681407
+88,Other Investing Activites,667500,-3263629,62037
+89,Cash Used for Investing Activites,-26247684,-5338174,4016733
+90,Debt Repayment,-936919,-13698188,- -
+91,Common Stock Issued,16926651,31950626,5415057
+92,Common Stock Repurchased,- -,- -,- -
+93,Dividends Paid,- -,- -,- -
+94,Other Financing Activites,11903893,-829507,- -
+95,Cash Used/Provided by Financing Activities,27893625,17422931,5415057
+96,Effect of Forex Changes on Cash,- -,- -,-346348
+97,Net Change In Cash,177246,9606472,-4622680
+98,Cash at the End of Period,2230690,11837162,7214482
+99,Cash at the Beginning of Period,2053444,2230690,11837162
+100,Free Cash Flow,-2185088,-6162647,-13708122
+101,SEC Link,- -,- -,- -
+102,Forex Rate,0.747,0.7169,0.8135

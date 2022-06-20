@@ -1,0 +1,104 @@
+,https://roic.ai/company/NEXI,2018,2019,2020,2021
+0,INCOME STATEMENT, , , , 
+1,Revenue,- -,- -,- -,- -
+2,COGS,- -,- -,- -,- -
+3,Gross Profit,- -,- -,- -,- -
+4,Gross Profit Ratio,- -,- -,- -,- -
+5,Research and Development Exp.,7998834,15172027,17839053,- -
+6,General and Administrative Exp.,5243939,5713742,10012380,- -
+7,Selling and Marketing Exp.,- -,- -,- -,- -
+8,"Selling, General and Administrative Exp.",5243939,5713742,10012380,- -
+9,Other Expenses,- -,- -,- -,53255782
+10,Operating Expenses,13242773,20885769,27851433,53255782
+11,COGS and Expenses,13242773,20885769,27851433,- -
+12,Interest Income ,272436,246780,20837,52511
+13,Interest Expense (Gain),- -,- -,1682894,- -
+14,Depreciation and Amortization,204646,436365,618990,870285
+15,EBITDA,-13038127,-20449404,-27232443,- -
+16,EBITDA ratio,-Infinity,-Infinity,-Infinity,- -
+17,Operating Income,-13242773,-20885769,-27851433,-53255782
+18,Operating Income ratio,-Infinity,-Infinity,-Infinity,-Infinity
+19,Total Other Income Expenses (Gains),409224,339058,-2014564,2354274
+20,Income Before Tax,-12833549,-20546711,-29865997,-50901508
+21,Income Before Tax Ratio,-Infinity,-Infinity,-Infinity,-Infinity
+22,Income Tax expense (Gain),- -,- -,- -,- -
+23,Net Income,-12833549,-20546711,-29865997,- -
+24,Net Income ratio,-Infinity,-Infinity,-Infinity,- -
+25,EPS,-1.53,-2.10,-1.68,-2.25
+26,EPS Diluted,-1.53,-2.10,-1.68,-2.25
+27,Weighted Average Shares Outstanding,9769689,9769689,19767375,22653410
+28,Weighted Average Shares Outstanding Diluted,9769689,9769689,19767375,22653410
+29,SEC Link,- -,- -,https://www.sec.gov/Archives/edgar/data/1538210/000119312521102236/0001193125-21-102236-index.htm,https://www.sec.gov/Archives/edgar/data/1538210/000153821022000008/0001538210-22-000008-index.htm
+30,BALANCE SHEET, , , , 
+31,Cash and Cash Equivalents,425995,9128987,5031079,30326352
+32,Short-Term Investments,11634207,1006878,- -,- -
+33,Cash and Short-Term Investments,12060202,10135865,5031079,30326352
+34,Net Receivables,73624,6421,- -,- -
+35,Inventory,- -,- -,- -,- -
+36,Other Current Assets,199841,894266,3361358,99189
+37,Total Current Assets,12333667,11036552,8392437,- -
+38,PP&E,1695071,2577930,2885260,- -
+39,Goodwill,- -,- -,- -,- -
+40,Intangible Assets,- -,- -,- -,- -
+41,Intangible Assets,- -,- -,- -,- -
+42,Investments,- -,- -,- -,- -
+43,Tax Assets,- -,- -,- -,- -
+44,Other Non-Current Assets,113589,103596,- -,- -
+45,Total Non-Current Assets,1808660,2681526,2885260,- -
+46,Other Assets,- -,- -,- -,91032116
+47,Total Assets,14142327,13718078,11277697,91032116
+48,Accounts Payable,860702,1171654,2760129,1045159
+49,Short-Term Debt,- -,- -,- -,- -
+50,Tax Payable,- -,- -,- -,- -
+51,Deferred Revenue,- -,- -,- -,- -
+52,Other Current Liabilities,2142001,1853372,24266669,6170709
+53,Total Current Liabilities,3002703,3025026,27026798,7215868
+54,Long-Term Debt,- -,- -,- -,- -
+55,Deferred Revenue,- -,- -,- -,- -
+56,Deferred Tax Liabilities,- -,- -,- -,- -
+57,Other Non-Current Liabilities,329262,81871,4935,- -
+58,Total Non-Current Liabilities,329262,81871,4935,- -
+59,Other Liabilities,- -,- -,33399,55581
+60,Capital Lease Obligations,- -,- -,- -,- -
+61,Total Liabilities,3331965,3106897,27055262,7271449
+62,Preferred Stock,35047435,53620749,53620749,- -
+63,Common Stock,117,126,126,- -
+64,Retained Earnings,-27169297,-47716008,- -,-127743455
+65,Other Comprehensive Income/Loss,-370588,-806692,- -,3012
+66,Other Total Stockholders Equity,3302695,5513006,-69375067,- -
+67,Total Stockholders Equity,10810362,10611181,-15754192,83760667
+68,Total Liabilities And Stockholders Equity,14142327,13718078,11301070,91032116
+69,Minority Interest,- -,- -,-23373,- -
+70,Total Liabilities & Equity,14142327,13718078,11277697,91032116
+71,SEC Link,- -,- -,https://www.sec.gov/Archives/edgar/data/1538210/000119312521102236/0001193125-21-102236-index.htm,https://www.sec.gov/Archives/edgar/data/1538210/000153821022000008/0001538210-22-000008-index.htm
+72,CASH FLOW STATEMENT, , , , 
+73,Net Income,-12833549,-20546711,-29865997,- -
+74,Depreciation and Amortization,204646,436365,618990,870285
+75,Deferred Income Tax,- -,- -,- -,- -
+76,Stock Based Compensation,1206360,1534333,1217194,- -
+77,Change in Working Capital,304049,-1319438,-26645887,- -
+78,Accounts Receivable,- -,- -,- -,- -
+79,Inventory,- -,- -,- -,- -
+80,Accounts Payable,191953,235110,702472,- -
+81,Other Working Capital,9330964,8011526,-18634361,- -
+82,Other Non-Cash Items,- -,479810,28270999,-870285
+83,Cash Provided by Operating Activities,-11118494,-19415641,-26404701,- -
+84,CAPEX,-937768,-1245862,-864659,- -
+85,Acquisitions Net,- -,- -,- -,- -
+86,Purchases of Investments,-17612621,-7073779,- -,- -
+87,Sales/Maturities of Investments,5948867,17731162,1006371,- -
+88,Other Investing Activites,-40129,9905,80224,- -
+89,Cash Used for Investing Activites,-12641651,9421426,221936,- -
+90,Debt Repayment,-7279,-18437,-19888,- -
+91,Common Stock Issued,- -,- -,- -,114721518
+92,Common Stock Repurchased,- -,- -,- -,- -
+93,Dividends Paid,- -,- -,- -,- -
+94,Other Financing Activites,9187643,18783144,22104745,- -
+95,Cash Used/Provided by Financing Activities,9180364,18764707,22084857,- -
+96,Effect of Forex Changes on Cash,- -,- -,- -,- -
+97,Net Change In Cash,-14579781,8770492,-4097908,- -
+98,Cash at the End of Period,425995,9196487,5098579,- -
+99,Cash at the Beginning of Period,15005776,425995,9196487,5098579
+100,Free Cash Flow,-12056262,-20661503,-27269360,- -
+101,SEC Link,- -,- -,https://www.sec.gov/Archives/edgar/data/1538210/000119312521102236/0001193125-21-102236-index.htm,https://www.sec.gov/Archives/edgar/data/1538210/000153821022000008/0001538210-22-000008-index.htm
+102,false,,,,

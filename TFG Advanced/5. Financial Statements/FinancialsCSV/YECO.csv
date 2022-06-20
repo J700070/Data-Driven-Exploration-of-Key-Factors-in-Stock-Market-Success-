@@ -1,0 +1,104 @@
+,https://roic.ai/company/YECO,2012,2013,2014,2015,2016,2017
+0,INCOME STATEMENT, , , , , , 
+1,Revenue,- -,42480619,44456436,46230384,42644431,9474249
+2,COGS,- -,26783655,27503461,29362985,26165513,7935492
+3,Gross Profit,- -,15696964,16952975,16867399,16478918,1538757
+4,Gross Profit Ratio,- -,0.3695,0.3813,0.3649,0.3864,0.1624
+5,Research and Development Exp.,- -,- -,- -,- -,- -,- -
+6,General and Administrative Exp.,- -,711954,806037,3374557,12841900,759223
+7,Selling and Marketing Exp.,- -,869295,930470,634390,451927,624677
+8,"Selling, General and Administrative Exp.",- -,1581249,1736507,4008947,13293827,1383900
+9,Other Expenses,- -,- -,- -,- -,- -,- -
+10,Operating Expenses,- -,1581249,1736507,4008947,13293827,1383900
+11,COGS and Expenses,- -,28364904,29239968,33371932,39459340,9319392
+12,Interest Income ,- -,3607,18186,70065,111332,- -
+13,Interest Expense (Gain),- -,1150322,1183580,1297102,1038265,576384
+14,Depreciation and Amortization,- -,1056482,1388409,1752651,2217886,686997
+15,EBITDA,- -,15163041,16523310,14627343,-46576633,739394
+16,EBITDA ratio,- -,0.3569,0.3717,0.3164,-1.0922,0.0780
+17,Operating Income,- -,14115715,15216468,12858452,-49500224,154857
+18,Operating Income ratio,- -,0.3323,0.3423,0.2781,-1.1608,0.0163
+19,Total Other Income Expenses (Gains),- -,-1159478,-1265147,-1280862,-332560,-678844
+20,Income Before Tax,- -,12956237,13951321,11577590,-49832784,-523987
+21,Income Before Tax Ratio,- -,0.3050,0.3138,0.2504,-1.1686,-0.0553
+22,Income Tax expense (Gain),- -,2906742,3259147,2898019,3357239,27594
+23,Net Income,- -,10049495,10692174,8679571,-53190023,-551581
+24,Net Income ratio,- -,0.2366,0.2405,0.1877,-1.2473,-0.0582
+25,EPS,- -,5.24,6.94,5.40,-22.30,-0.23
+26,EPS Diluted,- -,5.24,6.94,5.40,-22.30,-0.23
+27,Weighted Average Shares Outstanding,- -,1918707,1534966,1600000,2385391,2409631
+28,Weighted Average Shares Outstanding Diluted,- -,1918707,1534966,1600000,2385391,2409631
+29,SEC Link,undefined,- -,- -,https://www.sec.gov/Archives/edgar/data/1607741/000121390015007371/0001213900-15-007371-index.htm,https://www.sec.gov/Archives/edgar/data/1607741/000121390017009199/f10k2016_yulongecomaterial.htm,- -
+30,BALANCE SHEET, , , , , , 
+31,Cash and Cash Equivalents,- -,5792625,19732770,16470299,2734540,8386673
+32,Short-Term Investments,- -,- -,- -,- -,- -,- -
+33,Cash and Short-Term Investments,- -,5792625,19732770,16470299,2734540,8386673
+34,Net Receivables,- -,7482612,6118002,9329495,6731047,1031718
+35,Inventory,- -,314276,421998,364254,364891,125265
+36,Other Current Assets,- -,671774,479891,677191,830955,42505183
+37,Total Current Assets,- -,14261287,26752661,26841239,10661433,52048839
+38,PP&E,- -,11408344,34381554,41267655,- -,5156751
+39,Goodwill,- -,- -,- -,- -,- -,- -
+40,Intangible Assets,- -,2494020,2449759,4913376,2163791,- -
+41,Intangible Assets,- -,2494020,2449759,4913376,2163791,1748258
+42,Investments,- -,- -,- -,- -,- -,- -
+43,Tax Assets,- -,81586,188381,520147,388970,- -
+44,Other Non-Current Assets,- -,28834216,5782975,4056048,23228907,- -
+45,Total Non-Current Assets,- -,42818166,42802669,50757226,25781668,6905009
+46,Other Assets,- -,- -,- -,- -,- -,- -
+47,Total Assets,- -,57079453,69555330,77598465,36443101,58953848
+48,Accounts Payable,- -,1520954,1820585,1726158,1710881,1661641
+49,Short-Term Debt,- -,10229214,9361742,12587273,9736302,6468883
+50,Tax Payable,- -,973981,1113617,1098093,1498083,80805
+51,Deferred Revenue,- -,24808,402499,- -,2571846,- -
+52,Other Current Liabilities,- -,1606701,2031406,16493721,11130279,8588956
+53,Total Current Liabilities,- -,13381677,13616232,30807152,25149308,16719480
+54,Long-Term Debt,- -,- -,- -,- -,- -,- -
+55,Deferred Revenue,- -,- -,- -,- -,- -,- -
+56,Deferred Tax Liabilities,- -,- -,- -,- -,- -,- -
+57,Other Non-Current Liabilities,- -,16837457,18292496,138952,28852,- -
+58,Total Non-Current Liabilities,- -,16837457,18292496,138952,28852,- -
+59,Other Liabilities,- -,- -,- -,- -,- -,- -
+60,Capital Lease Obligations,- -,1716134,1678853,4754035,4091143,- -
+61,Total Liabilities,- -,30219134,31908728,30946104,25178160,16719480
+62,Preferred Stock,- -,- -,- -,- -,- -,- -
+63,Common Stock,- -,10000,10000,10000,14997,8684515
+64,Retained Earnings,- -,2688661,12682821,21211829,-31978194,18283448
+65,Other Comprehensive Income/Loss,- -,5160194,5952317,6429068,2703044,- -
+66,Other Total Stockholders Equity,- -,19001464,19001464,19001464,40525094,- -
+67,Total Stockholders Equity,- -,26860319,37646602,46652361,11264941,42234368
+68,Total Liabilities And Stockholders Equity,- -,57079453,69555330,77598465,36443101,58953848
+69,Minority Interest,- -,- -,- -,- -,- -,- -
+70,Total Liabilities & Equity,- -,57079453,69555330,77598465,36443101,58953848
+71,SEC Link,undefined,- -,- -,https://www.sec.gov/Archives/edgar/data/1607741/000121390015007371/0001213900-15-007371-index.htm,https://www.sec.gov/Archives/edgar/data/1607741/000121390017009199/f10k2016_yulongecomaterial.htm,- -
+72,CASH FLOW STATEMENT, , , , , , 
+73,Net Income,- -,10049495,10692174,8679571,-53190023,-551581
+74,Depreciation and Amortization,- -,1056482,1388409,1752651,2217886,686997
+75,Deferred Income Tax,- -,-124997,-74893,-328761,92181,225581
+76,Stock Based Compensation,- -,- -,- -,- -,534237,162363
+77,Change in Working Capital,- -,339463,235013,-3902618,4418267,4057393
+78,Accounts Receivable,- -,-347385,-1076607,-4089754,-1124425,-1350912
+79,Inventory,- -,1158974,-106559,60562,-30984,147658
+80,Accounts Payable,- -,-396537,293592,-107346,127937,623805
+81,Other Working Capital,- -,10297,378281,-403490,2156337,1919003
+82,Other Non-Cash Items,- -,39020,-126976,- -,59203326,-3030917
+83,Cash Provided by Operating Activities,- -,11359463,12113727,6200843,13275874,1549836
+84,CAPEX,- -,-14117380,-950496,-2025166,-36620904,-1928954
+85,Acquisitions Net,- -,- -,- -,- -,- -,- -
+86,Purchases of Investments,- -,- -,- -,- -,- -,- -
+87,Sales/Maturities of Investments,- -,- -,- -,- -,- -,- -
+88,Other Investing Activites,- -,-2267099,2494679,16900,20469,- -
+89,Cash Used for Investing Activites,- -,-16156441,1652648,-1998492,-36600435,-1928954
+90,Debt Repayment,- -,-12709625,-8779663,-5550893,-6500094,-17478
+91,Common Stock Issued,- -,- -,- -,- -,11510157,- -
+92,Common Stock Repurchased,- -,- -,- -,- -,- -,- -
+93,Dividends Paid,- -,- -,- -,- -,- -,- -
+94,Other Financing Activites,- -,18841168,8956197,-2042703,5613964,-433168
+95,Cash Used/Provided by Financing Activities,- -,6131543,176534,-7593596,10624027,-450646
+96,Effect of Forex Changes on Cash,- -,137380,-2764,128774,-1035225,-90868
+97,Net Change In Cash,- -,1471945,13940145,-3262471,-13735759,-920632
+98,Cash at the End of Period,- -,5792625,19732770,16470299,2734540,1813908
+99,Cash at the Beginning of Period,- -,4320680,5792625,19732770,16470299,2734540
+100,Free Cash Flow,- -,-2757917,11163231,4175677,-23345030,-379118
+101,SEC Link,undefined,- -,- -,https://www.sec.gov/Archives/edgar/data/1607741/000121390015007371/0001213900-15-007371-index.htm,https://www.sec.gov/Archives/edgar/data/1607741/000121390017009199/f10k2016_yulongecomaterial.htm,- -
+102,false,,,,,,

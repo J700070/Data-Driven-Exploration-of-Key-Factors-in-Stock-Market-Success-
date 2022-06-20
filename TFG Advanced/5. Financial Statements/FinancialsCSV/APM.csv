@@ -1,0 +1,104 @@
+,https://roic.ai/company/APM,2017,2018,2019,2020
+0,INCOME STATEMENT, , , , 
+1,Revenue,- -,383450,535166,911509
+2,COGS,- -,318011,794545,1015023
+3,Gross Profit,- -,65439,-259379,-103514
+4,Gross Profit Ratio,- -,0.1707,-0.4847,-0.1136
+5,Research and Development Exp.,- -,3101432,6939051,11586923
+6,General and Administrative Exp.,- -,6731396,10779130,7707713
+7,Selling and Marketing Exp.,- -,- -,- -,- -
+8,"Selling, General and Administrative Exp.",- -,6731396,10779130,7707713
+9,Other Expenses,- -,560709,220891,877391
+10,Operating Expenses,- -,10393537,17939072,20172027
+11,COGS and Expenses,- -,10711548,18733617,21187050
+12,Interest Income ,- -,- -,- -,- -
+13,Interest Expense (Gain),- -,- -,- -,243628
+14,Depreciation and Amortization,- -,682292,1299618,1334661
+15,EBITDA,- -,-14149431,-17387144,8645143
+16,EBITDA ratio,- -,-36.9003,-32.4893,9.4844
+17,Operating Income,- -,- -,- -,- -
+18,Operating Income ratio,- -,- -,- -,- -
+19,Total Other Income Expenses (Gains),- -,-4806387,-1918487,25195708
+20,Income Before Tax,- -,-15134485,-20116938,4920167
+21,Income Before Tax Ratio,- -,-39.4693,-37.5901,5.3978
+22,Income Tax expense (Gain),- -,- -,- -,- -
+23,Net Income,- -,-14831723,-18686762,7066854
+24,Net Income ratio,- -,-38.6797,-34.9177,7.7529
+25,EPS,- -,-0.53,-0.64,0.20
+26,EPS Diluted,- -,-0.53,-0.64,0.20
+27,Weighted Average Shares Outstanding,- -,27909788,29008445,31135882
+28,Weighted Average Shares Outstanding Diluted,- -,27909788,29008445,31534473
+29,SEC Link,undefined,- -,https://www.sec.gov/Archives/edgar/data/1734005/000121390020010347/f20f2019_aptorumgroup.htm,- -
+30,BALANCE SHEET, , , , 
+31,Cash and Cash Equivalents,16245807,12006624,5189003,3495231
+32,Short-Term Investments,1972648,1014338,1064650,28384944
+33,Cash and Short-Term Investments,18218455,13020962,6253653,31880175
+34,Net Receivables,217735,1134776,487590,341063
+35,Inventory,- -,30642,34185,39133
+36,Other Current Assets,1847209,14536561,1257453,1396444
+37,Total Current Assets,20283399,28722941,8032881,33656815
+38,PP&E,346587,4260602,7093035,5380762
+39,Goodwill,- -,- -,- -,- -
+40,Intangible Assets,1472707,1409540,1311683,964857
+41,Intangible Assets,1472707,1409540,1311683,964857
+42,Investments,7394713,7094712,7112180,4079707
+43,Tax Assets,- -,- -,- -,- -
+44,Other Non-Current Assets,2062576,3586845,404439,149175
+45,Total Non-Current Assets,11276583,16351699,15921337,10574501
+46,Other Assets,- -,- -,- -,- -
+47,Total Assets,31559982,45074640,23954218,44231316
+48,Accounts Payable,- -,40139,- -,- -
+49,Short-Term Debt,480000,10151183,46555,481996
+50,Tax Payable,- -,- -,- -,- -
+51,Deferred Revenue,- -,- -,- -,- -
+52,Other Current Liabilities,850734,1993543,2628120,3386698
+53,Total Current Liabilities,1330734,12184865,2674675,3868694
+54,Long-Term Debt,- -,- -,6330472,2007285
+55,Deferred Revenue,- -,- -,- -,- -
+56,Deferred Tax Liabilities,- -,- -,- -,- -
+57,Other Non-Current Liabilities,- -,143873,97319,203044
+58,Total Non-Current Liabilities,- -,143873,6427791,2210329
+59,Other Liabilities,- -,- -,- -,- -
+60,Capital Lease Obligations,- -,187750,143874,685040
+61,Total Liabilities,1330734,12328738,9102466,6079023
+62,Preferred Stock,- -,- -,- -,- -
+63,Common Stock,27864135,28975023,29035116,34022078
+64,Retained Earnings,-2547462,-17379185,-37555980,-30489126
+65,Other Comprehensive Income/Loss,-367782,-1484688,-5552,53296
+66,Other Total Stockholders Equity,5294402,23003285,24887624,38247903
+67,Total Stockholders Equity,30243293,33114435,16361208,41834151
+68,Total Liabilities And Stockholders Equity,31574027,45443173,25463674,47913174
+69,Minority Interest,-14045,-368533,-1509456,-3681858
+70,Total Liabilities & Equity,31559982,45074640,23954218,44231316
+71,SEC Link,- -,- -,https://www.sec.gov/Archives/edgar/data/1734005/000121390020010347/f20f2019_aptorumgroup.htm,- -
+72,CASH FLOW STATEMENT, , , , 
+73,Net Income,- -,-14831723,-18686762,7066854
+74,Depreciation and Amortization,- -,682292,1299618,1334661
+75,Deferred Income Tax,- -,- -,- -,- -
+76,Stock Based Compensation,- -,- -,1612832,1478565
+77,Change in Working Capital,- -,-389725,1216862,45551
+78,Accounts Receivable,- -,-2827,-37716,-21678
+79,Inventory,- -,-30642,-3543,-4948
+80,Accounts Payable,- -,58555,986241,800960
+81,Other Working Capital,- -,-179500,55429,20
+82,Other Non-Cash Items,- -,4503625,1174817,-25857544
+83,Cash Provided by Operating Activities,- -,-10035531,-13382633,-15931913
+84,CAPEX,- -,-6064299,-907171,-161314
+85,Acquisitions Net,- -,- -,- -,- -
+86,Purchases of Investments,- -,- -,-200000,- -
+87,Sales/Maturities of Investments,- -,2312,999110,952196
+88,Other Investing Activites,- -,-417794,-70109,1051282
+89,Cash Used for Investing Activites,- -,-6061987,-108061,1842164
+90,Debt Repayment,- -,-58332,-13653843,-5360403
+91,Common Stock Issued,- -,11054319,- -,17497426
+92,Common Stock Repurchased,- -,- -,- -,- -
+93,Dividends Paid,- -,- -,- -,- -
+94,Other Financing Activites,- -,14482962,6330472,284909
+95,Cash Used/Provided by Financing Activities,- -,25478949,-7323371,12421932
+96,Effect of Forex Changes on Cash,- -,- -,- -,- -
+97,Net Change In Cash,- -,9381431,-20814065,-1667817
+98,Cash at the End of Period,- -,26107238,5293173,3625356
+99,Cash at the Beginning of Period,- -,16725807,26107238,5293173
+100,Free Cash Flow,- -,-16099830,-14289804,-16093227
+101,SEC Link,undefined,- -,https://www.sec.gov/Archives/edgar/data/1734005/000121390020010347/f20f2019_aptorumgroup.htm,- -
+102,false,,,,

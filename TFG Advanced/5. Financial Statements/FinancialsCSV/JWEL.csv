@@ -1,0 +1,104 @@
+,https://roic.ai/company/JWEL,2018,2019,2020
+0,INCOME STATEMENT, , , 
+1,Revenue,24187596,61775903,96879173
+2,COGS,20185675,56080927,86404697
+3,Gross Profit,4001921,5694976,10474476
+4,Gross Profit Ratio,0.1655,0.0922,0.1081
+5,Research and Development Exp.,- -,- -,- -
+6,General and Administrative Exp.,497294,1145828,2063997
+7,Selling and Marketing Exp.,536848,722655,1027895
+8,"Selling, General and Administrative Exp.",1034142,1868483,3091892
+9,Other Expenses,983110,2122041,2269768
+10,Operating Expenses,2017252,3990524,5361660
+11,COGS and Expenses,22202927,60071451,91766357
+12,Interest Income ,- -,- -,- -
+13,Interest Expense (Gain),- -,- -,- -
+14,Depreciation and Amortization,4406,1980,182469
+15,EBITDA,1988826,1707698,5301391
+16,EBITDA ratio,0.0822,0.0276,0.0547
+17,Operating Income,1984669,1704452,5112816
+18,Operating Income ratio,0.0821,0.0276,0.0528
+19,Total Other Income Expenses (Gains),-249,1266,6106
+20,Income Before Tax,1984420,1705718,5118922
+21,Income Before Tax Ratio,0.0820,0.0276,0.0528
+22,Income Tax expense (Gain),506513,427359,1532230
+23,Net Income,1477907,1278359,3586692
+24,Net Income ratio,0.0611,0.0207,0.0370
+25,EPS,0.07,0.05,0.14
+26,EPS Diluted,0.06,0.05,0.14
+27,Weighted Average Shares Outstanding,24863711,24863711,24863711
+28,Weighted Average Shares Outstanding Diluted,29727422,29727422,24863711
+29,SEC Link,- -,- -,- -
+30,BALANCE SHEET, , , 
+31,Cash and Cash Equivalents,227769,11511,18244055
+32,Short-Term Investments,- -,- -,- -
+33,Cash and Short-Term Investments,227769,11511,18244055
+34,Net Receivables,- -,- -,988765
+35,Inventory,2493664,2487383,7398248
+36,Other Current Assets,4589476,8691457,3383576
+37,Total Current Assets,7310909,11190351,30014644
+38,PP&E,11294,15315,3687049
+39,Goodwill,- -,- -,- -
+40,Intangible Assets,31448,53773,34933
+41,Intangible Assets,31448,53773,34933
+42,Investments,- -,- -,- -
+43,Tax Assets,- -,- -,6380
+44,Other Non-Current Assets,- -,- -,121848
+45,Total Non-Current Assets,42742,69088,3850210
+46,Other Assets,- -,- -,- -
+47,Total Assets,7353651,11259439,33864854
+48,Accounts Payable,1701324,2913271,5688809
+49,Short-Term Debt,- -,- -,1301899
+50,Tax Payable,330415,126319,1011775
+51,Deferred Revenue,1396121,1987105,1701321
+52,Other Current Liabilities,1884745,1984417,3460888
+53,Total Current Liabilities,4982190,6884793,12152917
+54,Long-Term Debt,- -,- -,- -
+55,Deferred Revenue,- -,- -,- -
+56,Deferred Tax Liabilities,- -,- -,- -
+57,Other Non-Current Liabilities,- -,- -,2967193
+58,Total Non-Current Liabilities,- -,- -,2967193
+59,Other Liabilities,- -,- -,- -
+60,Capital Lease Obligations,- -,- -,3688196
+61,Total Liabilities,4982190,6884793,15120110
+62,Preferred Stock,75,75,75
+63,Common Stock,2000,2000,2115
+64,Retained Earnings,368460,66043,3353031
+65,Other Comprehensive Income/Loss,103161,135293,1218403
+66,Other Total Stockholders Equity,1897765,4171235,14171120
+67,Total Stockholders Equity,2371461,4374646,18744744
+68,Total Liabilities And Stockholders Equity,7353651,11259439,33864854
+69,Minority Interest,- -,- -,- -
+70,Total Liabilities & Equity,7353651,11259439,33864854
+71,SEC Link,- -,- -,- -
+72,CASH FLOW STATEMENT, , , 
+73,Net Income,1477907,1278359,3586692
+74,Depreciation and Amortization,4406,1980,182469
+75,Deferred Income Tax,- -,- -,-6044
+76,Stock Based Compensation,- -,- -,- -
+77,Change in Working Capital,-1325392,-2153695,2551864
+78,Accounts Receivable,- -,- -,-936052
+79,Inventory,-1302368,- -,-4518720
+80,Accounts Payable,1069401,1244593,2445100
+81,Other Working Capital,771869,614316,-396109
+82,Other Non-Cash Items,- -,873356,24172
+83,Cash Provided by Operating Activities,156921,- -,6339153
+84,CAPEX,-40146,-6184,-116746
+85,Acquisitions Net,- -,- -,- -
+86,Purchases of Investments,- -,- -,- -
+87,Sales/Maturities of Investments,- -,- -,- -
+88,Other Investing Activites,-36685,- -,- -
+89,Cash Used for Investing Activites,-40146,- -,-116746
+90,Debt Repayment,-7318,-85687,- -
+91,Common Stock Issued,- -,- -,10000000
+92,Common Stock Repurchased,- -,- -,- -
+93,Dividends Paid,- -,- -,- -
+94,Other Financing Activites,- -,722389,1344806
+95,Cash Used/Provided by Financing Activities,-7318,636702,11344806
+96,Effect of Forex Changes on Cash,-11123,49507,665331
+97,Net Change In Cash,98334,-216258,18232544
+98,Cash at the End of Period,227769,- -,18244055
+99,Cash at the Beginning of Period,129435,- -,11511
+100,Free Cash Flow,116775,- -,6222407
+101,SEC Link,- -,- -,- -
+102,false,,,

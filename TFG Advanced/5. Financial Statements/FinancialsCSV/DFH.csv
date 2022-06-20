@@ -1,0 +1,104 @@
+,https://roic.ai/company/DFH,2018,2019,2020,2021
+0,INCOME STATEMENT, , , , 
+1,Revenue,522258473,744292323,1133806607,1923909806
+2,COGS,454402820,641340496,962927606,1610331738
+3,Gross Profit,67855653,102951827,170879001,313578068
+4,Gross Profit Ratio,0.1299,0.1383,0.1507,0.1630
+5,Research and Development Exp.,- -,- -,- -,- -
+6,General and Administrative Exp.,43545254,58733781,- -,- -
+7,Selling and Marketing Exp.,- -,- -,- -,- -
+8,"Selling, General and Administrative Exp.",43545254,58733781,- -,154404500
+9,Other Expenses,- -,- -,90791259,- -
+10,Operating Expenses,43545254,58733781,90791259,154404500
+11,COGS and Expenses,497948074,700074277,1053718865,1764736238
+12,Interest Income ,- -,- -,- -,-6000
+13,Interest Expense (Gain),682152,221449,870868,672172
+14,Depreciation and Amortization,3947561,6024261,7853035,9851010
+15,EBITDA,17621478,35639159,107590722,160354408
+16,EBITDA ratio,0.0337,0.0479,0.0949,0.0833
+17,Operating Income,- -,- -,- -,- -
+18,Operating Income ratio,- -,- -,- -,- -
+19,Total Other Income Expenses (Gains),-1049030,679738,4425685,13460460
+20,Income Before Tax,23261369,44897784,84513427,162048460
+21,Income Before Tax Ratio,0.0445,0.0603,0.0745,0.0842
+22,Income Tax expense (Gain),- -,- -,19773364,27454642
+23,Net Income,12991765,29393449,79093455,122376584
+24,Net Income ratio,0.0249,0.0395,0.0698,0.0636
+25,EPS,174.86,253.25,0.87,1.27
+26,EPS Diluted,173.50,253.25,0.87,1.27
+27,Weighted Average Shares Outstanding,99065,97830,91081482,92521000
+28,Weighted Average Shares Outstanding Diluted,99841,97830,91081482,95314000
+29,SEC Link,- -,- -,https://www.sec.gov/Archives/edgar/data/1825088/000114036121010794/0001140361-21-010794-index.htm,https://www.sec.gov/Archives/edgar/data/1825088/000114036122009752/0001140361-22-009752-index.htm
+30,BALANCE SHEET, , , , 
+31,Cash and Cash Equivalents,19809055,44007245,35495595,227227020
+32,Short-Term Investments,- -,- -,- -,- -
+33,Cash and Short-Term Investments,19809055,44007245,35495595,227227020
+34,Net Receivables,- -,- -,- -,33482341
+35,Inventory,293723233,364067030,484371113,1066661744
+36,Other Current Assets,16823553,24721169,49715553,54094838
+37,Total Current Assets,330355841,432795444,569582261,1381465943
+38,PP&E,20180626,19589779,18864110,267694160
+39,Goodwill,- -,12208783,28566232,171927291
+40,Intangible Assets,13231456,24447707,2660003,9139822
+41,Intangible Assets,13231456,36656490,31226235,181067113
+42,Investments,6255080,8354212,4545349,15967376
+43,Tax Assets,- -,- -,- -,4231519
+44,Other Non-Current Assets,5422608,17523525,109462286,43821512
+45,Total Non-Current Assets,45089770,82124006,164097980,512781680
+46,Other Assets,- -,- -,- -,- -
+47,Total Assets,375445611,514919450,733680241,1894247623
+48,Accounts Payable,31890528,37752306,37418693,113498063
+49,Short-Term Debt,163213181,217667344,289878716,760000000
+50,Tax Payable,- -,- -,- -,- -
+51,Deferred Revenue,11769017,20203750,59392135,177684898
+52,Other Current Liabilities,48291342,42409513,67401055,139367902
+53,Total Current Liabilities,255164068,318032913,454090599,1190550863
+54,Long-Term Debt,12663154,14346124,29653282,23257203
+55,Deferred Revenue,- -,- -,- -,- -
+56,Deferred Tax Liabilities,- -,- -,- -,- -
+57,Other Non-Current Liabilities,45594941,95566578,114144597,124056279
+58,Total Non-Current Liabilities,58258095,109912702,143797879,147313482
+59,Other Liabilities,- -,- -,- -,- -
+60,Capital Lease Obligations,16184664,15580428,14755622,19965814
+61,Total Liabilities,313422163,427945615,597888478,1337864345
+62,Preferred Stock,- -,- -,- -,155219576
+63,Common Stock,- -,- -,103852646,925215
+64,Retained Earnings,- -,- -,- -,118193998
+65,Other Comprehensive Income/Loss,-5248682,-8412591,- -,- -
+66,Other Total Stockholders Equity,67272130,95386426,- -,257963419
+67,Total Stockholders Equity,33093591,56502464,103852646,532302208
+68,Total Liabilities And Stockholders Equity,346515754,484448079,701741124,1870166553
+69,Minority Interest,28929857,30471371,31939117,24081070
+70,Total Liabilities & Equity,375445611,514919450,733680241,1894247623
+71,SEC Link,- -,- -,https://www.sec.gov/Archives/edgar/data/1825088/000114036121010794/0001140361-21-010794-index.htm,https://www.sec.gov/Archives/edgar/data/1825088/000114036122009752/0001140361-22-009752-index.htm
+72,CASH FLOW STATEMENT, , , , 
+73,Net Income,12991765,29393449,79093455,122376584
+74,Depreciation and Amortization,3947561,6024261,7853035,9851010
+75,Deferred Income Tax,- -,- -,- -,-945534
+76,Stock Based Compensation,895610,895000,946609,5233676
+77,Change in Working Capital,-30049530,39570758,729131,-96837727
+78,Accounts Receivable,- -,- -,- -,- -
+79,Inventory,-66493984,-30902010,23512992,-80195985
+80,Accounts Payable,- -,- -,- -,- -
+81,Other Working Capital,75191773,114762531,115491662,78167415
+82,Other Non-Cash Items,9704552,-52044866,6717117,25430980
+83,Cash Provided by Operating Activities,-2510042,23838602,95339347,65108989
+84,CAPEX,-10161587,-2892130,-2924040,-2774372
+85,Acquisitions Net,-1754399,-15019286,-10344611,-520776645
+86,Purchases of Investments,- -,- -,- -,- -
+87,Sales/Maturities of Investments,- -,- -,- -,- -
+88,Other Investing Activites,14545516,91397,241918,508168
+89,Cash Used for Investing Activites,2629530,-17820019,-13026733,-523042849
+90,Debt Repayment,-461120025,-534756780,-772016479,-1450766688
+91,Common Stock Issued,- -,- -,- -,143630400
+92,Common Stock Repurchased,- -,- -,- -,-25530506
+93,Dividends Paid,-11711313,-8298586,-17256938,-23289322
+94,Other Financing Activites,470410612,569132589,723443537,2001838502
+95,Cash Used/Provided by Financing Activities,-2420726,26077223,-65829880,645882386
+96,Effect of Forex Changes on Cash,- -,- -,- -,- -
+97,Net Change In Cash,-2301238,32095806,16482734,187948526
+98,Cash at the End of Period,36632608,68728414,85211148,281321858
+99,Cash at the Beginning of Period,38933846,36632608,68728414,93373332
+100,Free Cash Flow,-12671629,20946472,92415307,62334617
+101,SEC Link,- -,- -,https://www.sec.gov/Archives/edgar/data/1825088/000114036121010794/0001140361-21-010794-index.htm,https://www.sec.gov/Archives/edgar/data/1825088/000114036122009752/0001140361-22-009752-index.htm
+102,false,,,,

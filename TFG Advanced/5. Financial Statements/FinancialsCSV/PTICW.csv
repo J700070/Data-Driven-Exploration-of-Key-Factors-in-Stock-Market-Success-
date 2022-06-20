@@ -1,0 +1,104 @@
+,https://roic.ai/company/PTICW,2020,2021
+0,INCOME STATEMENT, , 
+1,Revenue,- -,- -
+2,COGS,- -,- -
+3,Gross Profit,- -,- -
+4,Gross Profit Ratio,- -,- -
+5,Research and Development Exp.,- -,- -
+6,General and Administrative Exp.,45819,993427
+7,Selling and Marketing Exp.,- -,- -
+8,"Selling, General and Administrative Exp.",45819,993427
+9,Other Expenses,- -,200000
+10,Operating Expenses,45819,1193427
+11,COGS and Expenses,45819,1193427
+12,Interest Income ,- -,- -
+13,Interest Expense (Gain),- -,- -
+14,Depreciation and Amortization,- -,- -
+15,EBITDA,- -,-1193427
+16,EBITDA ratio,- -,-Infinity
+17,Operating Income,-137546,-1193427
+18,Operating Income ratio,-Infinity,-Infinity
+19,Total Other Income Expenses (Gains),7668,12221717
+20,Income Before Tax,-129878,11028290
+21,Income Before Tax Ratio,-Infinity,Infinity
+22,Income Tax expense (Gain),- -,- -
+23,Net Income,-129878,11028290
+24,Net Income ratio,-Infinity,Infinity
+25,EPS,-0.03,- -
+26,EPS Diluted,-0.03,- -
+27,Weighted Average Shares Outstanding,- -,- -
+28,Weighted Average Shares Outstanding Diluted,- -,- -
+29,SEC Link,https://www.sec.gov/Archives/edgar/data/1821075/000121390021017277/0001213900-21-017277-index.htm,https://www.sec.gov/Archives/edgar/data/1821075/000121390022011317/0001213900-22-011317-index.htm
+30,BALANCE SHEET, , 
+31,Cash and Cash Equivalents,1834812,947498
+32,Short-Term Investments,230007668,- -
+33,Cash and Short-Term Investments,231842480,947498
+34,Net Receivables,- -,- -
+35,Inventory,- -,- -
+36,Other Current Assets,-229674637,148661
+37,Total Current Assets,2167843,1096159
+38,PP&E,- -,- -
+39,Goodwill,- -,- -
+40,Intangible Assets,- -,- -
+41,Intangible Assets,- -,- -
+42,Investments,- -,- -
+43,Tax Assets,- -,- -
+44,Other Non-Current Assets,- -,230003947
+45,Total Non-Current Assets,- -,230003947
+46,Other Assets,230007668,- -
+47,Total Assets,232175511,231100105
+48,Accounts Payable,10865,1329
+49,Short-Term Debt,- -,- -
+50,Tax Payable,80598,134974
+51,Deferred Revenue,- -,- -
+52,Other Current Liabilities,162794,261974
+53,Total Current Liabilities,173659,263303
+54,Long-Term Debt,- -,- -
+55,Deferred Revenue,- -,- -
+56,Deferred Tax Liabilities,- -,- -
+57,Other Non-Current Liabilities,- -,15473330
+58,Total Non-Current Liabilities,- -,15473330
+59,Other Liabilities,8050000,- -
+60,Capital Lease Obligations,- -,- -
+61,Total Liabilities,8223659,15736633
+62,Preferred Stock,- -,- -
+63,Common Stock,218951850,230000575
+64,Retained Earnings,- -,-14637103
+65,Other Comprehensive Income/Loss,- -,- -
+66,Other Total Stockholders Equity,5000002,- -
+67,Total Stockholders Equity,223951852,215363472
+68,Total Liabilities And Stockholders Equity,232175511,231100105
+69,Minority Interest,- -,- -
+70,Total Liabilities & Equity,232175511,231100105
+71,SEC Link,https://www.sec.gov/Archives/edgar/data/1821075/000121390021017277/0001213900-21-017277-index.htm,https://www.sec.gov/Archives/edgar/data/1821075/000121390022011317/0001213900-22-011317-index.htm
+72,CASH FLOW STATEMENT, , 
+73,Net Income,- -,11028290
+74,Depreciation and Amortization,- -,- -
+75,Deferred Income Tax,- -,- -
+76,Stock Based Compensation,- -,- -
+77,Change in Working Capital,- -,274015
+78,Accounts Receivable,- -,- -
+79,Inventory,- -,- -
+80,Accounts Payable,- -,-9536
+81,Other Working Capital,- -,- -
+82,Other Non-Cash Items,- -,-12221717
+83,Cash Provided by Operating Activities,- -,-919412
+84,CAPEX,- -,- -
+85,Acquisitions Net,- -,- -
+86,Purchases of Investments,- -,- -
+87,Sales/Maturities of Investments,- -,- -
+88,Other Investing Activites,- -,32098
+89,Cash Used for Investing Activites,- -,32098
+90,Debt Repayment,- -,- -
+91,Common Stock Issued,- -,- -
+92,Common Stock Repurchased,- -,- -
+93,Dividends Paid,- -,- -
+94,Other Financing Activites,- -,- -
+95,Cash Used/Provided by Financing Activities,- -,- -
+96,Effect of Forex Changes on Cash,- -,- -
+97,Net Change In Cash,- -,-887314
+98,Cash at the End of Period,- -,947498
+99,Cash at the Beginning of Period,- -,1834812
+100,Free Cash Flow,- -,-919412
+101,SEC Link,undefined,https://www.sec.gov/Archives/edgar/data/1821075/000121390022011317/0001213900-22-011317-index.htm
+102,false,,

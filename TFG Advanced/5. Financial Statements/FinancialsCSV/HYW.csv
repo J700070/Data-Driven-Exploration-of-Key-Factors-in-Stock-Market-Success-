@@ -1,0 +1,104 @@
+,https://roic.ai/company/HYW,2018,2019,2020,2021
+0,INCOME STATEMENT, , , , 
+1,Revenue,1151399000,1146612000,1284863000,1834422000
+2,COGS,561924000,624531000,708654000,1003061000
+3,Gross Profit,589475000,522081000,576209000,831361000
+4,Gross Profit Ratio,0.5120,0.4553,0.4485,0.4532
+5,Research and Development Exp.,- -,- -,- -,- -
+6,General and Administrative Exp.,204107000,151412000,171054000,222876000
+7,Selling and Marketing Exp.,293339000,261155000,246108000,326879000
+8,"Selling, General and Administrative Exp.",497446000,412567000,417162000,549755000
+9,Other Expenses,- -,- -,- -,- -
+10,Operating Expenses,497446000,412567000,417162000,549755000
+11,COGS and Expenses,1059370000,1037098000,1125816000,1552816000
+12,Interest Income ,2380000,769000,325000,1537000
+13,Interest Expense (Gain),- -,- -,- -,- -
+14,Depreciation and Amortization,32893000,28435000,26206000,25594000
+15,EBITDA,119295000,127908000,183120000,321345000
+16,EBITDA ratio,0.1036,0.1116,0.1425,0.1752
+17,Operating Income,92029000,109514000,159047000,281606000
+18,Operating Income ratio,0.0799,0.0955,0.1238,0.1535
+19,Total Other Income Expenses (Gains),-5627000,-10041000,-2133000,14145000
+20,Income Before Tax,86402000,99473000,156914000,295751000
+21,Income Before Tax Ratio,0.0750,0.0868,0.1221,0.1612
+22,Income Tax expense (Gain),44314000,38013000,50763000,88094000
+23,Net Income,42088000,61460000,106151000,207657000
+24,Net Income ratio,0.0366,0.0536,0.0826,0.1132
+25,EPS,1.50,2.19,3.79,8.05
+26,EPS Diluted,1.50,2.19,3.79,7.76
+27,Weighted Average Shares Outstanding,28000000,28000000,28000000,25795901
+28,Weighted Average Shares Outstanding Diluted,28000000,28000000,28000000,26759923
+29,SEC Link,- -,- -,- -,- -
+30,BALANCE SHEET, , , , 
+31,Cash and Cash Equivalents,11027000,17196000,108358000,439287000
+32,Short-Term Investments,- -,- -,- -,- -
+33,Cash and Short-Term Investments,11027000,17196000,108358000,439287000
+34,Net Receivables,586403000,599651000,725465000,720164000
+35,Inventory,- -,- -,- -,- -
+36,Other Current Assets,95398000,144237000,123478000,317563000
+37,Total Current Assets,692828000,761084000,957301000,1477014000
+38,PP&E,51683000,42797000,34116000,21104000
+39,Goodwill,- -,- -,- -,- -
+40,Intangible Assets,15137000,22059000,29423000,24225000
+41,Intangible Assets,15137000,22059000,29423000,24225000
+42,Investments,- -,- -,- -,- -
+43,Tax Assets,1062000,1852000,2583000,649000
+44,Other Non-Current Assets,3830000,7077000,1808000,7427000
+45,Total Non-Current Assets,71712000,73785000,67930000,53405000
+46,Other Assets,- -,- -,- -,- -
+47,Total Assets,764540000,834869000,1025231000,1530419000
+48,Accounts Payable,- -,- -,- -,- -
+49,Short-Term Debt,3286000,6984000,- -,- -
+50,Tax Payable,42255000,99008000,195530000,286976000
+51,Deferred Revenue,- -,- -,- -,- -
+52,Other Current Liabilities,225024000,380545000,502692000,795864000
+53,Total Current Liabilities,228310000,387529000,502692000,795864000
+54,Long-Term Debt,- -,- -,- -,- -
+55,Deferred Revenue,- -,- -,- -,- -
+56,Deferred Tax Liabilities,2133000,2226000,3961000,3548000
+57,Other Non-Current Liabilities,46452000,53927000,18321000,10080000
+58,Total Non-Current Liabilities,48585000,56153000,22282000,13628000
+59,Other Liabilities,- -,- -,- -,- -
+60,Capital Lease Obligations,- -,- -,- -,- -
+61,Total Liabilities,276895000,443682000,524974000,809492000
+62,Preferred Stock,- -,- -,- -,- -
+63,Common Stock,34000,34000,34000,36000
+64,Retained Earnings,-41842000,-137647000,-47056000,135597000
+65,Other Comprehensive Income/Loss,30227000,34779000,46698000,82244000
+66,Other Total Stockholders Equity,499226000,494021000,500581000,503050000
+67,Total Stockholders Equity,487645000,391187000,500257000,720927000
+68,Total Liabilities And Stockholders Equity,764540000,834869000,1025231000,1530419000
+69,Minority Interest,- -,- -,- -,- -
+70,Total Liabilities & Equity,764540000,834869000,1025231000,1530419000
+71,SEC Link,- -,- -,- -,- -
+72,CASH FLOW STATEMENT, , , , 
+73,Net Income,42088000,61460000,106151000,207657000
+74,Depreciation and Amortization,32893000,28435000,26206000,25594000
+75,Deferred Income Tax,185000,-697000,-749000,1727000
+76,Stock Based Compensation,1213000,5558000,-369000,21947000
+77,Change in Working Capital,132728000,42982000,-778000,77027000
+78,Accounts Receivable,-101156000,-131679000,-111341000,-190368000
+79,Inventory,- -,- -,- -,- -
+80,Accounts Payable,- -,- -,- -,- -
+81,Other Working Capital,16199000,47730000,-14091000,- -
+82,Other Non-Cash Items,1926000,12000,2749000,81000
+83,Cash Provided by Operating Activities,211033000,137750000,133210000,334033000
+84,CAPEX,-29366000,-29123000,-13202000,-14883000
+85,Acquisitions Net,-4097000,7082000,17549000,- -
+86,Purchases of Investments,- -,- -,- -,- -
+87,Sales/Maturities of Investments,4000000,- -,- -,- -
+88,Other Investing Activites,-65430000,-80991000,-50547000,-2686000
+89,Cash Used for Investing Activites,-93252000,-95128000,-43439000,-14631000
+90,Debt Repayment,-104695000,-1260000,-7737000,- -
+91,Common Stock Issued,- -,- -,- -,180677000
+92,Common Stock Repurchased,- -,- -,- -,- -
+93,Dividends Paid,- -,- -,- -,- -
+94,Other Financing Activites,3286000,15440000,2028000,4929000
+95,Cash Used/Provided by Financing Activities,-101409000,14180000,-5709000,185606000
+96,Effect of Forex Changes on Cash,-169000,-3145000,-4420000,11917000
+97,Net Change In Cash,16203000,53657000,79642000,516925000
+98,Cash at the End of Period,55086000,108743000,188385000,705310000
+99,Cash at the Beginning of Period,38883000,55086000,108743000,188385000
+100,Free Cash Flow,181667000,108627000,120008000,319150000
+101,SEC Link,- -,- -,- -,- -
+102,Forex Rate,0.1509,0.1456,0.1415,0.1549

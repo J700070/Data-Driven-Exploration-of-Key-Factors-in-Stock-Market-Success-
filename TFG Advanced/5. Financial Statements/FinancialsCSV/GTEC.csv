@@ -1,0 +1,104 @@
+,https://roic.ai/company/GTEC,2018,2019,2020,2021
+0,INCOME STATEMENT, , , , 
+1,Revenue,- -,52400840,66864375,98839900
+2,COGS,- -,40022240,54051367,79246280
+3,Gross Profit,- -,12378600,12813008,19593620
+4,Gross Profit Ratio,- -,0.2362,0.1916,0.1982
+5,Research and Development Exp.,- -,2355310,2384951,5526546
+6,General and Administrative Exp.,- -,2231953,2131405,3948850
+7,Selling and Marketing Exp.,- -,1187263000,1588302,1868156
+8,"Selling, General and Administrative Exp.",- -,1189494953,3719707,5817006
+9,Other Expenses,373000,-1186075740,- -,- -
+10,Operating Expenses,373000,5774523,6104658,11343552
+11,COGS and Expenses,373000,45796770,60156025,90589832
+12,Interest Income ,304910,151532,2645,68295
+13,Interest Expense (Gain),1554864,1289133,930634,587264
+14,Depreciation and Amortization,1581469,2298183,2435215,- -
+15,EBITDA,240610,8899246,12397348,9698745
+16,EBITDA ratio,Infinity,0.1698,0.1854,0.0981
+17,Operating Income,8697252,6604078,6708350,8250068
+18,Operating Income ratio,Infinity,0.1260,0.1003,0.0835
+19,Total Other Income Expenses (Gains),-8764032,-669548,1936210,861413
+20,Income Before Tax,-66780,5934530,8644560,9111481
+21,Income Before Tax Ratio,-Infinity,0.1133,0.1293,0.0922
+22,Income Tax expense (Gain),- -,847370,2272997,1843260
+23,Net Income,-66780,4464560,6758502,7268221
+24,Net Income ratio,-Infinity,0.0852,0.1011,0.0735
+25,EPS,0.79,0.56,0.67,0.72
+26,EPS Diluted,0.79,0.56,0.67,0.72
+27,Weighted Average Shares Outstanding,7500000,7932567,10037249,10037249
+28,Weighted Average Shares Outstanding Diluted,7500000,7932567,10037249,10037249
+29,SEC Link,https://www.sec.gov/Archives/edgar/data/1735041/000161577419003176/0001615774-19-003176-index.html,https://www.sec.gov/Archives/edgar/data/1735041/000121390020008524/f10k2019_greenlandtech.htm,https://www.sec.gov/Archives/edgar/data/1735041/000121390021018961/0001213900-21-018961-index.htm,https://www.sec.gov/Archives/edgar/data/1735041/000121390022016786/0001213900-22-016786-index.htm
+30,BALANCE SHEET, , , , 
+31,Cash and Cash Equivalents,644700,2123490,7159015,11062590
+32,Short-Term Investments,- -,- -,- -,2105938
+33,Cash and Short-Term Investments,644700,2123490,7159015,13168528
+34,Net Receivables,- -,64171410,81747491,15915002
+35,Inventory,- -,9972880,15380063,25803474
+36,Other Current Assets,84550,3971930,3356865,84418399
+37,Total Current Assets,729250,80239710,107643434,139305403
+38,PP&E,- -,20630250,20135339,19038235
+39,Goodwill,- -,3890,3890,3890
+40,Intangible Assets,- -,5170,4035254,- -
+41,Intangible Assets,- -,9060,4039144,3890
+42,Investments,44307387,- -,- -,- -
+43,Tax Assets,- -,- -,158455,141623
+44,Other Non-Current Assets,-7,5604820,2365,4079291
+45,Total Non-Current Assets,44307380,26244130,24335303,23263039
+46,Other Assets,- -,- -,- -,- -
+47,Total Assets,45036630,106483840,131978737,162568442
+48,Accounts Payable,- -,14713010,22005260,29064132
+49,Short-Term Debt,36741089,31912517,51373703,42126369
+50,Tax Payable,155346,12529,1208323,108058
+51,Deferred Revenue,- -,132194,366029,387919
+52,Other Current Liabilities,-36709809,9235599,5063343,13884804
+53,Total Current Liabilities,31280,55993320,78808335,85463224
+54,Long-Term Debt,- -,1349850,166292,47614
+55,Deferred Revenue,- -,- -,2342648,- -
+56,Deferred Tax Liabilities,- -,- -,- -,- -
+57,Other Non-Current Liabilities,979490,10544800,- -,2212938
+58,Total Non-Current Liabilities,979490,11894650,2508940,2260552
+59,Other Liabilities,- -,- -,- -,- -
+60,Capital Lease Obligations,- -,- -,963471,- -
+61,Total Liabilities,1010770,67887970,81317275,2260552
+62,Preferred Stock,- -,- -,- -,- -
+63,Common Stock,44092650,- -,- -,- -
+64,Retained Earnings,-66780,23730170,26728332,33668696
+65,Other Comprehensive Income/Loss,3508203,3505593,4454192,1014399
+66,Other Total Stockholders Equity,-15793269,23953914,- -,27601695
+67,Total Stockholders Equity,31740804,38595878,44889922,62284790
+68,Total Liabilities And Stockholders Equity,32751574,106483848,126207197,64545342
+69,Minority Interest,12285056,-8,5771540,98023100
+70,Total Liabilities & Equity,45036630,106483840,131978737,162568442
+71,SEC Link,https://www.sec.gov/Archives/edgar/data/1735041/000161577419003176/0001615774-19-003176-index.html,https://www.sec.gov/Archives/edgar/data/1735041/000121390020008524/f10k2019_greenlandtech.htm,https://www.sec.gov/Archives/edgar/data/1735041/000121390021018961/0001213900-21-018961-index.htm,https://www.sec.gov/Archives/edgar/data/1735041/000121390022016786/0001213900-22-016786-index.htm
+72,CASH FLOW STATEMENT, , , , 
+73,Net Income,-66780,4464560,6758502,- -
+74,Depreciation and Amortization,1581469,2298183,2435215,- -
+75,Deferred Income Tax,-76955,55357,370033,- -
+76,Stock Based Compensation,- -,- -,- -,- -
+77,Change in Working Capital,-5506670,23548420,4588709,25007080
+78,Accounts Receivable,-2737279,-2131986,486793,- -
+79,Inventory,-4143729,2230666,-4329801,- -
+80,Accounts Payable,709452,-16118,5940202,- -
+81,Other Working Capital,697970,24246390,28835099,53842179
+82,Other Non-Cash Items,7125038,-22367290,-11456889,-25007080
+83,Cash Provided by Operating Activities,3056102,7999230,2695570,- -
+84,CAPEX,-6687515,-2324879,- -,3570
+85,Acquisitions Net,- -,- -,- -,- -
+86,Purchases of Investments,- -,- -,- -,- -
+87,Sales/Maturities of Investments,- -,- -,- -,- -
+88,Other Investing Activites,709843,593159,-822769,-642550
+89,Cash Used for Investing Activites,-5977672,-1600288,-822769,-638980
+90,Debt Repayment,-24836158,-58390053,-29506622,-776108
+91,Common Stock Issued,- -,- -,- -,- -
+92,Common Stock Repurchased,- -,- -,- -,- -
+93,Dividends Paid,- -,-159612,- -,- -
+94,Other Financing Activites,24678216,48905306,31813786,15239089
+95,Cash Used/Provided by Financing Activities,-157942,-9644359,2307164,14462981
+96,Effect of Forex Changes on Cash,160772,-5553,-494119,329778
+97,Net Change In Cash,-2918740,-3250970,3685846,8397839
+98,Cash at the End of Period,8968177,5717207,9403053,17800892
+99,Cash at the Beginning of Period,11886917,8968177,5717207,9403053
+100,Free Cash Flow,-3631413,5674351,2695570,3570
+101,SEC Link,https://www.sec.gov/Archives/edgar/data/1735041/000161577419003176/0001615774-19-003176-index.html,https://www.sec.gov/Archives/edgar/data/1735041/000121390020008524/f10k2019_greenlandtech.htm,https://www.sec.gov/Archives/edgar/data/1735041/000121390021018961/0001213900-21-018961-index.htm,https://www.sec.gov/Archives/edgar/data/1735041/000121390022016786/0001213900-22-016786-index.htm
+102,false,,,,

@@ -1,0 +1,104 @@
+,https://roic.ai/company/NTRBW,2016,2017,2018,2019,2020,2021
+0,INCOME STATEMENT, , , , , , 
+1,Revenue,- -,- -,- -,245285,370647,943702
+2,COGS,- -,- -,- -,288301,549107,582378
+3,Gross Profit,- -,- -,- -,-43016,-178460,361324
+4,Gross Profit Ratio,- -,- -,- -,-0.1754,-0.4815,0.3829
+5,Research and Development Exp.,- -,- -,- -,- -,- -,- -
+6,General and Administrative Exp.,- -,- -,- -,- -,- -,- -
+7,Selling and Marketing Exp.,- -,- -,- -,- -,- -,- -
+8,"Selling, General and Administrative Exp.",400,151260,171946,3288224,1790980,2957269
+9,Other Expenses,- -,- -,- -,- -,- -,- -
+10,Operating Expenses,400,151260,171946,3288224,1790980,2957269
+11,COGS and Expenses,400,151260,171946,3576525,2340087,3539647
+12,Interest Income ,- -,- -,- -,- -,- -,- -
+13,Interest Expense (Gain),- -,- -,- -,- -,73413,280686
+14,Depreciation and Amortization,- -,- -,- -,37011,91405,169718
+15,EBITDA,-400,-151260,2328054,-3294229,-2556809,-2482424
+16,EBITDA ratio,-Infinity,-Infinity,Infinity,-13.4302,-6.8982,-2.6305
+17,Operating Income,-400,-151260,-171946,-3331240,-1969440,-2595945
+18,Operating Income ratio,-Infinity,-Infinity,-Infinity,-13.5811,-5.3135,-2.7508
+19,Total Other Income Expenses (Gains),- -,- -,-2500000,- -,-752187,-336883
+20,Income Before Tax,-400,-151260,-2671946,-3331240,-2721627,-2932828
+21,Income Before Tax Ratio,-Infinity,-Infinity,-Infinity,-13.5811,-7.3429,-3.1078
+22,Income Tax expense (Gain),- -,- -,- -,- -,- -,- -
+23,Net Income,-400,-151260,-2671946,-3331240,-2721627,-2932828
+24,Net Income ratio,-Infinity,-Infinity,-Infinity,-13.5811,-7.3429,-3.1078
+25,EPS,- -,- -,- -,- -,- -,- -
+26,EPS Diluted,- -,- -,- -,- -,- -,- -
+27,Weighted Average Shares Outstanding,- -,- -,- -,- -,- -,- -
+28,Weighted Average Shares Outstanding Diluted,- -,- -,- -,- -,- -,- -
+29,SEC Link,- -,- -,- -,- -,- -,https://www.sec.gov/Archives/edgar/data/1676047/000121390021019991/0001213900-21-019991-index.htm
+30,BALANCE SHEET, , , , , , 
+31,Cash and Cash Equivalents,100,27124,- -,474653,10181,151993
+32,Short-Term Investments,- -,- -,- -,- -,- -,- -
+33,Cash and Short-Term Investments,100,27124,- -,474653,10181,151993
+34,Net Receivables,230,229,263,13088,12833,109347
+35,Inventory,- -,8048,4133,- -,- -,52848
+36,Other Current Assets,- -,2326,160503,102725,20167,- -
+37,Total Current Assets,330,37727,164899,590466,43181,314188
+38,PP&E,- -,- -,- -,146147,120639,1076626
+39,Goodwill,- -,- -,- -,1719235,1719235,7529875
+40,Intangible Assets,- -,- -,- -,351770,314700,1006730
+41,Intangible Assets,- -,- -,- -,2071005,2033935,8536605
+42,Investments,- -,- -,- -,- -,- -,- -
+43,Tax Assets,- -,- -,- -,- -,- -,- -
+44,Other Non-Current Assets,- -,- -,- -,- -,- -,- -
+45,Total Non-Current Assets,- -,- -,- -,2217152,2154574,9613231
+46,Other Assets,- -,- -,- -,- -,- -,- -
+47,Total Assets,330,37727,164899,2807618,2197755,9927419
+48,Accounts Payable,1199,4149,12341,291781,771931,- -
+49,Short-Term Debt,9915,10469,31050,40000,321617,1541148
+50,Tax Payable,- -,- -,- -,- -,- -,- -
+51,Deferred Revenue,- -,- -,- -,71225,- -,86846
+52,Other Current Liabilities,- -,- -,- -,- -,928774,940612
+53,Total Current Liabilities,11114,14618,43391,403006,2022322,2568606
+54,Long-Term Debt,686,- -,- -,- -,- -,246867
+55,Deferred Revenue,- -,- -,- -,- -,- -,- -
+56,Deferred Tax Liabilities,- -,- -,- -,- -,- -,- -
+57,Other Non-Current Liabilities,- -,- -,- -,- -,- -,- -
+58,Total Non-Current Liabilities,686,- -,- -,- -,- -,246867
+59,Other Liabilities,- -,- -,- -,- -,- -,- -
+60,Capital Lease Obligations,- -,- -,- -,- -,10050,121544
+61,Total Liabilities,11800,14618,43391,403006,2022322,2815473
+62,Preferred Stock,- -,- -,- -,- -,- -,- -
+63,Common Stock,21875,15572,20877,21695,5441,6257
+64,Retained Earnings,-26204,-177464,-2849410,-6180650,-8902277,-11835105
+65,Other Comprehensive Income/Loss,1640,1709,-446,-52,-304,-304
+66,Other Total Stockholders Equity,-8781,183292,2950487,8563619,9072573,18941098
+67,Total Stockholders Equity,-11470,23109,121508,2404612,175433,7111946
+68,Total Liabilities And Stockholders Equity,330,37727,164899,2807618,2197755,9927419
+69,Minority Interest,- -,- -,- -,- -,- -,- -
+70,Total Liabilities & Equity,330,37727,164899,2807618,2197755,9927419
+71,SEC Link,- -,- -,- -,- -,- -,https://www.sec.gov/Archives/edgar/data/1676047/000121390021019991/0001213900-21-019991-index.htm
+72,CASH FLOW STATEMENT, , , , , , 
+73,Net Income,-400,-151260,-2671946,-3331240,-2721627,-2932828
+74,Depreciation and Amortization,- -,- -,- -,37011,91405,169718
+75,Deferred Income Tax,- -,- -,- -,- -,- -,- -
+76,Stock Based Compensation,- -,7770,- -,1763950,252700,2004875
+77,Change in Working Capital,400,-4433,75088,400513,712961,110226
+78,Accounts Receivable,- -,- -,- -,-12825,255,-94753
+79,Inventory,- -,-8048,3915,4133,- -,-10235
+80,Accounts Payable,- -,- -,- -,- -,- -,- -
+81,Other Working Capital,- -,- -,- -,71225,-71225,59995
+82,Other Non-Cash Items,- -,- -,2504000,24300,770091,350954
+83,Cash Provided by Operating Activities,- -,-147923,-92858,-1105466,-894470,-297055
+84,CAPEX,- -,- -,- -,-4163,- -,- -
+85,Acquisitions Net,- -,- -,- -,-400000,- -,66994
+86,Purchases of Investments,- -,- -,- -,- -,- -,- -
+87,Sales/Maturities of Investments,- -,- -,- -,- -,- -,- -
+88,Other Investing Activites,- -,- -,- -,- -,- -,- -
+89,Cash Used for Investing Activites,- -,- -,- -,-404163,- -,66994
+90,Debt Repayment,- -,-23050,-8250,-42850,- -,-356411
+91,Common Stock Issued,- -,175000,50000,1500000,- -,515108
+92,Common Stock Repurchased,- -,- -,- -,- -,- -,- -
+93,Dividends Paid,- -,- -,- -,- -,- -,- -
+94,Other Financing Activites,100,22950,24012,526738,430250,213176
+95,Cash Used/Provided by Financing Activities,100,174900,65762,1983888,430250,371873
+96,Effect of Forex Changes on Cash,- -,47,-28,394,-252,- -
+97,Net Change In Cash,100,27024,65762,1983888,-464472,141812
+98,Cash at the End of Period,100,27124,- -,474653,10181,151993
+99,Cash at the Beginning of Period,- -,100,27124,- -,474653,10181
+100,Free Cash Flow,- -,-147923,-92858,-1109629,-894470,-297055
+101,SEC Link,- -,- -,- -,- -,- -,https://www.sec.gov/Archives/edgar/data/1676047/000121390021019991/0001213900-21-019991-index.htm
+102,false,,,,,,

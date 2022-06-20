@@ -1,0 +1,104 @@
+,https://roic.ai/company/THCA,2019,2020
+0,INCOME STATEMENT, , 
+1,Revenue,- -,- -
+2,COGS,- -,- -
+3,Gross Profit,- -,- -
+4,Gross Profit Ratio,- -,- -
+5,Research and Development Exp.,- -,- -
+6,General and Administrative Exp.,- -,- -
+7,Selling and Marketing Exp.,- -,- -
+8,"Selling, General and Administrative Exp.",- -,- -
+9,Other Expenses,458620,- -
+10,Operating Expenses,458620,- -
+11,COGS and Expenses,458620,619292
+12,Interest Income ,- -,1386880
+13,Interest Expense (Gain),- -,- -
+14,Depreciation and Amortization,- -,- -
+15,EBITDA,1129650,-614927
+16,EBITDA ratio,Infinity,-Infinity
+17,Operating Income,- -,-619292
+18,Operating Income ratio,- -,-Infinity
+19,Total Other Income Expenses (Gains),1588270,1382515
+20,Income Before Tax,1129650,763223
+21,Income Before Tax Ratio,Infinity,Infinity
+22,Income Tax expense (Gain),237230,160276
+23,Net Income,892420,602947
+24,Net Income ratio,Infinity,Infinity
+25,EPS,0.04,-0.03
+26,EPS Diluted,0.04,-0.03
+27,Weighted Average Shares Outstanding,21987500,5180177
+28,Weighted Average Shares Outstanding Diluted,21987500,5180177
+29,SEC Link,https://www.sec.gov/Archives/edgar/data/1773087/000121390020007666/0001213900-20-007666-index.html,https://www.sec.gov/Archives/edgar/data/1773087/000121390021016560/0001213900-21-016560-index.htm
+30,BALANCE SHEET, , 
+31,Cash and Cash Equivalents,419303,515524
+32,Short-Term Investments,- -,174550466
+33,Cash and Short-Term Investments,419303,175065990
+34,Net Receivables,- -,22195
+35,Inventory,- -,- -
+36,Other Current Assets,127280,-174523966
+37,Total Current Assets,546583,564219
+38,PP&E,- -,- -
+39,Goodwill,- -,- -
+40,Intangible Assets,- -,- -
+41,Intangible Assets,- -,- -
+42,Investments,173824264,- -
+43,Tax Assets,- -,- -
+44,Other Non-Current Assets,- -,174550466
+45,Total Non-Current Assets,173824264,174550466
+46,Other Assets,- -,- -
+47,Total Assets,174370847,175114685
+48,Accounts Payable,- -,163910
+49,Short-Term Debt,- -,- -
+50,Tax Payable,- -,132220
+51,Deferred Revenue,- -,- -
+52,Other Current Liabilities,148839,132220
+53,Total Current Liabilities,148839,296130
+54,Long-Term Debt,- -,- -
+55,Deferred Revenue,- -,- -
+56,Deferred Tax Liabilities,7682,1282
+57,Other Non-Current Liabilities,- -,- -
+58,Total Non-Current Liabilities,7682,1282
+59,Other Liabilities,- -,- -
+60,Capital Lease Obligations,- -,- -
+61,Total Liabilities,156521,297412
+62,Preferred Stock,- -,- -
+63,Common Stock,169214841,169817787
+64,Retained Earnings,892422,1495369
+65,Other Comprehensive Income/Loss,- -,- -
+66,Other Total Stockholders Equity,4107063,3504117
+67,Total Stockholders Equity,174214326,174817273
+68,Total Liabilities And Stockholders Equity,174370847,175114685
+69,Minority Interest,- -,- -
+70,Total Liabilities & Equity,174370847,175114685
+71,SEC Link,https://www.sec.gov/Archives/edgar/data/1773087/000121390020007666/0001213900-20-007666-index.html,https://www.sec.gov/Archives/edgar/data/1773087/000121390021016560/0001213900-21-016560-index.htm
+72,CASH FLOW STATEMENT, , 
+73,Net Income,892420,602947
+74,Depreciation and Amortization,- -,- -
+75,Deferred Income Tax,7680,-6400
+76,Stock Based Compensation,- -,- -
+77,Change in Working Capital,21580,-129655
+78,Accounts Receivable,- -,- -
+79,Inventory,- -,- -
+80,Accounts Payable,- -,15071
+81,Other Working Capital,397744,268089
+82,Other Non-Cash Items,-1588270,-1026984
+83,Cash Provided by Operating Activities,-666590,-560092
+84,CAPEX,- -,- -
+85,Acquisitions Net,- -,- -
+86,Purchases of Investments,- -,- -
+87,Sales/Maturities of Investments,- -,- -
+88,Other Investing Activites,-172236000,656313
+89,Cash Used for Investing Activites,-172236000,656313
+90,Debt Repayment,- -,- -
+91,Common Stock Issued,- -,- -
+92,Common Stock Repurchased,173800000,- -
+93,Dividends Paid,- -,- -
+94,Other Financing Activites,-478110,- -
+95,Cash Used/Provided by Financing Activities,173321890,- -
+96,Effect of Forex Changes on Cash,- -,- -
+97,Net Change In Cash,419300,- -
+98,Cash at the End of Period,419300,- -
+99,Cash at the Beginning of Period,- -,- -
+100,Free Cash Flow,-666590,-560092
+101,SEC Link,https://www.sec.gov/Archives/edgar/data/1773087/000121390020007666/0001213900-20-007666-index.html,https://www.sec.gov/Archives/edgar/data/1773087/000121390021016560/0001213900-21-016560-index.htm
+102,false,,

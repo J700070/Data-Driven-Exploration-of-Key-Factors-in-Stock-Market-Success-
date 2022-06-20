@@ -1,0 +1,104 @@
+,https://roic.ai/company/CVRX,2019,2020,2021
+0,INCOME STATEMENT, , , 
+1,Revenue,6257000,6053000,13036000
+2,COGS,1683000,1440000,3640000
+3,Gross Profit,4574000,4613000,9396000
+4,Gross Profit Ratio,0.7310,0.7621,0.7208
+5,Research and Development Exp.,8662000,6410000,7501000
+6,General and Administrative Exp.,- -,- -,- -
+7,Selling and Marketing Exp.,- -,- -,- -
+8,"Selling, General and Administrative Exp.",- -,- -,27863000
+9,Other Expenses,6106000,9717000,- -
+10,Operating Expenses,14768000,16127000,35364000
+11,COGS and Expenses,16451000,17567000,39004000
+12,Interest Income ,- -,- -,- -
+13,Interest Expense (Gain),1720000,2470000,2219000
+14,Depreciation and Amortization,56000,75000,168000
+15,EBITDA,-12784000,-11479000,-40600000
+16,EBITDA ratio,-2.0432,-1.8964,-3.1145
+17,Operating Income,-10194000,-11514000,-25968000
+18,Operating Income ratio,-1.6292,-1.9022,-1.9920
+19,Total Other Income Expenses (Gains),-4366000,-2510000,-17019000
+20,Income Before Tax,-14560000,-14024000,-42987000
+21,Income Before Tax Ratio,-2.3270,-2.3169,-3.2976
+22,Income Tax expense (Gain),73000,85000,91000
+23,Net Income,-14633000,-14109000,-43078000
+24,Net Income ratio,-2.3387,-2.3309,-3.3045
+25,EPS,-1.42,-1.38,-2.14
+26,EPS Diluted,-1.42,-1.38,-2.14
+27,Weighted Average Shares Outstanding,10346646,10346646,20126672
+28,Weighted Average Shares Outstanding Diluted,10346646,10346646,20126672
+29,SEC Link,- -,- -,https://www.sec.gov/Archives/edgar/data/1235912/000155837022001539/0001558370-22-001539-index.htm
+30,BALANCE SHEET, , , 
+31,Cash and Cash Equivalents,25741000,59112000,142072000
+32,Short-Term Investments,- -,- -,- -
+33,Cash and Short-Term Investments,25741000,59112000,142072000
+34,Net Receivables,719000,1281000,2560000
+35,Inventory,2072000,3343000,3880000
+36,Other Current Assets,375000,605000,2585000
+37,Total Current Assets,28907000,64341000,151097000
+38,PP&E,174000,410000,1425000
+39,Goodwill,- -,- -,- -
+40,Intangible Assets,- -,- -,- -
+41,Intangible Assets,- -,- -,- -
+42,Investments,- -,- -,- -
+43,Tax Assets,- -,- -,- -
+44,Other Non-Current Assets,26000,26000,26000
+45,Total Non-Current Assets,200000,436000,1451000
+46,Other Assets,- -,- -,- -
+47,Total Assets,29107000,64777000,152548000
+48,Accounts Payable,437000,483000,510000
+49,Short-Term Debt,- -,- -,- -
+50,Tax Payable,- -,- -,351000
+51,Deferred Revenue,- -,- -,- -
+52,Other Current Liabilities,8177000,7494000,5398000
+53,Total Current Liabilities,8614000,7977000,5908000
+54,Long-Term Debt,18992000,19278000,- -
+55,Deferred Revenue,- -,- -,- -
+56,Deferred Tax Liabilities,- -,- -,- -
+57,Other Non-Current Liabilities,280544000,330760000,681000
+58,Total Non-Current Liabilities,299536000,350038000,681000
+59,Other Liabilities,- -,- -,- -
+60,Capital Lease Obligations,- -,- -,- -
+61,Total Liabilities,308150000,358015000,6589000
+62,Preferred Stock,- -,- -,- -
+63,Common Stock,5000,4000,204000
+64,Retained Earnings,-337567000,-351676000,-394754000
+65,Other Comprehensive Income/Loss,-189000,-190000,-198000
+66,Other Total Stockholders Equity,58708000,58624000,- -
+67,Total Stockholders Equity,-279043000,-293238000,145959000
+68,Total Liabilities And Stockholders Equity,29107000,64777000,152548000
+69,Minority Interest,- -,- -,- -
+70,Total Liabilities & Equity,29107000,64777000,152548000
+71,SEC Link,- -,- -,https://www.sec.gov/Archives/edgar/data/1235912/000155837022001539/0001558370-22-001539-index.htm
+72,CASH FLOW STATEMENT, , , 
+73,Net Income,-14633000,-14109000,-43078000
+74,Depreciation and Amortization,56000,75000,168000
+75,Deferred Income Tax,- -,- -,- -
+76,Stock Based Compensation,66000,132000,1912000
+77,Change in Working Capital,-1335000,36071000,-1582000
+78,Accounts Receivable,-183000,-562000,-1279000
+79,Inventory,-216000,-1271000,-537000
+80,Accounts Payable,-1051000,46000,27000
+81,Other Working Capital,20293000,56364000,- -
+82,Other Non-Cash Items,3061000,-38265000,14848000
+83,Cash Provided by Operating Activities,-12785000,-16096000,-27732000
+84,CAPEX,-106000,-311000,-1183000
+85,Acquisitions Net,- -,- -,- -
+86,Purchases of Investments,- -,- -,- -
+87,Sales/Maturities of Investments,- -,- -,- -
+88,Other Investing Activites,- -,- -,- -
+89,Cash Used for Investing Activites,-106000,-311000,-1183000
+90,Debt Repayment,-14661000,- -,-21300000
+91,Common Stock Issued,- -,- -,133161000
+92,Common Stock Repurchased,- -,- -,-1000
+93,Dividends Paid,- -,- -,- -
+94,Other Financing Activites,44210000,49783000,23000
+95,Cash Used/Provided by Financing Activities,29549000,49783000,111883000
+96,Effect of Forex Changes on Cash,-5000,-5000,-8000
+97,Net Change In Cash,16653000,33371000,82960000
+98,Cash at the End of Period,25741000,59112000,142072000
+99,Cash at the Beginning of Period,9088000,25741000,59112000
+100,Free Cash Flow,-12891000,-16407000,-28915000
+101,SEC Link,- -,- -,https://www.sec.gov/Archives/edgar/data/1235912/000155837022001539/0001558370-22-001539-index.htm
+102,false,,,

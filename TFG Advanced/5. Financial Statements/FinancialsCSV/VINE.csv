@@ -1,0 +1,104 @@
+,https://roic.ai/company/VINE,2019,2020,2021
+0,INCOME STATEMENT, , , 
+1,Revenue,- -,217074,1700207
+2,COGS,- -,175325,1135268
+3,Gross Profit,- -,41749,564939
+4,Gross Profit Ratio,- -,0.1923,0.3323
+5,Research and Development Exp.,- -,- -,- -
+6,General and Administrative Exp.,- -,- -,- -
+7,Selling and Marketing Exp.,- -,- -,- -
+8,"Selling, General and Administrative Exp.",- -,- -,4793445
+9,Other Expenses,437122,1333030,- -
+10,Operating Expenses,437122,1333030,4793445
+11,COGS and Expenses,437122,1508355,5928713
+12,Interest Income ,- -,- -,- -
+13,Interest Expense (Gain),- -,- -,- -
+14,Depreciation and Amortization,9,317,- -
+15,EBITDA,-437113,-1290719,-9965627
+16,EBITDA ratio,-Infinity,-5.9460,-5.8614
+17,Operating Income,-437122,-1291281,-9966535
+18,Operating Income ratio,-Infinity,-5.9486,-5.8620
+19,Total Other Income Expenses (Gains),5000,245,908
+20,Income Before Tax,-432122,-1291036,-9965627
+21,Income Before Tax Ratio,-Infinity,-5.9474,-5.8614
+22,Income Tax expense (Gain),- -,- -,- -
+23,Net Income,-432122,-1291036,-9965627
+24,Net Income ratio,-Infinity,-5.9474,-5.8614
+25,EPS,-0.04,-0.11,-0.82
+26,EPS Diluted,-0.04,-0.11,-0.82
+27,Weighted Average Shares Outstanding,12200013,12200013,12200013
+28,Weighted Average Shares Outstanding Diluted,12200013,12200013,12200013
+29,SEC Link,- -,- -,https://www.sec.gov/Archives/edgar/data/1880343/000121390022016834/0001213900-22-016834-index.htm
+30,BALANCE SHEET, , , 
+31,Cash and Cash Equivalents,5840,4485,16064
+32,Short-Term Investments,- -,- -,- -
+33,Cash and Short-Term Investments,5840,4485,16064
+34,Net Receivables,- -,85675,208
+35,Inventory,27600,194041,159
+36,Other Current Assets,13040,42520,1826
+37,Total Current Assets,46480,326721,18258
+38,PP&E,- -,- -,- -
+39,Goodwill,- -,- -,- -
+40,Intangible Assets,216,4212,4
+41,Intangible Assets,216,4212,4
+42,Investments,- -,- -,- -
+43,Tax Assets,- -,- -,- -
+44,Other Non-Current Assets,- -,- -,991
+45,Total Non-Current Assets,216,4212,995
+46,Other Assets,- -,- -,- -
+47,Total Assets,46696,330933,19253
+48,Accounts Payable,63974,68869,417
+49,Short-Term Debt,- -,- -,- -
+50,Tax Payable,- -,- -,- -
+51,Deferred Revenue,- -,- -,14
+52,Other Current Liabilities,407844,1725222,1746
+53,Total Current Liabilities,471818,1794091,2177
+54,Long-Term Debt,- -,- -,- -
+55,Deferred Revenue,- -,- -,- -
+56,Deferred Tax Liabilities,- -,- -,- -
+57,Other Non-Current Liabilities,- -,- -,- -
+58,Total Non-Current Liabilities,- -,- -,- -
+59,Other Liabilities,- -,- -,- -
+60,Capital Lease Obligations,- -,- -,- -
+61,Total Liabilities,471818,1794091,2177
+62,Preferred Stock,- -,- -,- -
+63,Common Stock,7000,260000,12
+64,Retained Earnings,-432122,-1723158,-617
+65,Other Comprehensive Income/Loss,- -,- -,- -
+66,Other Total Stockholders Equity,- -,- -,17681
+67,Total Stockholders Equity,-425122,-1463158,17076
+68,Total Liabilities And Stockholders Equity,46696,330933,19253
+69,Minority Interest,- -,- -,-0
+70,Total Liabilities & Equity,46696,330933,19253
+71,SEC Link,- -,- -,https://www.sec.gov/Archives/edgar/data/1880343/000121390022016834/0001213900-22-016834-index.htm
+72,CASH FLOW STATEMENT, , , 
+73,Net Income,-432122,-1291036,- -
+74,Depreciation and Amortization,9,317,- -
+75,Deferred Income Tax,- -,- -,- -
+76,Stock Based Compensation,7000,3000,- -
+77,Change in Working Capital,431178,1483451,- -
+78,Accounts Receivable,- -,-13152,- -
+79,Inventory,-27600,-166441,- -
+80,Accounts Payable,63974,4895,- -
+81,Other Working Capital,-1467370,16081,- -
+82,Other Non-Cash Items,- -,-442774,- -
+83,Cash Provided by Operating Activities,6065,-247042,- -
+84,CAPEX,-225,-4313,- -
+85,Acquisitions Net,- -,- -,- -
+86,Purchases of Investments,- -,- -,- -
+87,Sales/Maturities of Investments,- -,- -,- -
+88,Other Investing Activites,-225,-4313,- -
+89,Cash Used for Investing Activites,-225,-4313,- -
+90,Debt Repayment,- -,- -,- -
+91,Common Stock Issued,- -,250000,- -
+92,Common Stock Repurchased,- -,- -,- -
+93,Dividends Paid,- -,- -,- -
+94,Other Financing Activites,- -,- -,- -
+95,Cash Used/Provided by Financing Activities,- -,250000,- -
+96,Effect of Forex Changes on Cash,- -,- -,- -
+97,Net Change In Cash,- -,-1355,- -
+98,Cash at the End of Period,5840,4485,- -
+99,Cash at the Beginning of Period,- -,5840,- -
+100,Free Cash Flow,5840,-251355,- -
+101,SEC Link,- -,- -,undefined
+102,false,,,

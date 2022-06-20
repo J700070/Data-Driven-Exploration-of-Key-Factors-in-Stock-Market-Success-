@@ -1,0 +1,104 @@
+,https://roic.ai/company/VAXX,2019,2020
+0,INCOME STATEMENT, , 
+1,Revenue,- -,557000
+2,COGS,- -,52000
+3,Gross Profit,- -,505000
+4,Gross Profit Ratio,- -,0.9066
+5,Research and Development Exp.,10656000,20570000
+6,General and Administrative Exp.,3005000,12217000
+7,Selling and Marketing Exp.,- -,- -
+8,"Selling, General and Administrative Exp.",3005000,12217000
+9,Other Expenses,- -,- -
+10,Operating Expenses,13661000,32787000
+11,COGS and Expenses,13661000,32839000
+12,Interest Income ,- -,- -
+13,Interest Expense (Gain),435000,1181000
+14,Depreciation and Amortization,107000,717000
+15,EBITDA,-13581000,-38059000
+16,EBITDA ratio,-Infinity,-68.3285
+17,Operating Income,-13661000,-32282000
+18,Operating Income ratio,-Infinity,-57.9569
+19,Total Other Income Expenses (Gains),-502000,-7675000
+20,Income Before Tax,-14163000,-39957000
+21,Income Before Tax Ratio,-Infinity,-71.7361
+22,Income Tax expense (Gain),56000,- -
+23,Net Income,-14219000,-39957000
+24,Net Income ratio,-Infinity,-71.7361
+25,EPS,-0.11,-0.32
+26,EPS Diluted,-0.11,-0.32
+27,Weighted Average Shares Outstanding,124753178,124753178
+28,Weighted Average Shares Outstanding Diluted,124753178,124753178
+29,SEC Link,- -,- -
+30,BALANCE SHEET, , 
+31,Cash and Cash Equivalents,476000,31143000
+32,Short-Term Investments,- -,- -
+33,Cash and Short-Term Investments,476000,31143000
+34,Net Receivables,303000,387000
+35,Inventory,- -,- -
+36,Other Current Assets,656000,4144000
+37,Total Current Assets,1435000,35674000
+38,PP&E,160000,12158000
+39,Goodwill,- -,- -
+40,Intangible Assets,- -,- -
+41,Intangible Assets,- -,- -
+42,Investments,- -,- -
+43,Tax Assets,- -,- -
+44,Other Non-Current Assets,- -,2309000
+45,Total Non-Current Assets,160000,14467000
+46,Other Assets,- -,- -
+47,Total Assets,1595000,50141000
+48,Accounts Payable,1284000,1017000
+49,Short-Term Debt,13185000,27593000
+50,Tax Payable,- -,- -
+51,Deferred Revenue,- -,- -
+52,Other Current Liabilities,5406000,8614000
+53,Total Current Liabilities,19875000,37224000
+54,Long-Term Debt,1149000,10712000
+55,Deferred Revenue,- -,- -
+56,Deferred Tax Liabilities,- -,- -
+57,Other Non-Current Liabilities,29083000,89580000
+58,Total Non-Current Liabilities,30232000,100292000
+59,Other Liabilities,- -,- -
+60,Capital Lease Obligations,25000,13000
+61,Total Liabilities,50107000,137516000
+62,Preferred Stock,- -,- -
+63,Common Stock,270000,272000
+64,Retained Earnings,-52349000,-92306000
+65,Other Comprehensive Income/Loss,- -,- -
+66,Other Total Stockholders Equity,3567000,4659000
+67,Total Stockholders Equity,-48512000,-87375000
+68,Total Liabilities And Stockholders Equity,1595000,50141000
+69,Minority Interest,- -,- -
+70,Total Liabilities & Equity,1595000,50141000
+71,SEC Link,- -,- -
+72,CASH FLOW STATEMENT, , 
+73,Net Income,-14219000,-39957000
+74,Depreciation and Amortization,107000,717000
+75,Deferred Income Tax,- -,- -
+76,Stock Based Compensation,1228000,1014000
+77,Change in Working Capital,157000,-2791000
+78,Accounts Receivable,- -,-26000
+79,Inventory,- -,- -
+80,Accounts Payable,-446000,-267000
+81,Other Working Capital,- -,-2254000
+82,Other Non-Cash Items,462000,7107000
+83,Cash Provided by Operating Activities,-12265000,-33910000
+84,CAPEX,- -,-1477000
+85,Acquisitions Net,- -,- -
+86,Purchases of Investments,- -,- -
+87,Sales/Maturities of Investments,- -,- -
+88,Other Investing Activites,- -,- -
+89,Cash Used for Investing Activites,- -,-1477000
+90,Debt Repayment,- -,-5702000
+91,Common Stock Issued,- -,- -
+92,Common Stock Repurchased,- -,-41000
+93,Dividends Paid,- -,- -
+94,Other Financing Activites,11137000,71852000
+95,Cash Used/Provided by Financing Activities,11137000,66109000
+96,Effect of Forex Changes on Cash,- -,- -
+97,Net Change In Cash,-1128000,30722000
+98,Cash at the End of Period,476000,31198000
+99,Cash at the Beginning of Period,1604000,476000
+100,Free Cash Flow,-12265000,-35387000
+101,SEC Link,- -,- -
+102,false,,

@@ -1,0 +1,104 @@
+,https://roic.ai/company/GECCM,2020,2021
+0,INCOME STATEMENT, , 
+1,Revenue,19210000,19917000
+2,COGS,- -,- -
+3,Gross Profit,- -,- -
+4,Gross Profit Ratio,- -,- -
+5,Research and Development Exp.,- -,- -
+6,General and Administrative Exp.,- -,673000
+7,Selling and Marketing Exp.,- -,- -
+8,"Selling, General and Administrative Exp.",- -,673000
+9,Other Expenses,- -,- -
+10,Operating Expenses,- -,673000
+11,COGS and Expenses,- -,- -
+12,Interest Income ,- -,- -
+13,Interest Expense (Gain),-9126000,10428000
+14,Depreciation and Amortization,- -,12921000
+15,EBITDA,-1960000,35682000
+16,EBITDA ratio,-0.1020,1.7915
+17,Operating Income,7166000,12333000
+18,Operating Income ratio,0.3730,0.6192
+19,Total Other Income Expenses (Gains),- -,- -
+20,Income Before Tax,7166000,12333000
+21,Income Before Tax Ratio,0.3730,0.6192
+22,Income Tax expense (Gain),- -,- -
+23,Net Income,7166000,12333000
+24,Net Income ratio,0.3730,0.6192
+25,EPS,0.54,3.02
+26,EPS Diluted,0.54,3.02
+27,Weighted Average Shares Outstanding,- -,- -
+28,Weighted Average Shares Outstanding Diluted,- -,- -
+29,SEC Link,https://www.sec.gov/Archives/edgar/data/1675033/000156459021013314/0001564590-21-013314-index.htm,https://www.sec.gov/Archives/edgar/data/1675033/000156459022008636/0001564590-22-008636-index.htm
+30,BALANCE SHEET, , 
+31,Cash and Cash Equivalents,52582000,9132000
+32,Short-Term Investments,- -,164203000
+33,Cash and Short-Term Investments,52582000,173335000
+34,Net Receivables,- -,1811000
+35,Inventory,- -,- -
+36,Other Current Assets,- -,- -
+37,Total Current Assets,52582000,175146000
+38,PP&E,- -,- -
+39,Goodwill,- -,- -
+40,Intangible Assets,- -,- -
+41,Intangible Assets,- -,- -
+42,Investments,- -,247941000
+43,Tax Assets,- -,- -
+44,Other Non-Current Assets,- -,- -
+45,Total Non-Current Assets,- -,- -
+46,Other Assets,230746000,251168000
+47,Total Assets,283328000,426314000
+48,Accounts Payable,- -,- -
+49,Short-Term Debt,29799000,- -
+50,Tax Payable,- -,- -
+51,Deferred Revenue,- -,- -
+52,Other Current Liabilities,- -,- -
+53,Total Current Liabilities,29799000,- -
+54,Long-Term Debt,- -,- -
+55,Deferred Revenue,- -,- -
+56,Deferred Tax Liabilities,- -,- -
+57,Other Non-Current Liabilities,- -,- -
+58,Total Non-Current Liabilities,- -,- -
+59,Other Liabilities,173914000,351758000
+60,Capital Lease Obligations,- -,- -
+61,Total Liabilities,203713000,351758000
+62,Preferred Stock,- -,- -
+63,Common Stock,230000,45000
+64,Retained Earnings,- -,- -
+65,Other Comprehensive Income/Loss,- -,- -
+66,Other Total Stockholders Equity,79385000,- -
+67,Total Stockholders Equity,79615000,74556000
+68,Total Liabilities And Stockholders Equity,283328000,426314000
+69,Minority Interest,- -,- -
+70,Total Liabilities & Equity,283328000,426314000
+71,SEC Link,https://www.sec.gov/Archives/edgar/data/1675033/000156459021013314/0001564590-21-013314-index.htm,https://www.sec.gov/Archives/edgar/data/1675033/000156459022008636/0001564590-22-008636-index.htm
+72,CASH FLOW STATEMENT, , 
+73,Net Income,- -,12333000
+74,Depreciation and Amortization,- -,12921000
+75,Deferred Income Tax,- -,- -
+76,Stock Based Compensation,- -,- -
+77,Change in Working Capital,- -,- -
+78,Accounts Receivable,- -,- -
+79,Inventory,- -,- -
+80,Accounts Payable,- -,- -
+81,Other Working Capital,- -,175146000
+82,Other Non-Cash Items,- -,-83743000
+83,Cash Provided by Operating Activities,- -,-58489000
+84,CAPEX,- -,- -
+85,Acquisitions Net,- -,- -
+86,Purchases of Investments,- -,-191875000
+87,Sales/Maturities of Investments,- -,64733000
+88,Other Investing Activites,- -,- -
+89,Cash Used for Investing Activites,- -,- -
+90,Debt Repayment,- -,- -
+91,Common Stock Issued,- -,13239000
+92,Common Stock Repurchased,- -,- -
+93,Dividends Paid,- -,-1540000
+94,Other Financing Activites,- -,2753000
+95,Cash Used/Provided by Financing Activities,- -,14452000
+96,Effect of Forex Changes on Cash,- -,- -
+97,Net Change In Cash,- -,-44037000
+98,Cash at the End of Period,- -,9145000
+99,Cash at the Beginning of Period,- -,53182000
+100,Free Cash Flow,- -,-58489000
+101,SEC Link,undefined,https://www.sec.gov/Archives/edgar/data/1675033/000156459022008636/0001564590-22-008636-index.htm
+102,false,,

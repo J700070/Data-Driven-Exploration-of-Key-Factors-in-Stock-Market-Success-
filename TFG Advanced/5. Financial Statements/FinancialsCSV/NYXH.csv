@@ -1,0 +1,104 @@
+,https://roic.ai/company/NYXH,2017,2018,2019,2020,2021
+0,INCOME STATEMENT, , , , , 
+1,Revenue,- -,- -,- -,69000,852000
+2,COGS,2110000,2523000,848000,1083000,303000
+3,Gross Profit,-2110000,-2523000,-848000,-1014000,549000
+4,Gross Profit Ratio,-Infinity,-Infinity,-Infinity,-14.6957,0.6444
+5,Research and Development Exp.,2000000,1723000,2025000,2910000,6567000
+6,General and Administrative Exp.,1451000,1391000,1570000,4110000,19249000
+7,Selling and Marketing Exp.,- -,- -,- -,- -,- -
+8,"Selling, General and Administrative Exp.",1451000,1391000,1570000,4110000,19249000
+9,Other Expenses,4582000,2813000,2073000,3190000,975000
+10,Operating Expenses,8033000,5927000,5668000,10210000,26791000
+11,COGS and Expenses,10143000,8450000,6516000,11293000,27094000
+12,Interest Income ,2000,1000,8000,3000,1000
+13,Interest Expense (Gain),37000,29000,50000,198000,386000
+14,Depreciation and Amortization,87000,95000,433000,620000,1662000
+15,EBITDA,-10210000,-8914000,-6702000,-11334000,-22591000
+16,EBITDA ratio,-Infinity,-Infinity,-Infinity,-164.2609,-26.5153
+17,Operating Income,-10143000,-8450000,-6516000,-11224000,-26242000
+18,Operating Income ratio,-Infinity,-Infinity,-Infinity,-162.6667,-30.8005
+19,Total Other Income Expenses (Gains),-191000,-588000,-669000,-928000,1603000
+20,Income Before Tax,-10334000,-9038000,-7185000,-12152000,-24639000
+21,Income Before Tax Ratio,-Infinity,-Infinity,-Infinity,-176.1159,-28.9190
+22,Income Tax expense (Gain),37000,41000,70000,93000,2980000
+23,Net Income,-10371000,-9079000,-7255000,-12245000,-27619000
+24,Net Income ratio,-Infinity,-Infinity,-Infinity,-177.4638,-32.4167
+25,EPS,-0.50,-0.43,-0.35,-0.68,-1.16
+26,EPS Diluted,-0.50,-0.43,-0.35,-0.68,-1.16
+27,Weighted Average Shares Outstanding,20894500,20894500,20894500,18097988,23809483
+28,Weighted Average Shares Outstanding Diluted,20894500,20894500,20894500,18097988,23809483
+29,SEC Link,- -,- -,- -,- -,- -
+30,BALANCE SHEET, , , , , 
+31,Cash and Cash Equivalents,10105000,16805000,5855000,92300000,135509000
+32,Short-Term Investments,- -,- -,- -,- -,- -
+33,Cash and Short-Term Investments,10105000,16805000,5855000,92300000,135509000
+34,Net Receivables,- -,- -,- -,- -,2512000
+35,Inventory,- -,- -,- -,55000,346000
+36,Other Current Assets,579000,734000,2119000,1753000,1693000
+37,Total Current Assets,10684000,17539000,7974000,94108000,140060000
+38,PP&E,369000,343000,1388000,3997000,5238000
+39,Goodwill,- -,- -,- -,- -,- -
+40,Intangible Assets,- -,- -,5734000,15853000,25322000
+41,Intangible Assets,- -,- -,5734000,15853000,25322000
+42,Investments,- -,- -,- -,- -,- -
+43,Tax Assets,22000,29000,21000,32000,46000
+44,Other Non-Current Assets,70000,68000,78000,90000,164000
+45,Total Non-Current Assets,461000,440000,7221000,19972000,30770000
+46,Other Assets,- -,- -,- -,- -,- -
+47,Total Assets,11145000,17979000,15195000,114080000,170830000
+48,Accounts Payable,389000,606000,1174000,815000,2394000
+49,Short-Term Debt,395000,289000,718000,1089000,1136000
+50,Tax Payable,- -,- -,- -,- -,2808000
+51,Deferred Revenue,- -,- -,- -,- -,- -
+52,Other Current Liabilities,965000,1104000,1679000,4498000,8042000
+53,Total Current Liabilities,1749000,1999000,3571000,6402000,11572000
+54,Long-Term Debt,4869000,5526000,7881000,10451000,10539000
+55,Deferred Revenue,- -,- -,- -,- -,- -
+56,Deferred Tax Liabilities,- -,- -,- -,- -,5000
+57,Other Non-Current Liabilities,- -,- -,30000,37000,92000
+58,Total Non-Current Liabilities,4869000,5526000,7911000,10488000,10636000
+59,Other Liabilities,- -,- -,- -,- -,- -
+60,Capital Lease Obligations,- -,- -,1075000,3317000,3319000
+61,Total Liabilities,6618000,7525000,11482000,16890000,22208000
+62,Preferred Stock,- -,- -,- -,- -,- -
+63,Common Stock,2004000,2481000,2481000,3796000,4427000
+64,Retained Earnings,-30735000,-39814000,-47063000,-60341000,-87167000
+65,Other Comprehensive Income/Loss,- -,- -,- -,- -,202000
+66,Other Total Stockholders Equity,33258000,47787000,48295000,153735000,231160000
+67,Total Stockholders Equity,4527000,10454000,3713000,97190000,148622000
+68,Total Liabilities And Stockholders Equity,11145000,17979000,15195000,114080000,170830000
+69,Minority Interest,- -,- -,- -,- -,- -
+70,Total Liabilities & Equity,11145000,17979000,15195000,114080000,170830000
+71,SEC Link,- -,- -,- -,- -,- -
+72,CASH FLOW STATEMENT, , , , , 
+73,Net Income,-10371000,-9079000,-7255000,-12245000,-27619000
+74,Depreciation and Amortization,87000,95000,433000,620000,1662000
+75,Deferred Income Tax,- -,- -,- -,- -,- -
+76,Stock Based Compensation,24000,28000,346000,2549000,1270000
+77,Change in Working Capital,-454000,201000,-242000,1419000,-1144000
+78,Accounts Receivable,- -,- -,- -,- -,- -
+79,Inventory,- -,- -,- -,-55000,-291000
+80,Accounts Payable,- -,- -,- -,- -,- -
+81,Other Working Capital,- -,- -,- -,- -,- -
+82,Other Non-Cash Items,2427000,616000,753000,642000,495000
+83,Cash Provided by Operating Activities,-8287000,-8139000,-5965000,-7015000,-25336000
+84,CAPEX,-91000,-77000,-5785000,-10680000,-11817000
+85,Acquisitions Net,- -,- -,- -,- -,- -
+86,Purchases of Investments,- -,- -,- -,-13000,- -
+87,Sales/Maturities of Investments,- -,- -,- -,- -,- -
+88,Other Investing Activites,- -,2000,-5744000,-10118000,-10348000
+89,Cash Used for Investing Activites,-91000,-75000,-5795000,-10693000,-11817000
+90,Debt Repayment,-100000,-226000,-122000,-118000,-863000
+91,Common Stock Issued,- -,15002000,- -,103583000,77728000
+92,Common Stock Repurchased,- -,- -,- -,- -,- -
+93,Dividends Paid,- -,- -,- -,- -,- -
+94,Other Financing Activites,1213000,226000,855000,711000,-393000
+95,Cash Used/Provided by Financing Activities,1113000,15002000,733000,104176000,76472000
+96,Effect of Forex Changes on Cash,-76000,-88000,77000,-23000,3890000
+97,Net Change In Cash,-7341000,6700000,-10950000,86445000,43209000
+98,Cash at the End of Period,10105000,16805000,5855000,92300000,135509000
+99,Cash at the Beginning of Period,17446000,10105000,16805000,5855000,92300000
+100,Free Cash Flow,-8378000,-8216000,-11750000,-17695000,-37153000
+101,SEC Link,- -,- -,- -,- -,- -
+102,Forex Rate,1.1996,1.1469,1.121,1.2213,1.1368

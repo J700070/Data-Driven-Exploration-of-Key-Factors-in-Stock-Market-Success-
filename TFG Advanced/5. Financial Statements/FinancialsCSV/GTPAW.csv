@@ -1,0 +1,104 @@
+,https://roic.ai/company/GTPAW,2020,2021
+0,INCOME STATEMENT, , 
+1,Revenue,- -,- -
+2,COGS,- -,- -
+3,Gross Profit,- -,- -
+4,Gross Profit Ratio,- -,- -
+5,Research and Development Exp.,- -,- -
+6,General and Administrative Exp.,- -,2032262
+7,Selling and Marketing Exp.,- -,- -
+8,"Selling, General and Administrative Exp.",- -,2032262
+9,Other Expenses,- -,- -
+10,Operating Expenses,- -,2032262
+11,COGS and Expenses,- -,- -
+12,Interest Income ,- -,- -
+13,Interest Expense (Gain),- -,- -
+14,Depreciation and Amortization,- -,- -
+15,EBITDA,- -,-5146776
+16,EBITDA ratio,- -,-Infinity
+17,Operating Income,- -,-5146776
+18,Operating Income ratio,- -,-Infinity
+19,Total Other Income Expenses (Gains),- -,21852
+20,Income Before Tax,- -,-5124924
+21,Income Before Tax Ratio,- -,-Infinity
+22,Income Tax expense (Gain),- -,-200000
+23,Net Income,- -,-5124924
+24,Net Income ratio,- -,-Infinity
+25,EPS,- -,- -
+26,EPS Diluted,- -,- -
+27,Weighted Average Shares Outstanding,- -,- -
+28,Weighted Average Shares Outstanding Diluted,- -,- -
+29,SEC Link,undefined,https://www.sec.gov/Archives/edgar/data/1837105/000156459022012985/0001564590-22-012985-index.htm
+30,BALANCE SHEET, , 
+31,Cash and Cash Equivalents,- -,222
+32,Short-Term Investments,- -,- -
+33,Cash and Short-Term Investments,- -,222
+34,Net Receivables,- -,- -
+35,Inventory,- -,- -
+36,Other Current Assets,- -,1071
+37,Total Current Assets,- -,1294
+38,PP&E,- -,- -
+39,Goodwill,- -,- -
+40,Intangible Assets,- -,- -
+41,Intangible Assets,- -,- -
+42,Investments,- -,275022
+43,Tax Assets,- -,- -
+44,Other Non-Current Assets,11748,- -
+45,Total Non-Current Assets,11748,275022
+46,Other Assets,- -,- -
+47,Total Assets,11748,276315
+48,Accounts Payable,- -,- -
+49,Short-Term Debt,- -,900
+50,Tax Payable,450,- -
+51,Deferred Revenue,- -,900
+52,Other Current Liabilities,16198,12392
+53,Total Current Liabilities,16198,14192
+54,Long-Term Debt,- -,- -
+55,Deferred Revenue,- -,- -
+56,Deferred Tax Liabilities,- -,- -
+57,Other Non-Current Liabilities,- -,9625
+58,Total Non-Current Liabilities,- -,9625
+59,Other Liabilities,- -,- -
+60,Capital Lease Obligations,- -,- -
+61,Total Liabilities,16198,23817
+62,Preferred Stock,- -,- -
+63,Common Stock,- -,275001
+64,Retained Earnings,-4450,-22502
+65,Other Comprehensive Income/Loss,- -,- -
+66,Other Total Stockholders Equity,- -,- -
+67,Total Stockholders Equity,-4450,-22501
+68,Total Liabilities And Stockholders Equity,11748,1315
+69,Minority Interest,- -,275000
+70,Total Liabilities & Equity,11748,276315
+71,SEC Link,- -,https://www.sec.gov/Archives/edgar/data/1837105/000156459022012985/0001564590-22-012985-index.htm
+72,CASH FLOW STATEMENT, , 
+73,Net Income,- -,-5124924
+74,Depreciation and Amortization,- -,- -
+75,Deferred Income Tax,- -,- -
+76,Stock Based Compensation,- -,9625000
+77,Change in Working Capital,- -,- -
+78,Accounts Receivable,- -,- -
+79,Inventory,- -,- -
+80,Accounts Payable,- -,- -
+81,Other Working Capital,- -,-12898
+82,Other Non-Cash Items,- -,-6704097
+83,Cash Provided by Operating Activities,- -,-2204021
+84,CAPEX,- -,- -
+85,Acquisitions Net,- -,- -
+86,Purchases of Investments,- -,- -
+87,Sales/Maturities of Investments,- -,- -
+88,Other Investing Activites,- -,-275021852
+89,Cash Used for Investing Activites,- -,-275021852
+90,Debt Repayment,- -,450
+91,Common Stock Issued,- -,- -
+92,Common Stock Repurchased,- -,- -
+93,Dividends Paid,- -,- -
+94,Other Financing Activites,- -,277447915
+95,Cash Used/Provided by Financing Activities,- -,277448365
+96,Effect of Forex Changes on Cash,- -,- -
+97,Net Change In Cash,- -,222492
+98,Cash at the End of Period,- -,222492
+99,Cash at the Beginning of Period,- -,- -
+100,Free Cash Flow,- -,-2204021
+101,SEC Link,undefined,https://www.sec.gov/Archives/edgar/data/1837105/000156459022012985/0001564590-22-012985-index.htm
+102,false,,

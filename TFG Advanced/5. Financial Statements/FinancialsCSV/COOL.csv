@@ -1,0 +1,104 @@
+,https://roic.ai/company/COOL,2020,2021
+0,INCOME STATEMENT, , 
+1,Revenue,- -,- -
+2,COGS,- -,- -
+3,Gross Profit,- -,- -
+4,Gross Profit Ratio,- -,- -
+5,Research and Development Exp.,- -,- -
+6,General and Administrative Exp.,- -,- -
+7,Selling and Marketing Exp.,- -,- -
+8,"Selling, General and Administrative Exp.",- -,- -
+9,Other Expenses,- -,- -
+10,Operating Expenses,- -,- -
+11,COGS and Expenses,- -,- -
+12,Interest Income ,- -,- -
+13,Interest Expense (Gain),- -,- -
+14,Depreciation and Amortization,- -,- -
+15,EBITDA,- -,-1709425
+16,EBITDA ratio,- -,-Infinity
+17,Operating Income,-133104,-1709425
+18,Operating Income ratio,-Infinity,-Infinity
+19,Total Other Income Expenses (Gains),- -,7261288
+20,Income Before Tax,-133104,5551863
+21,Income Before Tax Ratio,-Infinity,Infinity
+22,Income Tax expense (Gain),- -,- -
+23,Net Income,-133104,5551863
+24,Net Income ratio,-Infinity,Infinity
+25,EPS,5.47,0.11
+26,EPS Diluted,5.47,0.11
+27,Weighted Average Shares Outstanding,50000000,50000000
+28,Weighted Average Shares Outstanding Diluted,50000000,50000000
+29,SEC Link,https://www.sec.gov/Archives/edgar/data/1829953/000119312521100891/0001193125-21-100891-index.htm,https://www.sec.gov/Archives/edgar/data/1829953/000119312522091966/0001193125-22-091966-index.htm
+30,BALANCE SHEET, , 
+31,Cash and Cash Equivalents,1916935,646558
+32,Short-Term Investments,400005705,- -
+33,Cash and Short-Term Investments,401922640,646558
+34,Net Receivables,- -,- -
+35,Inventory,- -,- -
+36,Other Current Assets,-1916935,359471
+37,Total Current Assets,400005705,1006029
+38,PP&E,- -,- -
+39,Goodwill,- -,- -
+40,Intangible Assets,- -,- -
+41,Intangible Assets,- -,- -
+42,Investments,400005705,400142570
+43,Tax Assets,- -,- -
+44,Other Non-Current Assets,- -,- -
+45,Total Non-Current Assets,400005705,400142570
+46,Other Assets,- -,- -
+47,Total Assets,800011410,401148599
+48,Accounts Payable,30,- -
+49,Short-Term Debt,- -,- -
+50,Tax Payable,- -,- -
+51,Deferred Revenue,- -,- -
+52,Other Current Liabilities,161867,195343
+53,Total Current Liabilities,161897,195343
+54,Long-Term Debt,- -,- -
+55,Deferred Revenue,- -,- -
+56,Deferred Tax Liabilities,- -,- -
+57,Other Non-Current Liabilities,14000000,28520000
+58,Total Non-Current Liabilities,14000000,28520000
+59,Other Liabilities,- -,- -
+60,Capital Lease Obligations,- -,- -
+61,Total Liabilities,14161897,28715343
+62,Preferred Stock,- -,- -
+63,Common Stock,- -,- -
+64,Retained Earnings,- -,-27567744
+65,Other Comprehensive Income/Loss,- -,- -
+66,Other Total Stockholders Equity,388525816,1000
+67,Total Stockholders Equity,388525816,-27566744
+68,Total Liabilities And Stockholders Equity,402687713,1148599
+69,Minority Interest,397323697,400000000
+70,Total Liabilities & Equity,800011410,401148599
+71,SEC Link,https://www.sec.gov/Archives/edgar/data/1829953/000119312521100891/0001193125-21-100891-index.htm,https://www.sec.gov/Archives/edgar/data/1829953/000119312522091966/0001193125-22-091966-index.htm
+72,CASH FLOW STATEMENT, , 
+73,Net Income,- -,5551863
+74,Depreciation and Amortization,- -,- -
+75,Deferred Income Tax,- -,- -
+76,Stock Based Compensation,- -,- -
+77,Change in Working Capital,- -,- -
+78,Accounts Receivable,- -,- -
+79,Inventory,- -,- -
+80,Accounts Payable,- -,- -
+81,Other Working Capital,- -,810686
+82,Other Non-Cash Items,- -,-6784686
+83,Cash Provided by Operating Activities,- -,-1232823
+84,CAPEX,- -,- -
+85,Acquisitions Net,- -,- -
+86,Purchases of Investments,- -,- -
+87,Sales/Maturities of Investments,- -,- -
+88,Other Investing Activites,- -,- -
+89,Cash Used for Investing Activites,- -,- -
+90,Debt Repayment,- -,- -
+91,Common Stock Issued,- -,- -
+92,Common Stock Repurchased,- -,- -
+93,Dividends Paid,- -,- -
+94,Other Financing Activites,- -,-37554
+95,Cash Used/Provided by Financing Activities,- -,-37554
+96,Effect of Forex Changes on Cash,- -,- -
+97,Net Change In Cash,- -,- -
+98,Cash at the End of Period,- -,646558
+99,Cash at the Beginning of Period,- -,- -
+100,Free Cash Flow,- -,-1232823
+101,SEC Link,undefined,https://www.sec.gov/Archives/edgar/data/1829953/000119312522091966/0001193125-22-091966-index.htm
+102,false,,

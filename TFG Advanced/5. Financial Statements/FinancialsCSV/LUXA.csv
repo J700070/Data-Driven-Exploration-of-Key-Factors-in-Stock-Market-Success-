@@ -1,0 +1,104 @@
+,https://roic.ai/company/LUXA,2020,2021
+0,INCOME STATEMENT, , 
+1,Revenue,- -,- -
+2,COGS,- -,- -
+3,Gross Profit,- -,- -
+4,Gross Profit Ratio,- -,- -
+5,Research and Development Exp.,- -,- -
+6,General and Administrative Exp.,183040,978762
+7,Selling and Marketing Exp.,- -,- -
+8,"Selling, General and Administrative Exp.",183040,978762
+9,Other Expenses,- -,- -
+10,Operating Expenses,183040,978762
+11,COGS and Expenses,183040,- -
+12,Interest Income ,- -,- -
+13,Interest Expense (Gain),- -,- -
+14,Depreciation and Amortization,- -,- -
+15,EBITDA,-248295,-1182576
+16,EBITDA ratio,-Infinity,-Infinity
+17,Operating Income,-248295,-1182576
+18,Operating Income ratio,-Infinity,-Infinity
+19,Total Other Income Expenses (Gains),3572,28280044
+20,Income Before Tax,-244723,27097468
+21,Income Before Tax Ratio,-Infinity,Infinity
+22,Income Tax expense (Gain),- -,- -
+23,Net Income,-244723,27097468
+24,Net Income ratio,-Infinity,Infinity
+25,EPS,-0.01,0.63
+26,EPS Diluted,-0.01,0.63
+27,Weighted Average Shares Outstanding,43124997,43124997
+28,Weighted Average Shares Outstanding Diluted,43124997,43124997
+29,SEC Link,https://www.sec.gov/Archives/edgar/data/1823767/000156459021014360/0001564590-21-014360-index.htm,https://www.sec.gov/Archives/edgar/data/1823767/000156459022012588/0001564590-22-012588-index.htm
+30,BALANCE SHEET, , 
+31,Cash and Cash Equivalents,637825,417821
+32,Short-Term Investments,345003572,- -
+33,Cash and Short-Term Investments,345641397,417821
+34,Net Receivables,- -,- -
+35,Inventory,- -,- -
+36,Other Current Assets,-344554792,236453
+37,Total Current Assets,1086605,654274
+38,PP&E,- -,- -
+39,Goodwill,- -,- -
+40,Intangible Assets,- -,- -
+41,Intangible Assets,- -,- -
+42,Investments,- -,345025321
+43,Tax Assets,- -,- -
+44,Other Non-Current Assets,- -,- -
+45,Total Non-Current Assets,- -,345025321
+46,Other Assets,345003572,- -
+47,Total Assets,346090177,345679595
+48,Accounts Payable,15450,260790
+49,Short-Term Debt,- -,- -
+50,Tax Payable,65255,147442
+51,Deferred Revenue,- -,- -
+52,Other Current Liabilities,174687,663297
+53,Total Current Liabilities,190137,924087
+54,Long-Term Debt,- -,- -
+55,Deferred Revenue,- -,- -
+56,Deferred Tax Liabilities,- -,- -
+57,Other Non-Current Liabilities,- -,27242000
+58,Total Non-Current Liabilities,- -,27242000
+59,Other Liabilities,12075000,- -
+60,Capital Lease Obligations,- -,- -
+61,Total Liabilities,12265137,28166087
+62,Preferred Stock,- -,- -
+63,Common Stock,328825030,345000863
+64,Retained Earnings,- -,-27487355
+65,Other Comprehensive Income/Loss,- -,- -
+66,Other Total Stockholders Equity,5000010,- -
+67,Total Stockholders Equity,333825040,-27486492
+68,Total Liabilities And Stockholders Equity,346090177,679595
+69,Minority Interest,- -,345000000
+70,Total Liabilities & Equity,346090177,345679595
+71,SEC Link,https://www.sec.gov/Archives/edgar/data/1823767/000156459021014360/0001564590-21-014360-index.htm,https://www.sec.gov/Archives/edgar/data/1823767/000156459022012588/0001564590-22-012588-index.htm
+72,CASH FLOW STATEMENT, , 
+73,Net Income,-244723,27097
+74,Depreciation and Amortization,- -,- -
+75,Deferred Income Tax,- -,- -
+76,Stock Based Compensation,- -,- -
+77,Change in Working Capital,- -,-1166281
+78,Accounts Receivable,- -,- -
+79,Inventory,- -,- -
+80,Accounts Payable,15450,261
+81,Other Working Capital,896468,-269813
+82,Other Non-Cash Items,-334565,1138479
+83,Cash Provided by Operating Activities,-579288,-705
+84,CAPEX,- -,- -
+85,Acquisitions Net,- -,- -
+86,Purchases of Investments,- -,- -
+87,Sales/Maturities of Investments,- -,- -
+88,Other Investing Activites,-345000000,- -
+89,Cash Used for Investing Activites,-345000000,- -
+90,Debt Repayment,- -,- -
+91,Common Stock Issued,25000,- -
+92,Common Stock Repurchased,- -,- -
+93,Dividends Paid,- -,- -
+94,Other Financing Activites,346192113,485
+95,Cash Used/Provided by Financing Activities,346217113,485
+96,Effect of Forex Changes on Cash,- -,- -
+97,Net Change In Cash,637825,-637407
+98,Cash at the End of Period,637825,418
+99,Cash at the Beginning of Period,- -,637825
+100,Free Cash Flow,-579288,-705
+101,SEC Link,https://www.sec.gov/Archives/edgar/data/1823767/000156459021014360/0001564590-21-014360-index.htm,https://www.sec.gov/Archives/edgar/data/1823767/000156459022012588/0001564590-22-012588-index.htm
+102,false,,

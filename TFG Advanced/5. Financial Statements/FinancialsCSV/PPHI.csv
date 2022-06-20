@@ -1,0 +1,104 @@
+,https://roic.ai/company/PPHI,2016,2017,2018,2019,2020,2021
+0,INCOME STATEMENT, , , , , , 
+1,Revenue,9773818,13246798,13412016,27965606,20200224,22335123
+2,COGS,- -,- -,- -,- -,- -,- -
+3,Gross Profit,- -,- -,- -,- -,- -,- -
+4,Gross Profit Ratio,- -,- -,- -,- -,- -,- -
+5,Research and Development Exp.,- -,- -,- -,- -,- -,- -
+6,General and Administrative Exp.,- -,- -,- -,- -,- -,- -
+7,Selling and Marketing Exp.,- -,- -,- -,- -,- -,- -
+8,"Selling, General and Administrative Exp.",- -,- -,- -,- -,- -,- -
+9,Other Expenses,- -,- -,- -,28000000,- -,- -
+10,Operating Expenses,- -,- -,- -,28000000,- -,- -
+11,COGS and Expenses,8363104,13527930,13576023,28197571,22486171,25556760
+12,Interest Income ,- -,- -,- -,- -,- -,- -
+13,Interest Expense (Gain),52543,8653,9597,3445,2510,15850
+14,Depreciation and Amortization,100000,100000,50000,1124363,1482495,1172682
+15,EBITDA,1563257,-172479,-104410,895843,-800942,-2033105
+16,EBITDA ratio,0.1599,-0.0130,-0.0078,0.0320,-0.0397,-0.0910
+17,Operating Income,- -,- -,- -,- -,- -,- -
+18,Operating Income ratio,- -,- -,- -,- -,- -,- -
+19,Total Other Income Expenses (Gains),- -,- -,- -,- -,- -,356917
+20,Income Before Tax,1410714,-281132,-164007,-231965,-2285947,-3221637
+21,Income Before Tax Ratio,0.1443,-0.0212,-0.0122,-0.0083,-0.1132,-0.1442
+22,Income Tax expense (Gain),585557,-260491,-101417,6986,-1074412,-701360
+23,Net Income,825157,-20641,-62590,-238951,-1211535,-2520277
+24,Net Income ratio,0.0844,-0.0016,-0.0047,-0.0085,-0.0600,-0.1128
+25,EPS,0.17,-0.00,-0.01,-0.07,-0.34,- -
+26,EPS Diluted,0.17,-0.00,-0.01,-0.07,-0.34,- -
+27,Weighted Average Shares Outstanding,4830000,4830000,4830000,3615500,3563338,- -
+28,Weighted Average Shares Outstanding Diluted,4830000,4830000,4830000,3615500,3563338,- -
+29,SEC Link,- -,- -,- -,https://www.sec.gov/Archives/edgar/data/1752039/000156459020025440/pphi-10k_20191231.htm,- -,- -
+30,BALANCE SHEET, , , , , , 
+31,Cash and Cash Equivalents,5045589,2110000,1964477,20988081,18877746,17197521
+32,Short-Term Investments,39155303,43786294,41195608,96917514,106106010,104028945
+33,Cash and Short-Term Investments,44200892,45896294,43160085,117905595,124983756,121226466
+34,Net Receivables,12534876,11527067,11187776,16548220,20838046,22293703
+35,Inventory,- -,- -,- -,- -,- -,- -
+36,Other Current Assets,- -,- -,- -,-1407378,- -,-98291473
+37,Total Current Assets,- -,- -,- -,133046437,- -,45228696
+38,PP&E,150000,50000,- -,- -,- -,663539
+39,Goodwill,- -,- -,- -,- -,- -,5977000
+40,Intangible Assets,- -,- -,- -,- -,- -,5553334
+41,Intangible Assets,- -,- -,- -,- -,- -,11530334
+42,Investments,41646468,46592907,47333764,104674480,106333876,104269821
+43,Tax Assets,- -,- -,- -,- -,- -,- -
+44,Other Non-Current Assets,- -,- -,- -,-81100556,- -,- -
+45,Total Non-Current Assets,- -,- -,- -,23573924,- -,116463694
+46,Other Assets,64063001,67202655,63623541,- -,158444263,278156084
+47,Total Assets,64063001,67202655,63623541,156620361,158444263,161692390
+48,Accounts Payable,4141197,2749742,2867272,6970999,5239239,5918230
+49,Short-Term Debt,- -,- -,- -,- -,- -,- -
+50,Tax Payable,- -,- -,- -,- -,- -,- -
+51,Deferred Revenue,- -,- -,- -,- -,- -,- -
+52,Other Current Liabilities,- -,- -,- -,76391101,- -,- -
+53,Total Current Liabilities,- -,- -,- -,83362100,- -,- -
+54,Long-Term Debt,781767,187222,627327,64858,- -,3371697
+55,Deferred Revenue,- -,- -,- -,- -,- -,- -
+56,Deferred Tax Liabilities,- -,41531,- -,- -,- -,- -
+57,Other Non-Current Liabilities,- -,- -,- -,2,- -,- -
+58,Total Non-Current Liabilities,781767,228753,627327,64860,- -,3371697
+59,Other Liabilities,47964623,49899472,47414437,- -,84238211,95781778
+60,Capital Lease Obligations,- -,- -,- -,- -,- -,666469
+61,Total Liabilities,47182856,49670719,46787110,83426956,84238211,92410081
+62,Preferred Stock,- -,- -,- -,- -,- -,- -
+63,Common Stock,5482997,5482997,5482997,36155,36155,36155
+64,Retained Earnings,- -,- -,11915477,22096447,20884912,18364635
+65,Other Comprehensive Income/Loss,- -,- -,- -,2000000,- -,1240689
+66,Other Total Stockholders Equity,11397148,12048939,-562043,49060803,53284985,49640830
+67,Total Stockholders Equity,16880145,17531936,16836431,73193405,74206052,69282309
+68,Total Liabilities And Stockholders Equity,64063001,67202655,63623541,156620361,158444263,161692390
+69,Minority Interest,- -,- -,- -,- -,- -,- -
+70,Total Liabilities & Equity,64063001,67202655,63623541,156620361,158444263,161692390
+71,SEC Link,- -,- -,- -,https://www.sec.gov/Archives/edgar/data/1752039/000156459020025440/pphi-10k_20191231.htm,- -,- -
+72,CASH FLOW STATEMENT, , , , , , 
+73,Net Income,825157,-20641,-62590,-238951,-1211535,-2520277
+74,Depreciation and Amortization,100000,100000,50000,1124363,1482495,1172682
+75,Deferred Income Tax,108516,206755,-173067,21664,37250,-702299
+76,Stock Based Compensation,- -,- -,- -,- -,118536,101213
+77,Change in Working Capital,68440,3233269,-2973889,-13191760,-3478204,3937511
+78,Accounts Receivable,-2622551,1449386,-40950,-655070,-3548500,-1881180
+79,Inventory,- -,- -,- -,- -,- -,- -
+80,Accounts Payable,3726188,-1391455,117530,1962618,-1731760,197727
+81,Other Working Capital,- -,- -,- -,- -,- -,- -
+82,Other Non-Cash Items,118904,221236,1037261,-1067668,1794678,391542
+83,Cash Provided by Operating Activities,1221017,3740619,-2122285,-13352352,-1256780,2380372
+84,CAPEX,- -,- -,- -,- -,- -,- -
+85,Acquisitions Net,- -,- -,- -,- -,- -,-5129079
+86,Purchases of Investments,-17086824,-8823908,-5067259,-21747426,-29403402,-22737071
+87,Sales/Maturities of Investments,15542979,2742245,6603916,18672307,28614705,21239104
+88,Other Investing Activites,- -,- -,- -,- -,- -,- -
+89,Cash Used for Investing Activites,-1543845,-6081663,1536657,-3075119,-788697,-6627046
+90,Debt Repayment,-55233,-594545,-59895,-62469,-64858,- -
+91,Common Stock Issued,- -,- -,- -,33574401,- -,- -
+92,Common Stock Repurchased,- -,- -,- -,- -,- -,- -
+93,Dividends Paid,- -,- -,- -,- -,- -,- -
+94,Other Financing Activites,- -,- -,500000,- -,- -,2703949
+95,Cash Used/Provided by Financing Activities,-55233,-594545,440105,33511932,-64858,2703949
+96,Effect of Forex Changes on Cash,- -,- -,- -,- -,- -,- -
+97,Net Change In Cash,-378061,-2935589,-145523,17084461,-2110335,-1542725
+98,Cash at the End of Period,5045589,2110000,1964477,20988081,18877746,17335021
+99,Cash at the Beginning of Period,5423650,5045589,2110000,3903620,20988081,18877746
+100,Free Cash Flow,1221017,3740619,-2122285,-13352352,-1256780,2380372
+101,SEC Link,- -,- -,- -,https://www.sec.gov/Archives/edgar/data/1752039/000156459020025440/pphi-10k_20191231.htm,- -,- -
+102,false,,,,,,

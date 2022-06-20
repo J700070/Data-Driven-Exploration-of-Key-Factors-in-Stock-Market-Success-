@@ -1,0 +1,104 @@
+,https://roic.ai/company/VENAU,2018,2019,2020,2021
+0,INCOME STATEMENT, , , , 
+1,Revenue,- -,- -,- -,- -
+2,COGS,- -,- -,- -,- -
+3,Gross Profit,- -,- -,- -,- -
+4,Gross Profit Ratio,- -,- -,- -,- -
+5,Research and Development Exp.,- -,- -,- -,- -
+6,General and Administrative Exp.,- -,4975,- -,785096
+7,Selling and Marketing Exp.,- -,- -,- -,- -
+8,"Selling, General and Administrative Exp.",- -,4975,117787,785096
+9,Other Expenses,- -,- -,- -,- -
+10,Operating Expenses,- -,- -,- -,785096
+11,COGS and Expenses,- -,4975,- -,- -
+12,Interest Income ,- -,- -,- -,2683
+13,Interest Expense (Gain),- -,- -,- -,- -
+14,Depreciation and Amortization,- -,- -,- -,- -
+15,EBITDA,- -,-4975,-117787,- -
+16,EBITDA ratio,- -,-Infinity,-Infinity,- -
+17,Operating Income,- -,- -,- -,- -
+18,Operating Income ratio,- -,- -,- -,- -
+19,Total Other Income Expenses (Gains),- -,- -,- -,- -
+20,Income Before Tax,- -,-4975,-117787,-812413
+21,Income Before Tax Ratio,- -,-Infinity,-Infinity,-Infinity
+22,Income Tax expense (Gain),- -,- -,- -,- -
+23,Net Income,- -,-4975,-117787,-812413
+24,Net Income ratio,- -,-Infinity,-Infinity,-Infinity
+25,EPS,- -,- -,- -,-0.20
+26,EPS Diluted,- -,- -,- -,-0.20
+27,Weighted Average Shares Outstanding,- -,- -,- -,- -
+28,Weighted Average Shares Outstanding Diluted,- -,- -,- -,- -
+29,SEC Link,undefined,- -,https://www.sec.gov/Archives/edgar/data/1800392/000110465921043422/0001104659-21-043422-index.htm,https://www.sec.gov/Archives/edgar/data/1800392/000182912622006763/0001829126-22-006763-index.htm
+30,BALANCE SHEET, , , , 
+31,Cash and Cash Equivalents,- -,428307,239,32
+32,Short-Term Investments,- -,- -,- -,- -
+33,Cash and Short-Term Investments,- -,428307,239,32
+34,Net Receivables,- -,- -,- -,- -
+35,Inventory,- -,- -,- -,- -
+36,Other Current Assets,- -,- -,- -,17
+37,Total Current Assets,- -,428307,239,49
+38,PP&E,- -,- -,- -,- -
+39,Goodwill,- -,- -,- -,- -
+40,Intangible Assets,- -,- -,- -,- -
+41,Intangible Assets,- -,- -,- -,- -
+42,Investments,- -,- -,- -,46469
+43,Tax Assets,- -,- -,- -,- -
+44,Other Non-Current Assets,- -,69603,- -,0
+45,Total Non-Current Assets,- -,69603,- -,46469
+46,Other Assets,- -,- -,191304,- -
+47,Total Assets,- -,497910,191543,46518
+48,Accounts Payable,- -,- -,- -,- -
+49,Short-Term Debt,- -,450000,228483,- -
+50,Tax Payable,- -,- -,- -,- -
+51,Deferred Revenue,- -,- -,- -,- -
+52,Other Current Liabilities,5900,33785,66722,467
+53,Total Current Liabilities,5900,483785,295205,467
+54,Long-Term Debt,- -,- -,- -,- -
+55,Deferred Revenue,- -,- -,- -,- -
+56,Deferred Tax Liabilities,- -,- -,- -,- -
+57,Other Non-Current Liabilities,- -,- -,- -,1560
+58,Total Non-Current Liabilities,- -,- -,- -,1560
+59,Other Liabilities,- -,- -,- -,- -
+60,Capital Lease Obligations,- -,- -,- -,- -
+61,Total Liabilities,5900,483785,295205,2027
+62,Preferred Stock,- -,- -,- -,- -
+63,Common Stock,- -,1150,- -,- -
+64,Retained Earnings,-5900,-10875,- -,-1979
+65,Other Comprehensive Income/Loss,- -,- -,- -,- -
+66,Other Total Stockholders Equity,- -,23850,- -,1
+67,Total Stockholders Equity,-5900,14125,-103662,-1978
+68,Total Liabilities And Stockholders Equity,- -,497910,191543,49
+69,Minority Interest,- -,- -,- -,46469
+70,Total Liabilities & Equity,- -,497910,191543,46518
+71,SEC Link,- -,- -,https://www.sec.gov/Archives/edgar/data/1800392/000110465921043422/0001104659-21-043422-index.htm,https://www.sec.gov/Archives/edgar/data/1800392/000182912622006763/0001829126-22-006763-index.htm
+72,CASH FLOW STATEMENT, , , , 
+73,Net Income,- -,-4975,-117787,-812413
+74,Depreciation and Amortization,- -,- -,- -,- -
+75,Deferred Income Tax,- -,- -,- -,- -
+76,Stock Based Compensation,- -,- -,- -,1150000
+77,Change in Working Capital,- -,- -,-239488,294548
+78,Accounts Receivable,- -,- -,- -,- -
+79,Inventory,- -,- -,- -,- -
+80,Accounts Payable,- -,- -,- -,- -
+81,Other Working Capital,- -,-55478,-294966,-418
+82,Other Non-Cash Items,- -,- -,279460,-632135
+83,Cash Provided by Operating Activities,- -,-4975,-77815,- -
+84,CAPEX,- -,- -,- -,- -
+85,Acquisitions Net,- -,- -,- -,- -
+86,Purchases of Investments,- -,- -,- -,- -
+87,Sales/Maturities of Investments,- -,- -,- -,- -
+88,Other Investing Activites,- -,-3248,-55,-46463419
+89,Cash Used for Investing Activites,- -,-3248,-55,-46463419
+90,Debt Repayment,- -,- -,-300000,- -
+91,Common Stock Issued,- -,25000,- -,- -
+92,Common Stock Repurchased,- -,- -,- -,- -
+93,Dividends Paid,- -,- -,- -,- -
+94,Other Financing Activites,- -,411530,-50198,47243497
+95,Cash Used/Provided by Financing Activities,- -,436530,-350198,47243497
+96,Effect of Forex Changes on Cash,- -,- -,- -,- -
+97,Net Change In Cash,- -,- -,-428068,31851
+98,Cash at the End of Period,- -,428307,239,32090
+99,Cash at the Beginning of Period,- -,- -,428307,239
+100,Free Cash Flow,- -,-4975,-77815,- -
+101,SEC Link,undefined,- -,https://www.sec.gov/Archives/edgar/data/1800392/000110465921043422/0001104659-21-043422-index.htm,https://www.sec.gov/Archives/edgar/data/1800392/000182912622006763/0001829126-22-006763-index.htm
+102,false,,,,

@@ -1,0 +1,104 @@
+,https://roic.ai/company/LBPH,2020,2021
+0,INCOME STATEMENT, , 
+1,Revenue,- -,- -
+2,COGS,- -,- -
+3,Gross Profit,- -,- -
+4,Gross Profit Ratio,- -,- -
+5,Research and Development Exp.,4633000,19774000
+6,General and Administrative Exp.,9767000,8065000
+7,Selling and Marketing Exp.,- -,- -
+8,"Selling, General and Administrative Exp.",9767000,8065000
+9,Other Expenses,- -,- -
+10,Operating Expenses,14400000,27839000
+11,COGS and Expenses,14400000,- -
+12,Interest Income ,- -,- -
+13,Interest Expense (Gain),- -,- -
+14,Depreciation and Amortization,- -,1000
+15,EBITDA,-14400000,-27838000
+16,EBITDA ratio,-Infinity,-Infinity
+17,Operating Income,-14400000,-27839000
+18,Operating Income ratio,-Infinity,-Infinity
+19,Total Other Income Expenses (Gains),- -,42000
+20,Income Before Tax,-14400000,-27797000
+21,Income Before Tax Ratio,-Infinity,-Infinity
+22,Income Tax expense (Gain),- -,- -
+23,Net Income,-14400000,-27797000
+24,Net Income ratio,-Infinity,-Infinity
+25,EPS,-0.85,-1.65
+26,EPS Diluted,-0.85,-1.65
+27,Weighted Average Shares Outstanding,16916990,16866900
+28,Weighted Average Shares Outstanding Diluted,16916990,16866900
+29,SEC Link,- -,https://www.sec.gov/Archives/edgar/data/1832168/000095017022002818/0000950170-22-002818-index.htm
+30,BALANCE SHEET, , 
+31,Cash and Cash Equivalents,55316000,66346000
+32,Short-Term Investments,- -,40379000
+33,Cash and Short-Term Investments,55316000,106725000
+34,Net Receivables,- -,- -
+35,Inventory,- -,- -
+36,Other Current Assets,46000,1659000
+37,Total Current Assets,55362000,108384000
+38,PP&E,- -,535000
+39,Goodwill,- -,- -
+40,Intangible Assets,- -,- -
+41,Intangible Assets,- -,- -
+42,Investments,- -,- -
+43,Tax Assets,- -,- -
+44,Other Non-Current Assets,876000,33000
+45,Total Non-Current Assets,876000,568000
+46,Other Assets,- -,- -
+47,Total Assets,56238000,108952000
+48,Accounts Payable,1213000,1028000
+49,Short-Term Debt,- -,- -
+50,Tax Payable,- -,- -
+51,Deferred Revenue,- -,- -
+52,Other Current Liabilities,1922000,4416000
+53,Total Current Liabilities,3135000,5444000
+54,Long-Term Debt,- -,- -
+55,Deferred Revenue,- -,- -
+56,Deferred Tax Liabilities,- -,- -
+57,Other Non-Current Liabilities,- -,185000
+58,Total Non-Current Liabilities,- -,185000
+59,Other Liabilities,- -,- -
+60,Capital Lease Obligations,- -,- -
+61,Total Liabilities,3135000,5629000
+62,Preferred Stock,55795000,- -
+63,Common Stock,- -,1000
+64,Retained Earnings,-14400000,-42197000
+65,Other Comprehensive Income/Loss,- -,-164000
+66,Other Total Stockholders Equity,67503000,145683000
+67,Total Stockholders Equity,53103000,103323000
+68,Total Liabilities And Stockholders Equity,56238000,108952000
+69,Minority Interest,- -,- -
+70,Total Liabilities & Equity,56238000,108952000
+71,SEC Link,- -,https://www.sec.gov/Archives/edgar/data/1832168/000095017022002818/0000950170-22-002818-index.htm
+72,CASH FLOW STATEMENT, , 
+73,Net Income,-14400000,-27797000
+74,Depreciation and Amortization,- -,1000
+75,Deferred Income Tax,- -,- -
+76,Stock Based Compensation,8508000,1967000
+77,Change in Working Capital,2450000,50713000
+78,Accounts Receivable,- -,- -
+79,Inventory,- -,- -
+80,Accounts Payable,1213000,-185000
+81,Other Working Capital,52227000,102940000
+82,Other Non-Cash Items,- -,-49589000
+83,Cash Provided by Operating Activities,-3442000,-24705000
+84,CAPEX,- -,-16000
+85,Acquisitions Net,- -,- -
+86,Purchases of Investments,- -,-40700000
+87,Sales/Maturities of Investments,- -,- -
+88,Other Investing Activites,- -,- -
+89,Cash Used for Investing Activites,- -,-40716000
+90,Debt Repayment,- -,- -
+91,Common Stock Issued,- -,55794000
+92,Common Stock Repurchased,- -,- -
+93,Dividends Paid,- -,- -
+94,Other Financing Activites,58758000,20657000
+95,Cash Used/Provided by Financing Activities,58758000,76451000
+96,Effect of Forex Changes on Cash,- -,- -
+97,Net Change In Cash,- -,11030000
+98,Cash at the End of Period,55316000,66346000
+99,Cash at the Beginning of Period,- -,55316000
+100,Free Cash Flow,-3442000,-24721000
+101,SEC Link,- -,https://www.sec.gov/Archives/edgar/data/1832168/000095017022002818/0000950170-22-002818-index.htm
+102,false,,

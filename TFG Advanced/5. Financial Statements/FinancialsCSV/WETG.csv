@@ -1,0 +1,104 @@
+,https://roic.ai/company/WETG,2019,2020
+0,INCOME STATEMENT, , 
+1,Revenue,- -,6271564
+2,COGS,- -,615595
+3,Gross Profit,- -,5655969
+4,Gross Profit Ratio,- -,0.9018
+5,Research and Development Exp.,- -,- -
+6,General and Administrative Exp.,417410,1901336
+7,Selling and Marketing Exp.,- -,- -
+8,"Selling, General and Administrative Exp.",417410,1901336
+9,Other Expenses,- -,- -
+10,Operating Expenses,417410,1901336
+11,COGS and Expenses,417410,2516931
+12,Interest Income ,- -,- -
+13,Interest Expense (Gain),- -,- -
+14,Depreciation and Amortization,- -,11696
+15,EBITDA,-417410,3849289
+16,EBITDA ratio,-Infinity,0.6138
+17,Operating Income,-417410,3754633
+18,Operating Income ratio,-Infinity,0.5987
+19,Total Other Income Expenses (Gains),- -,82960
+20,Income Before Tax,-417410,3837593
+21,Income Before Tax Ratio,-Infinity,0.6119
+22,Income Tax expense (Gain),- -,1162556
+23,Net Income,-417410,2675037
+24,Net Income ratio,-Infinity,0.4265
+25,EPS,-0.00,0.01
+26,EPS Diluted,-0.00,0.01
+27,Weighted Average Shares Outstanding,300077000,304166073
+28,Weighted Average Shares Outstanding Diluted,300077000,304166073
+29,SEC Link,https://www.sec.gov/Archives/edgar/data/1784970/000147793220001116/0001477932-20-001116-index.html,https://www.sec.gov/Archives/edgar/data/1784970/000147793221001894/0001477932-21-001894-index.htm
+30,BALANCE SHEET, , 
+31,Cash and Cash Equivalents,6591128,4640603
+32,Short-Term Investments,- -,- -
+33,Cash and Short-Term Investments,6591128,4640603
+34,Net Receivables,- -,5709954
+35,Inventory,- -,- -
+36,Other Current Assets,- -,329935
+37,Total Current Assets,6591128,10680492
+38,PP&E,- -,2813186
+39,Goodwill,- -,- -
+40,Intangible Assets,- -,49029
+41,Intangible Assets,- -,49029
+42,Investments,- -,- -
+43,Tax Assets,- -,- -
+44,Other Non-Current Assets,- -,- -
+45,Total Non-Current Assets,- -,2862215
+46,Other Assets,- -,- -
+47,Total Assets,6591128,13542707
+48,Accounts Payable,- -,8176
+49,Short-Term Debt,- -,709865
+50,Tax Payable,- -,828695
+51,Deferred Revenue,- -,- -
+52,Other Current Liabilities,1786515,1459183
+53,Total Current Liabilities,1786515,2177224
+54,Long-Term Debt,- -,2471598
+55,Deferred Revenue,- -,- -
+56,Deferred Tax Liabilities,- -,- -
+57,Other Non-Current Liabilities,- -,- -
+58,Total Non-Current Liabilities,- -,2471598
+59,Other Liabilities,- -,- -
+60,Capital Lease Obligations,- -,3041463
+61,Total Liabilities,1786515,4648822
+62,Preferred Stock,- -,- -
+63,Common Stock,- -,- -
+64,Retained Earnings,-417407,2257630
+65,Other Comprehensive Income/Loss,- -,578735
+66,Other Total Stockholders Equity,- -,- -
+67,Total Stockholders Equity,4804613,8893885
+68,Total Liabilities And Stockholders Equity,6591128,13542707
+69,Minority Interest,- -,- -
+70,Total Liabilities & Equity,6591128,13542707
+71,SEC Link,https://www.sec.gov/Archives/edgar/data/1784970/000147793220001116/0001477932-20-001116-index.html,https://www.sec.gov/Archives/edgar/data/1784970/000147793221001894/0001477932-21-001894-index.htm
+72,CASH FLOW STATEMENT, , 
+73,Net Income,-417410,2675037
+74,Depreciation and Amortization,- -,11696
+75,Deferred Income Tax,- -,- -
+76,Stock Based Compensation,- -,- -
+77,Change in Working Capital,286520,-1524396
+78,Accounts Receivable,- -,-2489993
+79,Inventory,- -,- -
+80,Accounts Payable,- -,7802
+81,Other Working Capital,4804610,-2742810
+82,Other Non-Cash Items,- -,- -
+83,Cash Provided by Operating Activities,-130890,1162337
+84,CAPEX,- -,- -
+85,Acquisitions Net,- -,- -
+86,Purchases of Investments,- -,- -
+87,Sales/Maturities of Investments,- -,- -
+88,Other Investing Activites,6591128,- -
+89,Cash Used for Investing Activites,- -,- -
+90,Debt Repayment,- -,- -
+91,Common Stock Issued,- -,835500
+92,Common Stock Repurchased,5222020,- -
+93,Dividends Paid,- -,- -
+94,Other Financing Activites,1500000,-4517642
+95,Cash Used/Provided by Financing Activities,6722020,-3682142
+96,Effect of Forex Changes on Cash,- -,569280
+97,Net Change In Cash,6591130,-1950525
+98,Cash at the End of Period,6591130,4640603
+99,Cash at the Beginning of Period,- -,6591128
+100,Free Cash Flow,-130890,1162337
+101,SEC Link,https://www.sec.gov/Archives/edgar/data/1784970/000147793220001116/0001477932-20-001116-index.html,https://www.sec.gov/Archives/edgar/data/1784970/000147793221001894/0001477932-21-001894-index.htm
+102,false,,

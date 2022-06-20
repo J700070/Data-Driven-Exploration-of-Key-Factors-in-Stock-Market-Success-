@@ -1,0 +1,104 @@
+,https://roic.ai/company/GSAQ,2020,2021
+0,INCOME STATEMENT, , 
+1,Revenue,- -,- -
+2,COGS,- -,- -
+3,Gross Profit,- -,- -
+4,Gross Profit Ratio,- -,- -
+5,Research and Development Exp.,- -,- -
+6,General and Administrative Exp.,44780,1206197
+7,Selling and Marketing Exp.,- -,- -
+8,"Selling, General and Administrative Exp.",44780,1206197
+9,Other Expenses,- -,- -
+10,Operating Expenses,44780,1206197
+11,COGS and Expenses,- -,- -
+12,Interest Income ,- -,- -
+13,Interest Expense (Gain),- -,- -
+14,Depreciation and Amortization,- -,- -
+15,EBITDA,- -,-1206197
+16,EBITDA ratio,- -,-Infinity
+17,Operating Income,-44780,-1206197
+18,Operating Income ratio,-Infinity,-Infinity
+19,Total Other Income Expenses (Gains),- -,9567347
+20,Income Before Tax,-44780,8361150
+21,Income Before Tax Ratio,-Infinity,Infinity
+22,Income Tax expense (Gain),- -,- -
+23,Net Income,-44780,8361150
+24,Net Income ratio,-Infinity,Infinity
+25,EPS,-0.00,0.26
+26,EPS Diluted,-0.00,0.26
+27,Weighted Average Shares Outstanding,32343797,32343797
+28,Weighted Average Shares Outstanding Diluted,32343797,32343797
+29,SEC Link,https://www.sec.gov/Archives/edgar/data/1823707/000121390021018720/0001213900-21-018720-index.htm,https://www.sec.gov/Archives/edgar/data/1823707/000121390022016690/0001213900-22-016690-index.htm
+30,BALANCE SHEET, , 
+31,Cash and Cash Equivalents,154233,862
+32,Short-Term Investments,- -,- -
+33,Cash and Short-Term Investments,154233,862
+34,Net Receivables,- -,- -
+35,Inventory,- -,- -
+36,Other Current Assets,- -,254
+37,Total Current Assets,154233,1116
+38,PP&E,- -,- -
+39,Goodwill,- -,- -
+40,Intangible Assets,- -,- -
+41,Intangible Assets,- -,- -
+42,Investments,- -,258807
+43,Tax Assets,- -,- -
+44,Other Non-Current Assets,449898,- -
+45,Total Non-Current Assets,449898,258807
+46,Other Assets,- -,- -
+47,Total Assets,604131,259923
+48,Accounts Payable,14631,4
+49,Short-Term Debt,300000,- -
+50,Tax Payable,- -,- -
+51,Deferred Revenue,- -,- -
+52,Other Current Liabilities,309280,518
+53,Total Current Liabilities,623911,522
+54,Long-Term Debt,- -,- -
+55,Deferred Revenue,- -,- -
+56,Deferred Tax Liabilities,- -,- -
+57,Other Non-Current Liabilities,-19780,19325
+58,Total Non-Current Liabilities,-19780,19325
+59,Other Liabilities,- -,- -
+60,Capital Lease Obligations,- -,- -
+61,Total Liabilities,604131,19847
+62,Preferred Stock,- -,- -
+63,Common Stock,- -,- -
+64,Retained Earnings,- -,-18675
+65,Other Comprehensive Income/Loss,- -,- -
+66,Other Total Stockholders Equity,- -,1
+67,Total Stockholders Equity,-19780,-18674
+68,Total Liabilities And Stockholders Equity,584351,1173
+69,Minority Interest,19780,258750
+70,Total Liabilities & Equity,604131,259923
+71,SEC Link,https://www.sec.gov/Archives/edgar/data/1823707/000121390021018720/0001213900-21-018720-index.htm,https://www.sec.gov/Archives/edgar/data/1823707/000121390022016690/0001213900-22-016690-index.htm
+72,CASH FLOW STATEMENT, , 
+73,Net Income,- -,8361150
+74,Depreciation and Amortization,- -,- -
+75,Deferred Income Tax,- -,- -
+76,Stock Based Compensation,- -,- -
+77,Change in Working Capital,- -,- -
+78,Accounts Receivable,- -,- -
+79,Inventory,- -,- -
+80,Accounts Payable,- -,-7096
+81,Other Working Capital,- -,594
+82,Other Non-Cash Items,- -,-9390565
+83,Cash Provided by Operating Activities,- -,-1029415
+84,CAPEX,- -,- -
+85,Acquisitions Net,- -,- -
+86,Purchases of Investments,- -,- -
+87,Sales/Maturities of Investments,- -,- -
+88,Other Investing Activites,- -,-258750000
+89,Cash Used for Investing Activites,- -,-258750000
+90,Debt Repayment,- -,- -
+91,Common Stock Issued,- -,- -
+92,Common Stock Repurchased,- -,- -
+93,Dividends Paid,- -,- -
+94,Other Financing Activites,- -,260486958
+95,Cash Used/Provided by Financing Activities,- -,260486958
+96,Effect of Forex Changes on Cash,- -,- -
+97,Net Change In Cash,- -,707543
+98,Cash at the End of Period,- -,861776
+99,Cash at the Beginning of Period,- -,- -
+100,Free Cash Flow,- -,-1029415
+101,SEC Link,undefined,https://www.sec.gov/Archives/edgar/data/1823707/000121390022016690/0001213900-22-016690-index.htm
+102,false,,
